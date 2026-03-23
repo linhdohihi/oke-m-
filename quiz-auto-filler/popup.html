@@ -24,16 +24,16 @@
     }
     button {
       width: 100%;
-      padding: 10px;
+      padding: 11px;
       background: #667eea;
       color: white;
       border: none;
       border-radius: 5px;
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13px;
       font-weight: bold;
       transition: background 0.3s;
-      margin-bottom: 10px;
+      margin-bottom: 8px;
     }
     button:hover {
       background: #764ba2;
@@ -79,12 +79,14 @@
 <body>
   <div class="container">
     <h2>📋 Quiz Auto Filler</h2>
-    <button id="fillBtn">🎯 Tự động điền trang hiện tại</button>
+    <button id="fillBtn">🎯 Tự động điền 1 trang (5 câu)</button>
     <button id="fillAllBtn">⚡ Tự động điền toàn bộ (60 câu)</button>
     <button id="clearBtn">🔄 Xóa tất cả lựa chọn</button>
     <button id="cancelBtn" style="display:none; background: #dc3545;">⛔ Dừng lại</button>
-    <div id="progressBar" style="display:none; margin-top:10px; background:#e9ecef; border-radius:5px; overflow:hidden;">
-      <div id="progress" style="height:20px; background:#28a745; width:0%; transition:width 0.3s; text-align:center; color:white; font-size:12px; font-weight:bold;">0%</div>
+    <div id="progressBar" style="display:none; margin-top:10px;">
+      <div style="background:#e9ecef; border-radius:5px; overflow:hidden;">
+        <div id="progress" style="height:24px; background:linear-gradient(90deg, #28a745, #20c997); width:0%; transition:width 0.3s; text-align:center; color:white; font-size:12px; font-weight:bold; line-height:24px;">0%</div>
+      </div>
     </div>
     <div id="status"></div>
     <div class="stats" id="stats"></div>
