@@ -24,26 +24,8 @@ document.getElementById('fillBtn').addEventListener('click', () => {
 });
 
 document.getElementById('fillAllBtn').addEventListener('click', () => {
-  isif (!tabs[0]) {
-      showStatus({ type: 'error', message: '✗ Không tìm thấy tab', stats: { filled: 0, notFound: 0 } });
-      resetUI();
-      return;
-    }
-    chrome.tabs.sendMessage(tabs[0].id, {action: 'fillAllPages'}, (response) => {
-      if (chrome.runtime.lastError) {
-        showStatus({ type: 'error', message: '✗ Content script chưa tải. Refresh trang và thử lại.', stats: { filled: 0, notFound: 0 } });
-        resetUI();
-    if (!tabs[0]) {
-      showStatus({ type: 'error', message: '✗ Không tìm thấy tab', stats: { filled: 0, notFound: 0 } });
-      return;
-    }
-    chrome.tabs.sendMessage(tabs[0].id, {action: 'clearAnswers'}, (response) => {
-      if (chrome.runtime.lastError) {
-        showStatus({ type: 'error', message: '✗ Content script chưa tải. Refresh trang và thử lại.', stats: { filled: 0, notFound: 0 } });
-        return;
-      }
-      showStatus(response || { type: 'error', message: '✗ Không nhận được response', stats: { filled: 0, notFound: 0 } }
-      showStatus(response || { type: 'error', message: '✗ Không nhận được response', stats: { filled: 0, notFound: 0 } }('fillBtn').style.display = 'none';
+  isFilling = true;
+  document.getElementById('fillBtn').style.display = 'none';
   document.getElementById('fillAllBtn').style.display = 'none';
   document.getElementById('clearBtn').style.display = 'none';
   document.getElementById('cancelBtn').style.display = 'block';
@@ -55,9 +37,55 @@ document.getElementById('fillAllBtn').addEventListener('click', () => {
       resetUI();
       return;
     }
+    chrome.tabs.sendMessage(tabs[0].id, {action: 'fillAllPages'}, (response) => {
+      if (chrome.runtime.lastError) {
+        showStatus({ type: 'error', message: '✗ Content script chưa tải. Refresh trang và thử lại.', stats: { filled: 0, notFound: 0 } });
+        resetUI();
+        return;
+      }
+      showStatus(response || { type: 'error', message: '✗ Không nhận được response', stats: { filled: 0, notFound: 0 } });
+      resetUI();
+    });
+  });
+});
+
+document.getElementById('clearBtn').addEventListener('click', () => {
+  chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
+    if (!tabs[0]) {
+      showStatus({ type: 'error', message: '✗ Không tìm thấy tab', stats: { filled: 0, notFound: 0 } });
+      return;
+    }
+    chrome.tabs.sendMessage(tabs[0].id, {action: 'clearAnswers'}, (response) => {
+      if (chrome.runtime.lastError) {
+        showStatus({ type: 'error', message: '✗ Content script chưa tải. Refresh trang và thử lại.', stats: { filled: 0, notFound: 0 } });
+        return;
+      }
+      showStatus(response || { type: 'error', message: '✗ Không nhận được response', stats: { filled: 0, notFound: 0 } });
+    });
+  });
+});
+
+document.getElementById('cancelBtn').addEventListener('click', () => {
+  isFilling = false;
+  chrome.tabs.query({active: true, currentWindow: true}, (tabs) => {
+    if (!tabs[0]) {
+      showStatus({ type: 'error', message: '✗ Không tìm thấy tab', stats: { filled: 0, notFound: 0 } });
+      resetUI();
+      return;
+    }
     chrome.tabs.sendMessage(tabs[0].id, {action: 'cancelFilling'}, (response) => {
       if (chrome.runtime.lastError) {
         showStatus({ type: 'error', message: '✗ Content script chưa tải.', stats: { filled: 0, notFound: 0 } });
+        resetUI();
+        return;
+      }
+      showStatus(response || { type: 'error', message: '✗ Không nhận được response', stats: { filled: 0, notFound: 0 } });
+      resetUI();
+    });
+  });
+});
+
+function showStatus(response) {
   try {
     if (!response) return;
     
@@ -87,35 +115,7 @@ document.getElementById('fillAllBtn').addEventListener('click', () => {
       }, 3000);
     }
   } catch (error) {
-    console.error('Error in showStatus:', errorbs.query({active: true, currentWindow: true}, (tabs) => {
-    chrome.tabs.sendMessage(tabs[0].id, {action: 'cancelFilling'}, (response) => {
-      showStatus(response);
-      resetUI();
-    });
-  });
-});
-
-function showStatus(response) {
-  const statusEl = document.getElementById('status');
-  const statsEl = document.getElementById('stats');
-  
-  statusEl.textContent = response.message;
-  statusEl.className = response.type;
-  
-  if (response.stats) {
-    statsEl.textContent = `✓ Điền: ${response.stats.filled} | ✗ Không tìm: ${response.stats.notFound}`;
-  }
-  
-  if (response.progress !== undefined) {
-    const progressEl = document.getElementById('progress');
-    progressEl.style.width = response.progress + '%';
-    progressEl.textContent = response.progress + '%';
-  }
-  
-  if (response.type !== 'success' && response.type !== 'info') {
-    setTimeout(() => {
-      statusEl.className = '';
-    }, 3000);
+    console.error('Error in showStatus:', error);
   }
 }
 
