@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Quiz Auto Filler - NEU LMS",
+  "version": "1.0.0",
+  "description": "Tự động điền đáp án quiz trên LMS NEU",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://lms.neu.edu.vn/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Quiz Auto Filler"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://lms.neu.edu.vn/mod/quiz/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
