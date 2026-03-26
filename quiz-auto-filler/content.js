@@ -1,6 +1,6 @@
 // Import dữ liệu Q&A
 const qaData = {
-    "Tại sao bản đồ khái niệm được xem là công cụ mô hình hóa tri thức phù hợp?": "Vì nó cho phép diễn tả khái niệm theo cách trực quan, linh hoạt và gắn kết.",
+    "Thời gian xem tivi trong tuần của người Việt Nam tuân theo quy luật phân phối Chuẩn với trung bình là 16 giờ, độ lệch chuẩn là 4 giờ. Chọn ngẫu nhiên một người để hỏi, tính xác suất để thời gian xem tivi của người này nằm trong khoảng 15 giờ đến 18 giờ mỗi tuần?": "0.2902",
     "Tại sao bản đồ khái niệm được xem là công cụ lý tưởng để chia sẻ tri thức chuyên gia?": "Vì nó loại bỏ yếu tố ngữ cảnh và chuẩn hóa mọi tri thức.",
     "Vai trò của phần mềm CmapTools trong quá trình nắm bắt tri thức là gì?": "Hỗ trợ thu nhận, tổ chức và trình bày tri thức chuyên gia dưới dạng mô hình trực quan.",
     "Một đặc điểm giúp CITKA nổi bật so với phương pháp phỏng vấn truyền thống là gì?": "Có khả năng tạo ra cơ sở ngữ cảnh hoàn chỉnh từ các truy vấn tự động.",
@@ -110,7 +110,7 @@ async function findBestAnswer(questionText) {
 
 // Hàm gọi API DeepSeek
 async function callDeepSeekAPI(question) {
-  const API_KEY = 'YOUR_DEEPSEEK_API_KEY'; // Thay bằng API key thực tế
+  const API_KEY = 'sk-c99bcd796b2c4240bd2b1061d44c3dde'; // Thay bằng API key thực tế
   const API_URL = 'https://api.deepseek.com/v1/chat/completions';
   
   try {
