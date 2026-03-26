@@ -8,7 +8,8 @@
     "activeTab"
   ],
   "host_permissions": [
-    "https://lms.neu.edu.vn/*"
+    "https://lms.neu.edu.vn/*",
+    "https://api.deepseek.com/*"
   ],
   "action": {
     "default_popup": "popup.html",

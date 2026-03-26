@@ -78,7 +78,7 @@ function extractQuestions() {
 }
 
 // Hàm tìm kiếm đáp án gần nhất (fuzzy matching)
-function findBestAnswer(questionText) {
+async function findBestAnswer(questionText) {
   let bestMatch = null;
   let bestScore = 0;
   
@@ -86,11 +86,63 @@ function findBestAnswer(questionText) {
     const score = calculateSimilarity(questionText, q);
     if (score > bestScore) {
       bestScore = score;
-      bestMatch = a;
+      bestMatch = { answer: a, isFromAPI: false };
     }
   }
   
-  return bestScore > 0.5 ? bestMatch : null;
+  if (bestScore > 0.5) {
+    return bestMatch;
+  }
+  
+  // Nếu không tìm thấy trong data, gọi API DeepSeek
+  console.log(`🔍 Không tìm thấy trong data, gọi API DeepSeek cho: ${questionText}`);
+  try {
+    const apiAnswer = await callDeepSeekAPI(questionText);
+    if (apiAnswer) {
+      return { answer: apiAnswer, isFromAPI: true };
+    }
+  } catch (error) {
+    console.error('✗ Lỗi gọi API DeepSeek:', error);
+  }
+  
+  return null;
+}
+
+// Hàm gọi API DeepSeek
+async function callDeepSeekAPI(question) {
+  const API_KEY = 'YOUR_DEEPSEEK_API_KEY'; // Thay bằng API key thực tế
+  const API_URL = 'https://api.deepseek.com/v1/chat/completions';
+  
+  try {
+    const response = await fetch(API_URL, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'Authorization': `Bearer ${API_KEY}`
+      },
+      body: JSON.stringify({
+        model: 'deepseek-chat',
+        messages: [
+          {
+            role: 'user',
+            content: `Đây là câu hỏi trắc nghiệm: "${question}". Hãy trả lời ngắn gọn, chỉ nội dung đáp án chính xác.`
+          }
+        ],
+        max_tokens: 100
+      })
+    });
+    
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+    
+    const data = await response.json();
+    const answer = data.choices[0]?.message?.content?.trim();
+    return answer;
+  } catch (error) {
+    console.error('Lỗi gọi API:', error);
+    return null;
+  }
 }
 
 // Hàm tính độ tương đồng giữa hai chuỗi
@@ -136,16 +188,17 @@ function findAnswerIndex(container, answerText) {
 }
 
 // Hàm điền đáp án
-function fillAnswers() {
+async function fillAnswers() {
   const questions = extractQuestions();
   let filled = 0;
   let notFound = 0;
+  let fromAPI = 0;
   
-  questions.forEach((q) => {
-    const answer = findBestAnswer(q.text);
+  for (const q of questions) {
+    const result = await findBestAnswer(q.text);
     
-    if (answer) {
-      const answerIndex = findAnswerIndex(q.container, answer);
+    if (result) {
+      const answerIndex = findAnswerIndex(q.container, result.answer);
       
       if (answerIndex !== -1) {
         // Tìm radio button tương ứng
@@ -154,7 +207,12 @@ function fillAnswers() {
           radioButtons[answerIndex].click();
           radioButtons[answerIndex].checked = true;
           filled++;
-          console.log(`✓ Đã điền câu ${q.index + 1}: ${q.text.substring(0, 50)}...`);
+          if (result.isFromAPI) {
+            fromAPI++;
+            console.log(`✓ Đã điền từ API câu ${q.index + 1}: ${q.text.substring(0, 50)}...`);
+          } else {
+            console.log(`✓ Đã điền câu ${q.index + 1}: ${q.text.substring(0, 50)}...`);
+          }
         }
       } else {
         notFound++;
@@ -164,12 +222,12 @@ function fillAnswers() {
       notFound++;
       console.log(`✗ Không tìm được câu hỏi: ${q.text}`);
     }
-  });
+  }
   
   return {
     type: 'success',
-    message: `✓ Hoàn thành! Đã điền ${filled} câu`,
-    stats: { filled, notFound }
+    message: `✓ Hoàn thành! Đã điền ${filled} câu (${fromAPI} từ API)`,
+    stats: { filled, notFound, fromAPI }
   };
 }
 
@@ -232,6 +290,7 @@ async function fillAllPages() {
   shouldContinueFilling = true;
   let totalFilled = 0;
   let totalNotFound = 0;
+  let totalFromAPI = 0;
   let currentPage = 1;
   const maxPages = 12; // 60 câu / 5 câu = 12 trang
   
@@ -240,9 +299,10 @@ async function fillAllPages() {
       console.log(`\n📄 Đang xử lý trang ${currentPage}/${maxPages}...`);
       
       // Điền đáp án trang hiện tại
-      const result = fillAnswers();
+      const result = await fillAnswers();
       totalFilled += result.stats.filled;
       totalNotFound += result.stats.notFound;
+      totalFromAPI += result.stats.fromAPI || 0;
       
       // Tính tiến độ
       const progress = Math.floor((currentPage / maxPages) * 100);
@@ -252,7 +312,7 @@ async function fillAllPages() {
         type: 'progress',
         progress: progress,
         message: `Đã xử lý ${currentPage}/${maxPages} trang`,
-        stats: { filled: totalFilled, notFound: totalNotFound }
+        stats: { filled: totalFilled, notFound: totalNotFound, fromAPI: totalFromAPI }
       }).catch(() => {});
       
       // Nếu không phải trang cuối cùng, chuyển sang trang tiếp
@@ -275,8 +335,8 @@ async function fillAllPages() {
     
     return {
       type: 'success',
-      message: `✓ Hoàn thành! Tổng cộng điền ${totalFilled} câu (${currentPage}/${maxPages} trang)`,
-      stats: { filled: totalFilled, notFound: totalNotFound },
+      message: `✓ Hoàn thành! Tổng cộng điền ${totalFilled} câu (${totalFromAPI} từ API, ${currentPage}/${maxPages} trang)`,
+      stats: { filled: totalFilled, notFound: totalNotFound, fromAPI: totalFromAPI },
       progress: 100
     };
   } catch (error) {
@@ -284,7 +344,7 @@ async function fillAllPages() {
     return {
       type: 'error',
       message: `✗ Có lỗi xảy ra: ${error.message}`,
-      stats: { filled: totalFilled, notFound: totalNotFound },
+      stats: { filled: totalFilled, notFound: totalNotFound, fromAPI: totalFromAPI },
       progress: Math.floor((currentPage / maxPages) * 100)
     };
   }

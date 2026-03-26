@@ -98,7 +98,11 @@ function showStatus(response) {
     statusEl.className = response.type || 'error';
     
     if (response.stats && response.stats.filled !== undefined) {
-      statsEl.textContent = `✓ Điền: ${response.stats.filled} | ✗ Không tìm: ${response.stats.notFound}`;
+      let statsText = `Điền: ${response.stats.filled} | Không tìm thấy: ${response.stats.notFound}`;
+      if (response.stats.fromAPI !== undefined) {
+        statsText += ` | Từ API: ${response.stats.fromAPI}`;
+      }
+      statsEl.textContent = statsText;
     }
     
     if (response.progress !== undefined) {
