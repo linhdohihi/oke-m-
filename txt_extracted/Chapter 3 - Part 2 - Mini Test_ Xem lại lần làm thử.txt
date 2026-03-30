@@ -1,0 +1,801 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức /  Week 5 - Chapter 3 (Con't)
+/  Chapter 3 - Part 2 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 3 September 2025, 11:20 AM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 3 September 2025, 11:37 AM
+Thời gian thực
+hiện
+17 phút 35 giây
+Điểm
+49,00/50,00
+Điểm
+9,80 trên 10,00 (98%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một bệnh viện sử dụng hệ thống case-based reasoning (CBR) để hỗ trợ chẩn đoán bệnh. Điều gì làm công nghệ này trở thành KM
+technology thay vì chỉ là công cụ IT?
+a.
+Nó chỉ thu thập dữ liệu thống kê và sắp xếp thành báo cáo tài chính
+b.
+Nó thay thế toàn bộ quy trình hội chẩn và loại bỏ vai trò của bác sĩ
+c.
+Nó tái sử dụng tri thức từ các ca bệnh trước đó để hỗ trợ quyết định lâm sàng
+
+d.
+Nó tập trung vào chuẩn hóa cơ sở dữ liệu bệnh án mà không dựa vào kinh nghiệm
+Một công ty năng lượng muốn ứng dụng DSS để hỗ trợ ra quyết định. Đâu là cách tiếp cận đúng để biến DSS thành KM technology
+thực sự?
+a.
+Dùng DSS chỉ để tạo báo cáo thống kê tài chính hàng quý cho lãnh đạo
+b.
+Kết hợp DSS với cơ sở tri thức từ dự án cũ để đề xuất giải pháp cho tình huống mới
+
+c.
+Giới hạn DSS trong phạm vi quản lý dữ liệu khách hàng để đảm bảo bảo mật
+d.
+Tập trung phát triển DSS như công cụ độc lập mà không gắn với tri thức tổ chức
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+1/16
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một lợi ích chính của việc áp dụng KM mechanisms trong doanh nghiệp là gì?
+a.
+Giảm thiểu chi phí đầu tư vào văn hóa tổ chức và đào tạo
+b.
+Tăng khả năng học hỏi của nhân viên và thúc đẩy quá trình chia sẻ tri thức thông qua các hoạt động thực tế
+
+c.
+Giúp tối ưu hóa hiệu suất hệ thống máy chủ và lưu trữ dữ liệu
+d.
+Tạo ra nguồn dữ liệu lớn phục vụ cho phân tích dữ liệu kinh doanh
+Trong mối quan hệ với KM infrastructure, KM mechanisms được xem như:
+a.
+Nền tảng lâu dài cho toàn bộ chiến lược quản trị tri thức của doanh nghiệp
+b.
+Một phần thay thế cho hạ tầng tri thức trong dài hạn
+c.
+Công cụ công nghệ giúp lưu trữ và xử lý dữ liệu tri thức tự động
+d.
+Phương tiện giúp hiện thực hóa các quy trình KM dựa trên nền tảng có sẵn
+
+Trong quản lý các nền tảng KM, cơ chế KM thường được xem là:
+a.
+Công cụ công nghệ ổn định dài hạn, không cần thay đổi thường xuyên
+b.
+Phần mềm chuẩn hóa toàn bộ hoạt động quản lý trong doanh nghiệp
+c.
+Quy định của tổ chức hoặc các cơ chế xã hội hóa có thể điều chỉnh linh hoạt để hỗ trợ nhiều hệ thống KM
+
+d.
+Nguồn dữ liệu trung tâm đảm bảo tính chính xác cho mọi quyết định
+Trong quản trị tri thức, công nghệ nào dưới đây minh họa rõ nhất cho việc hỗ trợ “thu nhận và tái sử dụng tri thức”?
+a.
+Hệ thống ERP để quản lý nguồn lực tài chính và sản xuất
+b.
+Cơ chế luân chuyển nhân viên giữa các phòng ban để mở rộng kỹ năng
+c.
+Hệ thống lập luận tình huống (case-based reasoning) lưu trữ và gợi ý giải pháp từ kinh nghiệm trước đó
+
+d.
+Các hội nghị trực tiếp nhằm khuyến khích trao đổi tri thức ẩn trong tổ chức
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+2/16
+
+================================================================================
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Sai
+Đạt điểm 0,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tại sao KM mechanisms được coi là khác biệt so với KM technologies?
+a.
+Vì KM mechanisms chỉ tồn tại trong thời gian ngắn và không có tác động lâu dài
+b.
+Vì KM mechanisms được thiết kế để thay thế hoàn toàn hạ tầng công nghệ thông tin
+c.
+Vì KM mechanisms tập trung nhiều hơn vào dữ liệu thống kê và phân tích kinh tế
+d.
+Vì KM mechanisms chủ yếu liên quan đến các cơ chế xã hội hóa và cấu trúc tổ chức, không liên quan đến công cụ CNTT
+
+Một doanh nghiệp khởi nghiệp thương mại điện tử đang cân nhắc đầu tư vào KM. Lãnh đạo hỏi: “Chúng ta nên ưu tiên công nghệ
+hay cơ chế xã hội hóa trước?”. Câu trả lời hợp lý nhất là gì?
+a.
+Cơ chế xã hội hóa chỉ cần khi doanh nghiệp đã phát triển trên quy mô toàn cầu
+b.
+Công nghệ và cơ chế xã hội hóa luôn hoạt động tách biệt và không cần phối hợp
+c.
+Ưu tiên các cơ chế xã hội hóa nếu văn hóa chia sẻ còn yếu, sau đó kết hợp công nghệ hỗ trợ
+d.
+Ưu tiên công nghệ vì chỉ có CNTT mới duy trì được tri thức lâu dài
+
+Một tập đoàn bán lẻ muốn ứng dụng trí tuệ nhân tạo (AI) để phân tích hành vi khách hàng, đồng thời duy trì khả năng học hỏi tổ
+chức. Cách tiếp cận nào phản ánh quản trị KM đúng đắn?
+a.
+Sử dụng AI thay thế hoàn toàn mọi hoạt động học hỏi và đào tạo nhân sự
+b.
+Giới hạn AI cho nhóm nghiên cứu thị trường mà không liên kết với tri thức tổ chức
+c.
+Chỉ tập trung vào AI để tối ưu hóa doanh số mà bỏ qua văn hóa chia sẻ tri thức
+d.
+Kết hợp AI với cơ chế đào tạo nội bộ và chia sẻ kinh nghiệm giữa các bộ phận
+
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+3/16
+
+================================================================================
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một công ty phần mềm có hạ tầng CNTT rất mạnh nhưng nhân viên ít hợp tác trong dự án liên phòng ban. Nguyên nhân chính yếu
+thuộc về yếu tố nào trong KM foundations?
+a.
+Tri thức chung, vì toàn bộ ngôn ngữ chuyên môn đã được chuẩn hóa đầy đủ
+b.
+Technologies, vì hệ thống CNTT chưa đủ khả năng lưu trữ dữ liệu tập trung
+c.
+Mechanisms, vì thiếu chính sách và các cơ chế xã hội hóa khuyến khích chia sẻ tri thức
+
+d.
+Infrastructure, vì văn hóa tổ chức luôn ổn định và khuyến khích học hỏi
+Một đặc điểm quan trọng giúp công nghệ Web 2.0 (như wiki và blog) trở thành KM technologies là gì?
+a.
+Chúng thay thế hoàn toàn tri thức ẩn bằng tri thức hiện hữu dưới dạng văn bản
+b.
+Chúng tập trung vào quản lý dữ liệu thống kê và báo cáo tài chính chính xác
+c.
+Chúng đảm bảo tính bảo mật tuyệt đối mà không cần đến cơ chế quản trị tri thức khác
+d.
+Chúng cho phép nhân viên dễ dàng tạo, chỉnh sửa và chia sẻ tri thức trong dòng công việc thường ngày
+
+Một trong những yêu cầu khi quản lý KM mechanisms là gì?
+a.
+Giới hạn số lượng nhân viên tham gia để tránh chia sẻ tràn lan
+b.
+Chuẩn hóa tất cả dữ liệu tài chính thành một hệ thống duy nhất
+c.
+Điều chỉnh linh hoạt các quy định, chính sách, và các cơ chế xã hội hóa để phù hợp với thay đổi của tổ chức
+
+d.
+Tập trung thay thế hoàn toàn tri thức ngầm bằng báo cáo định kỳ
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+4/16
+
+================================================================================
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tại sao có thể nói rằng KM technologies khác với công nghệ thông tin thông thường?
+a.
+Vì KM technologies là công nghệ mới, còn công nghệ thông tin thông thường đã lỗi thời
+b.
+Vì KM technologies thay thế hoàn toàn vai trò của KM mechanisms trong tổ chức
+c.
+Vì KM technologies tập trung vào quản trị tri thức, còn công nghệ thông tin thông thường chủ yếu xử lý dữ liệu và thông
+tin
+
+d.
+Vì KM technologies chỉ được dùng trong nghiên cứu học thuật, còn công nghệ thông tin dùng trong kinh doanh
+Một doanh nghiệp gặp khó khăn vì hệ thống CNTT phức tạp nhưng thiếu tri thức chung. Nguyên nhân quản lý KM foundations là gì?
+a.
+Công nghệ phát triển nhanh hơn các cơ chế xã hội hóa và tri thức chung không được duy trì
+
+b.
+Cơ sở vật chất thiếu, khiến dữ liệu không thể được lưu trữ ổn định
+c.
+Văn hóa tổ chức yếu kém dẫn đến cơ chế KM bị phá vỡ hoàn toàn
+d.
+Thiếu quy trình đào tạo chính thức cho nhân viên trong tổ chức
+Một doanh nghiệp logistics muốn tăng sáng tạo và giải quyết vấn đề nhanh hơn. Biện pháp quản lý KM foundations nào phù hợp
+nhất?
+a.
+Đầu tư vào ERP và DSS mà không cần thay đổi cấu trúc tổ chức
+b.
+Khuyến khích văn hóa học hỏi, kết hợp đào tạo luân chuyển và áp dụng công cụ Web 2.0
+
+c.
+Giảm quyền truy cập tri thức để duy trì tính bảo mật tối đa
+d.
+Tập trung chuẩn hóa báo cáo tài chính và dữ liệu kho vận
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+5/16
+
+================================================================================
+Câu hỏi 16
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 17
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một tổ chức nghiên cứu y tế cần công cụ hỗ trợ chẩn đoán bệnh dựa trên các ca bệnh trước đây. Công nghệ KM nào phản ánh đúng
+yêu cầu này?
+a.
+Cộng đồng thực hành y khoa tổ chức các buổi thảo luận kinh nghiệm
+b.
+Hệ thống ERP giúp chuẩn hóa dữ liệu bệnh án trong toàn viện
+c.
+Hệ thống CRM quản lý hồ sơ và lịch sử bệnh nhân chi tiết
+d.
+Hệ thống case-based reasoning lưu trữ ca bệnh cũ và đưa ra gợi ý từ kinh nghiệm tương tự
+
+Một công ty sản xuất ô tô đã triển khai nhiều hệ thống CNTT hiện đại nhưng việc học hỏi nội bộ vẫn hạn chế. Nguyên nhân hợp lý
+nhất là gì?
+a.
+Văn hóa tổ chức đã đủ mạnh nhưng không có nền tảng hạ tầng vật chất
+b.
+Công nghệ ERP và DSS không thể xử lý dữ liệu sản xuất theo thời gian thực
+c.
+Cơ sở tri thức chung của tổ chức đã chuẩn hóa nhưng ít được sử dụng
+d.
+Các cơ chế KM như đào tạo, cộng đồng thực hành chưa được quản lý đúng cách
+
+Trong thực tế quản lý KM, sự phối hợp giữa infrastructure, mechanisms và technologies mang lại lợi ích gì?
+a.
+Cho phép hỗ trợ đồng thời nhiều hệ thống KM và tăng hiệu quả tổng thể
+
+b.
+Giúp doanh nghiệp giảm tối đa chi phí công nghệ và nhân sự
+c.
+Tạo điều kiện để loại bỏ nhu cầu về các cơ chế xã hội hóa
+d.
+Đảm bảo tổ chức tập trung vào dữ liệu thống kê thay vì tri thức ẩn
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+6/16
+
+================================================================================
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một ngân hàng muốn nâng cao khả năng học hỏi tổ chức khi triển khai sản phẩm mới. Biện pháp quản lý nào phản ánh sự kết hợp cả
+ba nền tảng KM?
+a.
+Tăng cường họp định kỳ mà không dùng công cụ CNTT hỗ trợ
+b.
+Văn hóa học hỏi, cơ chế đào tạo luân chuyển, và hệ thống DSS hỗ trợ quá trình ra quyết định
+
+c.
+Xây dựng cơ sở dữ liệu thống kê để hỗ trợ phân tích nhanh
+d.
+Tập trung phát triển công nghệ ERP và bỏ qua các cơ chế xã hội hóa
+Một tập đoàn đa quốc gia phát hiện rằng mặc dù có hệ thống CNTT hiện đại, nhân viên vẫn giữ lại tri thức cá nhân. KM mechanisms
+nào phù hợp nhất để khắc phục tình trạng này?
+a.
+Chuẩn hóa quy trình báo cáo nội bộ để giảm thiểu sự khác biệt giữa các phòng ban
+b.
+Tập trung đầu tư thêm vào hạ tầng máy chủ để tăng tốc độ xử lý dữ liệu
+c.
+Áp dụng chính sách khen thưởng cho những nhân viên tích cực chia sẻ tri thức thông qua cộng đồng thực hành
+
+d.
+Nâng cấp cơ sở dữ liệu khách hàng để đảm bảo tính chính xác của thông tin
+Một doanh nghiệp sử dụng wiki và blog để xây dựng “tri thức tập thể” của tổ chức. Điều gì khiến các công cụ Web 2.0 này trở thành
+KM technologies hiệu quả?
+a.
+Vì chúng chủ yếu hỗ trợ tự động hóa quy trình vận hành của doanh nghiệp
+b.
+Vì chúng đảm bảo dữ liệu tài chính luôn được lưu trữ chính xác trong hệ thống
+c.
+Vì chúng thay thế toàn bộ văn hóa chia sẻ tri thức bằng công cụ kỹ thuật số
+d.
+Vì chúng giúp tạo không gian mở, nơi nhân viên có thể đồng kiến tạo và chỉnh sửa tri thức liên tục
+
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+7/16
+
+================================================================================
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một công ty tư vấn kỹ thuật nhận thấy wiki nội bộ có nhiều thông tin sai lệch. Biện pháp quản lý nào phù hợp nhất?
+a.
+Giới hạn quyền truy cập wiki chỉ cho ban lãnh đạo cấp cao
+b.
+Sử dụng công nghệ thay thế để loại bỏ mọi sai sót trong tri thức chia sẻ
+c.
+Quản lý chất lượng nội dung qua chính sách kiểm duyệt và cộng đồng thực hành
+
+d.
+Bỏ hẳn wiki và thay thế bằng cơ sở dữ liệu ERP chuyên dụng
+Một công ty dịch vụ muốn hệ thống KM phát triển bền vững. Yếu tố quản lý nào quyết định thành công lâu dài?
+a.
+Giới hạn chia sẻ tri thức để giữ lợi thế cạnh tranh nội bộ
+b.
+Đầu tư mạnh vào phần mềm mới nhất mà bỏ qua các cơ chế xã hội hóa
+c.
+Xây dựng hệ thống báo cáo tài chính chi tiết hơn thay cho nền tảng KM
+d.
+Sự tích hợp giữa cơ sở hạ tầng văn hóa – cơ chế chia sẻ – công nghệ KM
+
+Một ngân hàng muốn cải thiện khả năng học hỏi của tổ chức trong quá trình triển khai sản phẩm mới. Hoạt động nào sau đây được
+coi là KM mechanisms hiệu quả?
+a.
+Giảm chi phí đào tạo nhân sự để tối ưu hóa ngân sách
+b.
+Tổ chức luân chuyển nhân sự giữa bộ phận nghiên cứu sản phẩm và bộ phận dịch vụ khách hàng
+
+c.
+Mua thêm phần mềm phân tích dữ liệu lớn để dự đoán hành vi khách hàng
+d.
+Xây dựng thêm chi nhánh mới nhằm mở rộng độ phủ thị trường
+Nếu cơ sở hạ tầng KM không được quản lý đúng cách, hậu quả dễ thấy nhất là gì?
+a.
+Các cộng đồng thực hành sẽ tự động tan rã mà không có lý do rõ ràng
+b.
+Công nghệ thông tin trong tổ chức nhanh chóng lỗi thời và bị thay thế
+c.
+Toàn bộ tri thức hiện hữu biến mất khỏi cơ sở dữ liệu nội bộ
+d.
+Các hệ thống KM mất nền tảng lâu dài để phát triển và vận hành bền vững
+
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+8/16
+
+================================================================================
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một tổ chức thường xuyên thay đổi chính sách nhân sự, gây khó khăn cho quản lý KM. Yếu tố nào bị ảnh hưởng trực tiếp nhất?
+a.
+Tri thức chung, vì ngôn ngữ nội bộ và quy chuẩn nhận thức bị thay đổi
+b.
+Công nghệ, vì phần mềm khó theo kịp sự thay đổi nhân sự
+c.
+Infrastructure, vì văn hóa tổ chức không còn tính ổn định
+d.
+Mechanisms, vì quy trình và chính sách chia sẻ tri thức bị gián đoạn
+
+Một công ty công nghệ muốn gia tăng sáng tạo. Biện pháp quản lý nào phản ánh đúng định hướng KM foundations?
+a.
+Văn hóa học hỏi, cộng đồng thực hành, và công cụ Web 2.0 hỗ trợ sáng tạo
+
+b.
+Giới hạn quyền chia sẻ tri thức để tránh cạnh tranh nội bộ
+c.
+Tăng cường chuẩn hóa dữ liệu tài chính và giảm vai trò công nghệ
+d.
+Tập trung mở rộng thị trường mà không đầu tư vào nền tảng tri thức
+Một công ty công nghệ đang cân nhắc đầu tư vào hệ thống DSS để hỗ trợ ra quyết định chiến lược. Tuy nhiên, ban lãnh đạo lo ngại
+nhân viên ít tham gia vào chia sẻ kinh nghiệm. Biện pháp quản lý KM nào phù hợp nhất trong trường hợp này?
+a.
+Kết hợp triển khai DSS với cơ chế cộng đồng thực hành để tăng cường lan tỏa tri thức
+
+b.
+Tập trung bổ sung thêm phần mềm ERP nhằm thay thế triệt để các cơ chế xã hội hóa
+c.
+Giới hạn quyền sử dụng DSS chỉ cho nhóm quản lý cấp cao để đảm bảo kiểm soát
+d.
+Dùng DSS chủ yếu cho mục đích tài chính mà không cần tích hợp tri thức tổ chức
+Nếu một tổ chức chỉ dựa vào KM mechanisms mà bỏ qua công nghệ, hạn chế lớn nhất là gì?
+a.
+Văn hóa tổ chức sẽ tự phát triển mạnh hơn nhờ không bị công nghệ chi phối
+b.
+Tri thức có thể được chia sẻ qua thông qua các cơ chế xã hội hóa nhưng thiếu các công cụ lưu trữ và truy xuất lâu dài
+
+c.
+Công nghệ sẽ tự động thay thế các cơ chế KM bằng hệ thống số hóa
+d.
+Tri thức chung của tổ chức không còn tồn tại vì không có nền tảng CNTT
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+9/16
+
+================================================================================
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một doanh nghiệp triển khai hệ thống ERP để quản lý toàn bộ quy trình sản xuất và tài chính. Tuy nhiên, tổ chức muốn tận dụng hệ
+thống này như một công nghệ KM. Cách sử dụng nào sau đây phản ánh đúng nhất bản chất KM technologies?
+a.
+Sử dụng ERP để lưu giữ tri thức quy trình và chia sẻ kinh nghiệm vận hành giữa các bộ phận
+
+b.
+Tập trung ERP cho việc quản lý kho hàng và chuỗi cung ứng toàn cầu
+c.
+Tích hợp ERP với hệ thống CRM để theo dõi hành vi khách hàng theo thời gian
+d.
+Dùng ERP để chuẩn hóa quy trình kế toán và giảm thiểu sai sót số liệu
+Một doanh nghiệp thương mại điện tử bổ nhiệm vị trí Chief Knowledge Officer (CKO). Điều này thể hiện rõ nhất đặc trưng nào của
+KM mechanisms?
+a.
+Cung cấp hạ tầng máy chủ có khả năng xử lý khối lượng dữ liệu khổng lồ
+b.
+Tạo ra cơ chế lãnh đạo và quản trị để thúc đẩy quản trị tri thức trong toàn tổ chức
+
+c.
+Đảm bảo toàn bộ quy trình tài chính được chuẩn hóa và báo cáo định kỳ
+d.
+Thay thế tri thức ẩn bằng các công cụ công nghệ hiện đại và trí tuệ nhân tạo
+Một công ty tư vấn quốc tế có nhiều công cụ CNTT nhưng nhân viên vẫn không chia sẻ tri thức. Giải pháp quản lý nào phù hợp nhất?
+a.
+Đầu tư thêm chuyên gia CNTT để duy trì hạ tầng công nghệ
+b.
+Mở rộng quy mô cơ sở dữ liệu và cải thiện báo cáo định kỳ
+c.
+Chính sách thưởng và cộng đồng thực hành khuyến khích trao đổi
+
+d.
+Giới hạn quyền truy cập vào thông tin để đảm bảo kiểm soát
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+10/16
+
+================================================================================
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Nếu lãnh đạo cấp cao không cam kết quản lý KM foundations, nguy cơ lớn nhất là gì?
+a.
+Tri thức chung duy trì nhưng không gắn với hệ thống CNTT
+b.
+Các cơ chế xã hội hóa tự động biến mất mà không thể thay thế
+c.
+Cơ sở hạ tầng KM thiếu định hướng, khiến hệ thống KM khó bền vững
+
+d.
+Văn hóa tổ chức suy yếu nhưng công nghệ vẫn phát triển độc lập
+Nếu một doanh nghiệp chỉ dựa vào công nghệ (KM technologies) mà bỏ qua KM mechanisms, hậu quả có thể là gì?
+a.
+Dữ liệu và tri thức được lưu trữ tốt nhưng không được chia sẻ và áp dụng hiệu quả trong tổ chức
+
+b.
+Hệ thống CNTT sẽ thay thế toàn bộ vai trò của các nhà quản lý cấp trung
+c.
+Nhân viên có thể dễ dàng biến tri thức ẩn thành tri thức hiện nhờ hệ thống máy tính
+d.
+Văn hóa tổ chức tự động phát triển mạnh hơn nhờ có công nghệ hỗ trợ
+Một thách thức lớn trong quản lý các nền tảng KM là gì?
+a.
+Chuẩn hóa tất cả tri thức thành dữ liệu số có thể phân tích
+b.
+Đảm bảo sự cân bằng giữa các cơ chế xã hội hóa, hạ tầng công nghệ và hạ tầng tổ chức
+
+c.
+Tập trung hoàn toàn vào đầu tư CNTT để thay thế con người
+d.
+Giảm thiểu vai trò của lãnh đạo để tránh phụ thuộc cá nhân
+Hoạt động nào sau đây thuộc về nhóm KM mechanisms dài hạn?
+a.
+Tổ chức một cuộc họp nhanh để giải quyết vấn đề khẩn cấp
+b.
+Tổ chức hội thảo chia sẻ tri thức trong một ngày
+c.
+Bổ nhiệm Chief Knowledge Officer để dẫn dắt hoạt động KM
+
+d.
+Học qua quan sát trực tiếp tại nơi làm việc
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+11/16
+
+================================================================================
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong bối cảnh quản lý KM foundations, yếu tố nào giúp các hệ thống KM trở nên hiệu quả và bền vững?
+a.
+Sự tích hợp đồng bộ giữa cơ sở hạ tầng, cơ chế tổ chức và công nghệ thông tin
+
+b.
+Tập trung mở rộng quy mô doanh nghiệp thay vì đầu tư vào tri thức
+c.
+Giới hạn việc chia sẻ tri thức để duy trì tính cạnh tranh nội bộ
+d.
+Việc triển khai nhanh chóng các phần mềm báo cáo thống kê chi tiết
+Điểm khác biệt giữa KM infrastructure so với KM mechanisms và KM technologies là gì?
+a.
+Infrastructure có tầm quan trọng dài hạn, còn mechanisms và technologies có thể thay đổi nhanh hơn
+
+b.
+Infrastructure thiên về công cụ CNTT, còn mechanisms và technologies thiên về cơ chế xã hội hóa
+c.
+Infrastructure chỉ tồn tại trong ngắn hạn, còn mechanisms và technologies bền vững hơn
+d.
+Infrastructure hoàn toàn thay thế vai trò của mechanisms và technologies trong tổ chức
+Một doanh nghiệp sản xuất muốn xây dựng hệ thống KM lâu dài. Công ty thiếu “văn hóa chia sẻ tri thức”. Những yếu tố nào cần
+được tập trung xây dựng trước tiên?
+a.
+Văn hóa chia sẻ tri thức của tổ chức và tri thức chung như nền tảng hạ tầng KM
+
+b.
+Chính sách tài chính nhằm tăng đầu tư vào cơ sở vật chất
+c.
+Các cơ chế đào tạo ngắn hạn để bù đắp thiếu hụt kiến thức
+d.
+Triển khai thêm công nghệ ERP để chuẩn hóa quy trình vận hành
+Trong số các công nghệ sau, đâu là ví dụ rõ nhất của KM technologies hỗ trợ chia sẻ và lưu trữ tri thức tổ chức?
+a.
+Hệ thống phân quyền tổ chức giúp kiểm soát trách nhiệm công việc
+b.
+Hệ thống ERP để chuẩn hóa quy trình tài chính và sản xuất
+c.
+Cơ sở dữ liệu các “bài học kinh nghiệm” (lessons learned systems) cho phép truy xuất và tái sử dụng tri thức
+
+d.
+Mạng lưới các cộng đồng thực hành phi chính thức giữa nhân viên
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+12/16
+
+================================================================================
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Quản lý cơ sở hạ tầng KM đòi hỏi điều gì quan trọng nhất?
+a.
+Sự tham gia trực tiếp và cam kết mạnh mẽ từ lãnh đạo cấp cao
+
+b.
+Thay thế toàn bộ tri thức ẩn bằng tri thức hiện qua tài liệu chính thức
+c.
+Việc chuẩn hóa dữ liệu và hệ thống báo cáo nội bộ chi tiết
+d.
+Tập trung mở rộng quy mô nhân sự và số lượng phòng ban
+Một bệnh viện quốc tế đã đầu tư hệ thống wiki nội bộ và quay video chuyên gia để lưu giữ tri thức. Tuy nhiên, nhân viên vẫn khó khai
+thác nguồn này trong thực tiễn điều trị. Nguyên nhân quản lý hợp lý nhất là gì?
+a.
+Thiếu cơ chế đào tạo và chính sách khuyến khích sử dụng các công nghệ KM đã triển khai
+
+b.
+Văn hóa tổ chức quá phụ thuộc vào lãnh đạo nên không cần đến nền tảng chia sẻ tri thức
+c.
+Công nghệ wiki đã lỗi thời và không còn giá trị lưu trữ thông tin cho tổ chức
+d.
+Cơ sở vật chất hạn chế khiến nhân viên không thể truy cập vào kho tri thức chung
+Một công ty khởi nghiệp công nghệ muốn khuyến khích nhân viên mới nhanh chóng hòa nhập và học hỏi kinh nghiệm. Biện pháp
+nào sau đây thể hiện đúng vai trò của KM mechanisms?
+a.
+Tổ chức chương trình “onboarding” chính thức với sự hướng dẫn từ nhân viên có kinh nghiệm
+
+b.
+Xây dựng kho dữ liệu tập trung chứa báo cáo tài chính và khách hàng
+c.
+Đầu tư một hệ thống ERP để quản lý dữ liệu tài chính minh bạch hơn
+d.
+Mua phần mềm trí tuệ nhân tạo để tự động phân tích xu hướng thị trường
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+13/16
+
+================================================================================
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một ví dụ điển hình của KM mechanisms là gì?
+a.
+Chuẩn hóa toàn bộ dữ liệu khách hàng trong cơ sở dữ liệu
+b.
+Luân chuyển nhân viên giữa các phòng ban để chia sẻ tri thức
+
+c.
+Xây dựng hệ thống dữ liệu tập trung phục vụ báo cáo tài chính
+d.
+Đầu tư mạnh vào phần mềm ERP cho toàn bộ tổ chức
+Tại sao sự phối hợp giữa KM technologies và KM infrastructure lại đặc biệt quan trọng?
+a.
+Vì công nghệ tự động tạo ra văn hóa tổ chức khuyến khích học hỏi
+b.
+Vì công nghệ thay thế hoàn toàn nhu cầu về cộng đồng thực hành
+c.
+Vì công nghệ luôn tồn tại lâu dài hơn so với cơ chế xã hội hóa
+d.
+Vì công nghệ cần hạ tầng CNTT mạnh để phát huy vai trò trong chia sẻ và lưu trữ tri thức
+
+Một công ty khởi nghiệp áp dụng wiki nội bộ nhưng thiếu chính sách quản lý. Vấn đề có thể phát sinh là gì?
+a.
+Nhân viên không sẵn sàng học hỏi do hạn chế về kỹ năng CNTT
+b.
+Nội dung wiki bị phân tán, chất lượng thấp và khó kiểm chứng
+
+c.
+Văn hóa chia sẻ sẽ hình thành tự động mà không cần quản lý
+d.
+Công nghệ wiki nhanh chóng lạc hậu và không thể mở rộng
+Một công ty tư vấn kỹ thuật đối mặt với việc nhiều chuyên gia sắp nghỉ hưu. Công nghệ KM nào phù hợp nhất để lưu giữ tri thức ẩn
+từ các chuyên gia này?
+a.
+Mua phần mềm ERP để quản lý quy trình dự án và nguồn lực
+b.
+Quay video phỏng vấn chuyên gia, kết hợp với cơ sở dữ liệu các bài học kinh nghiệm
+
+c.
+Tổ chức các buổi họp trực tiếp nhằm truyền tải kinh nghiệm cho nhân viên trẻ
+d.
+Triển khai wiki nội bộ để ghi chép hướng dẫn kỹ thuật và thảo luận mở
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+14/16
+
+================================================================================
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một rủi ro khi quản lý không tốt KM technologies là gì?
+a.
+Công nghệ trở nên dư thừa, dẫn đến lãng phí nguồn lực mà không hỗ trợ được nhiều cho các hoạt động chia sẻ tri thức
+
+b.
+Cấu trúc tổ chức trở nên quá cứng nhắc, hạn chế sáng tạo của nhân viên
+c.
+Văn hóa tổ chức mất đi sự gắn kết giữa nhân viên và lãnh đạo
+d.
+Tri thức chung không còn đóng vai trò làm ngôn ngữ và khung nhận thức chung
+Một ví dụ thực tiễn của việc áp dụng KM technologies là gì?
+a.
+Nhân viên mới được đào tạo trực tiếp tại chỗ bởi người quản lý nhiều kinh nghiệm
+b.
+World Bank ghi hình phỏng vấn nhân viên sắp nghỉ hưu và liên kết video với tài liệu báo cáo để lưu giữ tri thức
+
+c.
+Một công ty triển khai quy trình luân chuyển nhân sự định kỳ nhằm lan tỏa kỹ năng
+d.
+Một tập đoàn xây dựng văn hóa chia sẻ kinh nghiệm thông qua cộng đồng thực hành
+Một tập đoàn tài chính áp dụng DSS (Decision Support Systems) để hỗ trợ ra quyết định đầu tư. Điều gì làm cho DSS trở thành một
+KM technology thay vì chỉ là công cụ phân tích thông tin?
+a.
+DSS chỉ tập trung vào tính toán dữ liệu lớn để giảm chi phí phân tích
+b.
+DSS thay thế nhu cầu đào tạo và huấn luyện nhân viên tài chính
+c.
+DSS khai thác cơ sở tri thức từ các tình huống trước đó để đề xuất chiến lược mới
+
+d.
+DSS tạo ra báo cáo tài chính nhanh chóng và chính xác hơn
+◄ Câu hỏi - Nhóm 4
+Chuyển tới...
+Câu hỏi - Nhóm 5 ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+15/16
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+GET SOCIAL
+      
+22:50 5/12/25
+Chapter 3 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2045915&cmid=664677&showall=1
+16/16
+
+================================================================================

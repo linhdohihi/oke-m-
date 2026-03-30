@@ -1,0 +1,918 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức /  Week 11 - Chapter 7 (Con't)
+/  Chapter 7 - Part 2 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 15 October 2025, 11:08 AM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 15 October 2025, 11:23 AM
+Thời gian thực
+hiện
+15 phút 44 giây
+Điểm
+59,00/60,00
+Điểm
+9,83 trên 10,00 (98%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tại sao bản đồ khái niệm được xem là công cụ mô hình hóa tri thức phù hợp?
+a.
+Vì nó giới hạn số lượng khái niệm để tránh quá tải nhận thức.
+b.
+Vì nó chỉ yêu cầu dữ liệu số hóa, không cần sự hiểu biết của người học.
+c.
+Vì nó thay thế hoàn toàn vai trò của giáo viên trong giảng dạy.
+d.
+Vì nó cho phép diễn tả khái niệm theo cách trực quan, linh hoạt và gắn kết.
+
+Vì sao CxBR phù hợp để mô hình hóa tri thức trong các lĩnh vực như hàng không hay điều khiển tàu ngầm?
+a.
+Vì người vận hành luôn hành động theo lộ trình cố định, không phụ thuộc bối cảnh.
+b.
+Vì các lĩnh vực này không cần đến sự hỗ trợ của hệ thống tri thức.
+c.
+Vì các tình huống trong những lĩnh vực này mang tính chiến thuật, yêu cầu phản ứng nhanh và quyết định theo ngữ cảnh. 
+d.
+Vì tri thức trong các lĩnh vực này chủ yếu mang tính định lượng và ổn định.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+1/17
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tại sao bản đồ khái niệm được xem là công cụ lý tưởng để chia sẻ tri thức chuyên gia?
+a.
+Vì nó đảm bảo rằng người học chỉ nhìn thấy kết quả cuối cùng.
+b.
+Vì nó thay thế hoàn toàn quá trình đào tạo truyền thống.
+c.
+Vì nó làm cho tri thức ẩn trở nên tường minh và có thể học được bởi người khác.
+
+d.
+Vì nó loại bỏ yếu tố ngữ cảnh và chuẩn hóa mọi tri thức.
+Một trong những khó khăn trong quá trình thu nhận tri thức chuyên gia là:
+a.
+Kỹ sư tri thức phải nhanh chóng xác định mô hình tri thức phù hợp khi phỏng vấn chuyên gia.
+
+b.
+Tài liệu kỹ thuật quá dài khiến hệ thống không thể xử lý.
+c.
+Dữ liệu đầu vào không thể lưu trữ dưới dạng số hóa.
+d.
+Các chuyên gia thường không cho phép ghi âm buổi phỏng vấn.
+Vai trò của phần mềm CmapTools trong quá trình nắm bắt tri thức là gì?
+a.
+Giới hạn phạm vi tri thức chỉ trong lĩnh vực kỹ thuật.
+b.
+Hỗ trợ thu nhận, tổ chức và trình bày tri thức chuyên gia dưới dạng mô hình trực quan.
+
+c.
+Biến đổi các bản đồ khái niệm thành dữ liệu thống kê định lượng.
+d.
+Tự động tạo ra các khái niệm mà không cần tương tác của người dùng.
+Một đặc điểm giúp CITKA nổi bật so với phương pháp phỏng vấn truyền thống là gì?
+a.
+Có khả năng thay thế hoàn toàn vai trò của kỹ sư tri thức.
+b.
+Có khả năng ghi lại toàn bộ quá trình tương tác giữa người học và hệ thống.
+c.
+Có khả năng tạo ra cơ sở ngữ cảnh hoàn chỉnh từ các truy vấn tự động.
+
+d.
+Có khả năng biến đổi tri thức thành dữ liệu hình ảnh ba chiều.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+2/17
+
+================================================================================
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+Điểm đặc trưng của các liên kết (links) trong bản đồ khái niệm là gì?
+a.
+Chúng chỉ biểu diễn mối quan hệ tuyến tính giữa hai dữ liệu.
+b.
+Chúng được sinh tự động từ thuật toán phân cụm khái niệm.
+c.
+Chúng không có hướng và không có giá trị ngữ nghĩa cụ thể.
+d.
+Chúng được gắn nhãn rõ ràng và thể hiện mối quan hệ dưới dạng mệnh đề có nghĩa.
+
+Trong hệ thống CITKA, vai trò của Knowledge Engineering Database (KEDB) là gì?
+a.
+Lưu trữ cơ sở ngữ cảnh đang được phát triển theo cấu trúc phân cấp của CxBR.
+
+b.
+Quản lý giao diện người dùng cho chuyên gia khi trả lời câu hỏi.
+c.
+Tự động sinh câu hỏi dựa trên các quy tắc truy vấn có sẵn.
+d.
+Thực hiện đối thoại thông minh trực tiếp với chuyên gia lĩnh vực.
+Khi một ngữ cảnh chính đang hoạt động trong hệ thống CxBR, điều nào sau đây là đúng?
+a.
+Chỉ một ngữ cảnh chính được kích hoạt tại một thời điểm và kiểm soát toàn bộ hành vi.
+
+b.
+Không có ngữ cảnh nào thực sự điều khiển hành vi vì hệ thống hoạt động độc lập.
+c.
+Nhiều ngữ cảnh chính có thể cùng hoạt động song song để tối ưu hóa hiệu suất.
+d.
+Các ngữ cảnh chính luôn được kích hoạt ngẫu nhiên theo thuật toán xác suất.
+Khái niệm “cross-links” trong bản đồ khái niệm có ý nghĩa gì?
+a.
+Liên kết giữa các lĩnh vực tri thức khác nhau giúp nhận diện mối quan hệ liên ngành.
+
+b.
+Tập hợp các khái niệm bị loại trừ khỏi mô hình chính.
+c.
+Kết nối giữa các khái niệm cùng cấp độ chi tiết.
+d.
+Đường nối phụ nhằm tăng mật độ đồ thị tri thức.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+3/17
+
+================================================================================
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Theo ước tính, CITKA có thể tự động xây dựng bao nhiêu phần trăm mô hình tri thức dựa trên ngữ cảnh?
+a.
+Khoảng 10% với sự can thiệp thủ công tối đa.
+b.
+Không quá 30% trong điều kiện thông thường.
+c.
+Trên 95% nhờ sử dụng trí tuệ nhân tạo học sâu.
+d.
+Từ 50% đến 80% tổng cấu trúc mô hình.
+
+Nếu chuyên gia mô tả tri thức theo trình tự các sự kiện xảy ra, mô hình nào được xem là thích hợp nhất?
+a.
+Mô hình dựa trên trường hợp (case-based).
+b.
+Mô hình dựa trên ràng buộc (constraint-based).
+
+c.
+Mô hình dựa trên quy tắc (rule-based).
+d.
+Mô hình dựa trên khái niệm (concept-based).
+Khác biệt cơ bản giữa bản đồ khái niệm và mạng ngữ nghĩa (semantic network) là gì?
+a.
+Mạng ngữ nghĩa luôn có cấp bậc rõ ràng hơn bản đồ khái niệm.
+b.
+Bản đồ khái niệm được dùng trong AI, còn mạng ngữ nghĩa chủ yếu trong thống kê.
+c.
+Bản đồ khái niệm tạo mệnh đề bằng từ nối và thường có phân cấp phục vụ học tập; mạng ngữ nghĩa nhấn mạnh quan hệ
+hình thức giữa các khái niệm.
+
+d.
+Mạng ngữ nghĩa bao gồm yếu tố cảm xúc, còn bản đồ khái niệm thì không.
+Kết luận quan trọng rút ra từ các hệ thống học tập bằng quan sát là gì?
+a.
+Không thể thu nhận tri thức chuyên gia nếu không có sự can thiệp trực tiếp.
+b.
+Có thể thu nhận tri thức từ chuyên gia thông qua tương tác gián tiếp và không xâm nhập.
+
+c.
+Việc mô phỏng hành vi chuyên gia luôn đòi hỏi kiểm chứng thực nghiệm phức tạp.
+d.
+Các hệ thống học tập bằng quan sát chưa chứng minh được tính khả thi.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+4/17
+
+================================================================================
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 16
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 17
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một ưu điểm quan trọng của bản đồ khái niệm khi dùng trong các hệ thống tri thức là gì?
+a.
+Đảm bảo rằng mọi liên kết đều tuyến tính và không chồng chéo.
+b.
+Có khả năng mở rộng quy mô để bao quát lượng thông tin lớn.
+
+c.
+Bắt buộc mọi tri thức phải được biểu diễn theo cấu trúc cây.
+d.
+Có khả năng chuyển đổi trực tiếp thành mã máy tính nhị phân.
+Trong hệ thống CITKA, SME Interface (SMEI) đóng vai trò gì?
+a.
+Là mô-đun chịu trách nhiệm phân tích dữ liệu đầu ra của người dùng.
+b.
+Là cơ sở dữ liệu lưu giữ toàn bộ phản hồi từ người học.
+c.
+Là bảng điều khiển kỹ thuật cho lập trình viên hệ thống.
+d.
+Là giao diện đồ họa động cho phép chuyên gia tương tác với các câu hỏi và quy tắc trong QRB.
+
+Điểm khác biệt giữa tri thức chiến thuật và tri thức chiến lược là gì?
+a.
+Tri thức chiến thuật dựa vào tài liệu, còn tri thức chiến lược dựa vào hệ thống AI.
+b.
+Tri thức chiến thuật tập trung vào dữ liệu, còn tri thức chiến lược tập trung vào con người.
+c.
+Tri thức chiến thuật mang tính ngắn hạn, còn tri thức chiến lược định hướng dài hạn.
+
+d.
+Tri thức chiến thuật phụ thuộc vào thị trường, còn tri thức chiến lược phụ thuộc vào công nghệ.
+Theo các nhà nghiên cứu, ưu điểm nổi bật của CmapTools trong nắm bắt tri thức là gì?
+a.
+Khả năng tạo tự động mô hình khái niệm mà không cần người dùng.
+b.
+Khả năng mã hóa dữ liệu định lượng thay cho tri thức khái niệm.
+c.
+Khả năng hiển thị phong phú đa phương tiện và hỗ trợ học tập, cộng tác trực tuyến.
+
+d.
+Khả năng hạn chế phạm vi tri thức chỉ trong một lĩnh vực cụ thể.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+5/17
+
+================================================================================
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong ứng dụng về hỗ trợ chẩn đoán, diễn giải lâm sàng các ca bệnh tim mạch, các nút khái niệm trong bản đồ khái niệm biểu thị
+điều gì?
+a.
+Mỗi nút là một biểu tượng trừu tượng hóa của một loại bệnh lý tim mạch cụ thể.
+
+b.
+Mỗi nút là một công thức y học định lượng được hệ thống hóa.
+c.
+Mỗi nút phản ánh quy trình điều trị lâm sàng được chuẩn hóa.
+d.
+Mỗi nút đại diện cho một bệnh nhân và dữ liệu xét nghiệm cá nhân.
+Điểm khác biệt giữa observational learning và cognitive imitation là gì?
+a.
+Quan sát chỉ được áp dụng trong môi trường mô phỏng ảo.
+b.
+Bắt chước chỉ xảy ra khi không có quá trình học tập qua quan sát.
+c.
+Quan sát có thể không bao gồm hành vi bắt chước, trong khi bắt chước luôn cần quan sát.
+
+d.
+Cả hai đều yêu cầu mô phỏng chính xác hành động vật lý của chuyên gia.
+Trong hệ thống nắm bắt tri thức dựa trên bản đồ khái niệm, vai trò chính của CmapTools là gì?
+a.
+Mã hóa dữ liệu chuyên gia thành mô hình thống kê và bảng quyết định.
+b.
+Biến tri thức ẩn thành dữ liệu số hóa định lượng.
+c.
+Thay thế toàn bộ quá trình phỏng vấn giữa chuyên gia và kỹ sư tri thức.
+d.
+Cung cấp môi trường thu nhận, tổ chức và duyệt tri thức dưới dạng cấu trúc khái niệm.
+
+Trong hệ thống CmapTools, người học có thể thu nhận tri thức chuyên gia bằng cách nào?
+a.
+Phân tích dữ liệu thống kê và biểu đồ định lượng.
+b.
+Thực hiện các phép tính logic trên cơ sở dữ liệu ngữ nghĩa.
+c.
+Ghi nhớ toàn bộ văn bản của chuyên gia mà không cần thao tác.
+d.
+Duyệt qua các bản đồ khái niệm và khám phá mối liên kết giữa các khái niệm.
+
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+6/17
+
+================================================================================
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tác dụng quan trọng nhất của bản đồ khái niệm trong đào tạo là gì?
+a.
+Giảm thiểu thời gian giảng dạy bằng cách tự động hóa quá trình học.
+b.
+Giúp người học nhận diện cấu trúc tri thức và mối liên hệ giữa các khái niệm.
+
+c.
+Đảm bảo mọi người học đều có mô hình tri thức giống nhau.
+d.
+Tách biệt hoàn toàn tri thức lý thuyết và tri thức thực hành.
+Vì sao bản đồ khái niệm được xem là công cụ hỗ trợ học tập hiệu quả?
+a.
+Vì nó cho phép người học khám phá cấu trúc tri thức của chuyên gia một cách trực quan.
+
+b.
+Vì nó chỉ tập trung vào khái niệm định lượng và mô hình toán học.
+c.
+Vì nó loại bỏ hoàn toàn vai trò của người hướng dẫn trong lớp học.
+d.
+Vì nó đảm bảo rằng mọi người học có cùng cấu trúc tri thức.
+Vì sao CxBR được xem là mô hình trực quan để mô phỏng hành vi con người?
+a.
+Vì nó sử dụng hoàn toàn dữ liệu định lượng trong mọi tình huống.
+b.
+Vì nó tổ chức tri thức theo cấu trúc phân cấp, mô phỏng cách con người ra quyết định theo ngữ cảnh.
+
+c.
+Vì nó mô phỏng hành vi bằng cách ngẫu nhiên hóa đầu vào.
+d.
+Vì nó loại bỏ hoàn toàn yếu tố cảm xúc và thiên kiến trong quá trình mô phỏng.
+Cấu trúc phân cấp của bản đồ khái niệm mang lại lợi ích gì khi mở rộng quy mô tri thức?
+a.
+Giúp giới hạn số lượng khái niệm nhằm duy trì độ chính xác cao.
+b.
+Giúp loại bỏ các mối quan hệ chéo giữa các chủ đề khác nhau.
+c.
+Giúp chuyển đổi tự động tri thức sang định dạng văn bản chuẩn.
+d.
+Giúp tích hợp dễ dàng các khái niệm của nhiều lĩnh vực vào cùng hệ thống.
+
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+7/17
+
+================================================================================
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một trong những hướng nghiên cứu nổi bật về học tập bằng quan sát là gì?
+a.
+Phát triển thuật toán suy diễn thống kê để thay thế hoàn toàn tri thức chuyên gia.
+b.
+Thiết kế các tác nhân thông minh có khả năng học thêm từ các trải nghiệm mới.
+
+c.
+Giảm vai trò của tri thức nền trong việc xây dựng mô hình học tập.
+d.
+Tạo cơ chế loại bỏ hoàn toàn sự can thiệp của con người trong huấn luyện.
+CmapTools hỗ trợ người học thông qua đặc điểm nào sau đây?
+a.
+Giới hạn việc truy cập nội dung chỉ trong một lĩnh vực duy nhất.
+b.
+Chuẩn hóa các bài giảng dưới dạng thống kê số liệu.
+c.
+Tạo môi trường học tập đa phương tiện với khả năng hợp tác từ xa.
+
+d.
+Thay thế toàn bộ hoạt động nghiên cứu của giảng viên.
+Trong hệ thống CmapTools, các biểu tượng nhỏ (icons) bên dưới các nút khái niệm có chức năng gì?
+a.
+Liên kết tới các tài nguyên đa phương tiện như hình ảnh, video hoặc văn bản.
+
+b.
+Chỉ hiển thị mô tả định lượng về khái niệm đang xét.
+c.
+Giúp hệ thống tự động sinh ra các khái niệm phụ liên quan.
+d.
+Dẫn đến cơ sở dữ liệu thống kê ngoài mạng nội bộ.
+Giải pháp nào được khuyến nghị để vượt qua sự e dè của chuyên gia khi tương tác với hệ thống tri thức?
+a.
+Tự động hóa toàn bộ quy trình phỏng vấn.
+b.
+Bắt buộc chuyên gia tham gia vào quy trình nắm bắt tri thức.
+c.
+Cung cấp đào tạo phù hợp và giao diện thân thiện với người dùng.
+
+d.
+Giảm thiểu số lượng câu hỏi để tiết kiệm thời gian.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+8/17
+
+================================================================================
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khi nói đến “trình duyệt dựa trên bản đồ khái niệm”, ý nghĩa chính của cụm này là gì?
+a.
+Một chương trình xử lý hình ảnh hỗ trợ hiển thị khái niệm dưới dạng 3D.
+b.
+Một phần mềm định dạng văn bản chuyên dùng cho lưu trữ dữ liệu.
+c.
+Một giao diện cho phép duyệt tri thức theo cấu trúc liên kết khái niệm thay vì theo thứ tự tuyến tính.
+
+d.
+Một hệ thống mã hóa tri thức dựa trên thuật toán logic mệnh đề.
+Trong quá trình xây dựng bản đồ khái niệm, mối quan hệ giữa kỹ sư tri thức và chuyên gia lĩnh vực là gì?
+a.
+Hợp tác cùng xây dựng mô hình khái niệm chia sẻ về tri thức.
+
+b.
+Kỹ sư tri thức độc lập tạo mô hình mà không cần phản hồi chuyên gia.
+c.
+Phân cấp rõ ràng: kỹ sư thu thập còn chuyên gia xác nhận dữ liệu.
+d.
+Chuyên gia chịu trách nhiệm toàn bộ việc mã hóa tri thức.
+Thành phần Knowledge Engineering Interface (KEI) của CITKA cung cấp điều gì?
+a.
+Một môi trường đồ họa hiển thị các mô phỏng trực quan của tri thức.
+b.
+Một giao diện bảng biểu cho phép nhập liệu thông qua tám hộp thoại tương tác.
+
+c.
+Một mô-đun dùng để tự động hóa toàn bộ việc viết quy tắc chuyên gia.
+d.
+Một công cụ phân tích dữ liệu định lượng để kiểm định tri thức chuyên gia.
+Từ góc nhìn của chuyên gia, rào cản chính khi tương tác với hệ thống nắm bắt tri thức là gì?
+a.
+Hệ thống không thể lưu trữ tri thức hiện hữu.
+b.
+Tốc độ xử lý của hệ thống thấp hơn mong đợi.
+c.
+Kỹ sư tri thức can thiệp quá sâu vào quy trình làm việc.
+d.
+Cảm giác e ngại khi phải học cách sử dụng công nghệ mới.
+
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+9/17
+
+================================================================================
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Phần mềm CITKA được thiết kế với mục tiêu tự động hóa điều gì?
+a.
+Quá trình trích xuất dữ liệu văn bản trong kho tài liệu tổ chức.
+b.
+Quá trình mô phỏng hành vi người dùng trong hệ thống thương mại điện tử.
+c.
+Quá trình thu nhận tri thức chiến thuật của chuyên gia thông qua các truy vấn thông minh.
+
+d.
+Quá trình huấn luyện nhân viên bằng các mô hình học máy thống kê.
+Theo quan điểm của kỹ sư tri thức, điều kiện tiên quyết để biểu diễn tri thức một cách chính xác là gì?
+a.
+Xác định sớm loại hình tri thức để chọn mô hình biểu diễn thích hợp.
+
+b.
+Tự động hóa toàn bộ quy trình ghi nhận phản hồi của chuyên gia.
+c.
+Thu thập lượng dữ liệu lớn nhằm giảm thiểu sai lệch thống kê.
+d.
+Ưu tiên tri thức hiện vì dễ mã hóa hơn tri thức ẩn.
+Trong mô hình CxBR, “mission context” có vai trò gì?
+a.
+Đại diện cho tri thức ẩn của chuyên gia trong môi trường thực tế.
+b.
+Kiểm soát toàn bộ hệ thống và loại bỏ mọi ngữ cảnh phụ.
+c.
+Đưa ra quyết định chi tiết cho từng hành động cụ thể.
+d.
+Xác định phạm vi, mục tiêu và ràng buộc tổng thể của nhiệm vụ.
+
+Trong cấu trúc CITKA, Query Rule-Base (QRB) có chức năng chính nào?
+a.
+Quản lý các biểu đồ ngữ cảnh phục vụ huấn luyện nhân viên mới.
+b.
+Lưu trữ và điều phối các quy tắc đối thoại với chuyên gia.
+
+c.
+Thực hiện mã hóa tri thức ẩn thành dữ liệu định lượng.
+d.
+Ghi nhận dữ liệu phản hồi từ người dùng cuối trong môi trường học tập.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+10/17
+
+================================================================================
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Vì sao việc phát triển công cụ đa mô hình (multiparadigm tool) trong nắm bắt tri thức gần như bất khả thi?
+a.
+Vì không thể xác định trước loại tri thức phù hợp với mỗi mô hình.
+
+b.
+Vì chuyên gia thường không sẵn lòng tiết lộ tri thức ẩn.
+c.
+Vì các hệ thống như vậy quá tốn kém về mặt phần cứng.
+d.
+Vì dữ liệu tri thức luôn thay đổi liên tục theo thời gian.
+Tại sao bản đồ khái niệm được xem là giải pháp cho vấn đề “điều hướng” trong các hệ thống siêu phương tiện (hypermedia)?
+a.
+Vì nó thay thế giao diện trình duyệt bằng cấu trúc thống kê.
+b.
+Vì nó định hướng người dùng theo mối liên hệ logic giữa các khái niệm.
+
+c.
+Vì nó tự động loại bỏ các đường dẫn trùng lặp trong cơ sở dữ liệu.
+d.
+Vì nó giới hạn người dùng trong một cây phân cấp tuyến tính.
+Khái niệm tri thức chiến thuật trong Context-Based Reasoning (CxBR) được hiểu là gì?
+a.
+Tri thức định lượng giúp xác định chỉ số hiệu suất hoạt động.
+b.
+Tri thức phục vụ đánh giá tình huống, lựa chọn kế hoạch hành động và thực thi kế hoạch đó.
+
+c.
+Tri thức được mã hóa sẵn trong hệ thống chuyên gia phục vụ dự báo xu hướng.
+d.
+Tri thức tập trung vào tầm nhìn dài hạn và chiến lược cạnh tranh của tổ chức.
+Khi chuyên gia mô tả tri thức của mình bằng cách kể lại những tình huống đã xảy ra, mô hình nào phù hợp nhất để biểu diễn tri thức
+đó?
+a.
+Suy luận theo ngữ cảnh (context-based).
+b.
+Suy luận dựa trên trường hợp (case-based reasoning).
+
+c.
+Bản đồ khái niệm (concept mapping).
+d.
+Quy tắc ràng buộc (constraint-based).
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+11/17
+
+================================================================================
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+Nếu chuyên gia mô tả tri thức bằng cấu trúc “nếu A thì B”, hình thức biểu diễn phù hợp nhất là gì?
+a.
+Hệ thống dựa trên trường hợp (case-based).
+b.
+Mô hình dựa trên ngữ cảnh (context-based).
+c.
+Bản đồ khái niệm (concept map).
+d.
+Mô hình dựa trên quy tắc (rule-based).
+
+Khi ứng dụng bản đồ khái niệm vào đo lường tri thức chuyên gia, lợi ích nổi bật là gì?
+a.
+Có thể tự động hóa việc gán điểm và xếp hạng chuyên gia.
+b.
+Có thể đánh giá mức độ hiểu biết về chủ đề trong ngữ cảnh cụ thể.
+
+c.
+Có thể chuẩn hóa tri thức thành mô hình tuyến tính duy nhất.
+d.
+Có thể thay thế hoàn toàn quá trình vấn đáp trực tiếp.
+Theo lý thuyết học tập có ý nghĩa của Ausubel, điều kiện nào là cần thiết để việc học bằng bản đồ khái niệm đạt hiệu quả?
+a.
+Người học cần loại bỏ hoàn toàn các tri thức cũ trước khi học.
+b.
+Giáo viên phải kiểm soát tuyệt đối cách học viên liên kết các khái niệm.
+c.
+Học viên phải có tri thức nền tảng liên quan để tích hợp khái niệm mới.
+
+d.
+Bản đồ khái niệm phải được thiết kế có cùng số lượng nút ở mỗi tầng.
+Trong mô hình bản đồ khái niệm, “proposition” được hiểu là gì?
+a.
+Một quy tắc suy luận dùng trong hệ chuyên gia.
+b.
+Một đơn vị ngữ nghĩa tạo bởi hai khái niệm được nối bằng từ liên kết.
+
+c.
+Một biểu đồ thống kê mô tả tần suất xuất hiện của khái niệm.
+d.
+Một nhóm dữ liệu định lượng thể hiện mối tương quan.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+12/17
+
+================================================================================
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khái niệm cognitive imitation trong nghiên cứu về tri thức có ý nghĩa nào sau đây?
+a.
+Chuyên gia truyền đạt trực tiếp tri thức mà không cần minh họa hành động.
+b.
+Học viên sao chép cách chuyên gia sử dụng quy tắc để giải quyết vấn đề.
+
+c.
+Người học ghi nhớ toàn bộ thông tin định lượng mà không hiểu bản chất.
+d.
+Hệ thống mô phỏng hành vi con người thông qua ngẫu nhiên hóa dữ liệu.
+Trong bản đồ khái niệm, mối quan hệ giữa hai khái niệm được thể hiện thông qua yếu tố nào?
+a.
+Từ nối (linking word) tạo nên một mệnh đề có nghĩa.
+
+b.
+Số liệu định lượng mô tả cường độ kết nối.
+c.
+Dấu mũi tên biểu thị hướng của luồng thông tin.
+d.
+Mã màu thể hiện cấp độ của tri thức.
+Trong mô hình CxBR, “context” được định nghĩa là gì?
+a.
+Tập hợp các hành động và thủ tục phù hợp để xử lý một tình huống cụ thể.
+
+b.
+Tập hợp các dữ liệu đầu vào định lượng liên quan đến nhiệm vụ.
+c.
+Tập hợp các mục tiêu chiến lược của toàn bộ tổ chức.
+d.
+Tập hợp các quy tắc logic được lưu trữ trong cơ sở tri thức.
+Kết quả thử nghiệm CITKA trong mô hình tác chiến tàu ngầm cho thấy điều gì?
+a.
+Có thể giảm tới 80% thời gian nhân công so với phương pháp phỏng vấn truyền thống.
+
+b.
+Có thể thay thế toàn bộ quy trình kiểm định dữ liệu định lượng.
+c.
+Có thể loại bỏ hoàn toàn nhu cầu tham gia của chuyên gia lĩnh vực.
+d.
+Có thể tăng độ phức tạp của hệ thống lên gấp đôi mà không cần bảo trì.
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+13/17
+
+================================================================================
+Câu hỏi 51
+Sai
+Đạt điểm 0,00 trên 1,00
+Câu hỏi 52
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 53
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 54
+Đúng
+Đạt điểm 1,00 trên 1,00
+Hình ảnh “những ngón tay xanh bất đối xứng” trong bản đồ khái niệm tim mạch được hiểu như thế nào?
+a.
+Mô hình giả lập nhằm hướng dẫn bác sĩ trong quy trình phẫu thuật.
+b.
+Biểu tượng trực quan cho tình trạng thiếu máu cơ tim hoặc suy tim mãn tính.
+c.
+Tham số thống kê mô tả hiệu suất bơm máu của tim.
+
+d.
+Dấu hiệu đồ họa dùng để đánh dấu bệnh nhân có tiền sử tim mạch.
+Trong cấu trúc của bản đồ khái niệm, trục dọc đóng vai trò gì?
+a.
+Đánh dấu ranh giới giữa các lĩnh vực tri thức khác nhau.
+b.
+Biểu thị hệ thống phân cấp từ khái niệm tổng quát đến chi tiết.
+
+c.
+Thể hiện luồng thời gian trong chuỗi sự kiện.
+d.
+Diễn tả mức độ tương tác giữa các khái niệm.
+Khi một tình huống bất ngờ xuất hiện, điều gì xảy ra trong hệ thống CxBR?
+a.
+Các ngữ cảnh phụ bị loại bỏ để tránh sai lệch dữ liệu.
+b.
+Toàn bộ cấu trúc ngữ cảnh được thiết lập lại từ đầu.
+c.
+Hệ thống tạm ngưng hoạt động cho đến khi có dữ liệu xác minh.
+d.
+Một chuyển đổi giữa các ngữ cảnh được kích hoạt để phản ứng với tình huống mới.
+
+Khi một người lái xe rời đường cao tốc để vào khu vực nội đô, hành vi nào mô tả đúng bản chất của CxBR?
+a.
+Tăng tốc độ xử lý thông tin để duy trì tốc độ di chuyển cao hơn.
+b.
+Kích hoạt lại ngữ cảnh trước đó nhằm duy trì ổn định hành vi.
+c.
+Bỏ qua các yếu tố môi trường như đèn giao thông hoặc người đi bộ.
+d.
+Chuyển đổi từ ngữ cảnh lái xe trên cao tốc sang ngữ cảnh lái xe trong thành phố với bộ quy tắc mới.
+
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+14/17
+
+================================================================================
+Câu hỏi 55
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 56
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 57
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 58
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một trong những rào cản lớn nhất đối với việc tự động thu nhận tri thức của chuyên gia là gì?
+a.
+Việc thu thập dữ liệu định lượng mất quá nhiều chi phí vận hành.
+b.
+Các chuyên gia thường không hợp tác trong quá trình phỏng vấn.
+c.
+Hệ thống máy tính chưa đủ tốc độ xử lý để mô phỏng toàn bộ tri thức.
+d.
+Kỹ sư tri thức cần hình thành sớm nhận thức về bản chất và cấu trúc tri thức của chuyên gia.
+
+Một hệ thống nắm bắt tri thức lý tưởng trong tương lai cần có khả năng gì?
+a.
+Mô phỏng cảm xúc của chuyên gia trong mọi tình huống.
+b.
+Thay thế hoàn toàn kỹ sư tri thức bằng mô hình học máy.
+c.
+Chuyển toàn bộ tri thức sang định dạng văn bản thống kê.
+d.
+Hiểu bản chất tri thức và tự động đặt câu hỏi tương thích với chuyên gia.
+
+Trong cấu trúc CxBR, “subcontext” có chức năng gì?
+a.
+Ghi lại dữ liệu thống kê để đánh giá hiệu suất.
+b.
+Đại diện cho mục tiêu tổng thể của nhiệm vụ.
+c.
+Xử lý các hành động chi tiết thuộc một ngữ cảnh chính và có thể được tái sử dụng.
+
+d.
+Đóng vai trò trung gian giữa người dùng và hệ thống.
+CITKA hoạt động dựa trên nguyên lý nào của Context-Based Reasoning (CxBR)?
+a.
+Phân rã tri thức thành các quy tắc ngẫu nhiên không ràng buộc.
+b.
+Chuyển đổi tri thức chiến lược thành hành vi định lượng.
+c.
+Gộp các ngữ cảnh nhỏ thành một hệ thống mô phỏng duy nhất.
+d.
+Tổ chức tri thức thành các ngữ cảnh phân cấp có thể tái sử dụng và mở rộng.
+
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+15/17
+
+================================================================================
+Câu hỏi 59
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 60
+Đúng
+Đạt điểm 1,00 trên 1,00
+Lợi ích quan trọng nhất khi áp dụng mô hình CITKA là gì?
+a.
+Giảm mạnh nhu cầu nhân lực và sai sót khi thu nhận tri thức chuyên gia.
+
+b.
+Tự động hóa toàn bộ quá trình ra quyết định chiến lược dài hạn.
+c.
+Tăng cường sự phụ thuộc của hệ thống vào chuyên gia lập trình.
+d.
+Chuẩn hóa toàn bộ tri thức ẩn thành tri thức hiện định lượng.
+Theo hướng tiếp cận mới, tác nhân học tập hiệu quả cần có đặc điểm gì?
+a.
+Hoạt động hoàn toàn độc lập mà không cần dữ liệu huấn luyện.
+b.
+Chỉ tập trung vào việc sao chép bề ngoài hành vi của chuyên gia.
+c.
+Sở hữu tri thức nền tảng để có thể tiếp thu tri thức mới một cách tích lũy.
+
+d.
+Xóa bỏ mọi tri thức trước đó nhằm tránh sai lệch nhận thức.
+◄ Câu hỏi - Nhóm 10
+Chuyển tới...
+Slides - Nhóm 11 ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+16/17
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+GET SOCIAL
+      
+22:53 5/12/25
+Chapter 7 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2124554&cmid=685450&showall=1
+17/17
+
+================================================================================

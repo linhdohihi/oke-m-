@@ -1,0 +1,784 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức
+/  Week 6 - Chapter 4: Knowledge Management Solutions: Processes and Systems /  Chapter 4 - Part 1 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 10 September 2025, 11:07 AM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 10 September 2025, 11:32 AM
+Thời gian thực
+hiện
+25 phút 33 giây
+Điểm
+50,00/50,00
+Điểm
+10,00 trên 10,00 (100%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Nhận định nào thể hiện đúng nhất mối quan hệ giữa bốn quá trình quản trị tri thức (KM) và bảy quy trình con KM?
+a.
+Bốn quá trình KM bao gồm phát hiện, lưu trữ, chia sẻ và đánh giá tri thức, được hỗ trợ bởi bảy quy trình con dựa hoàn toàn
+trên Nonaka (1994).
+b.
+Bốn quá trình KM bao gồm phát hiện, nắm bắt, chia sẻ và áp dụng tri thức, trong đó mỗi quy trình con chỉ gắn với một quá
+trình duy nhất.
+c.
+Bốn quá trình KM bao gồm phát hiện, nắm bắt, chia sẻ và áp dụng tri thức, được hỗ trợ bởi bảy quy trình con có tính độc lập
+hoàn toàn.
+d.
+Bốn quá trình KM bao gồm phát hiện, nắm bắt, chia sẻ và áp dụng tri thức, được hỗ trợ bởi bảy quy trình con, trong đó có
+một quy trình con hỗ trợ đồng thời hai quá trình.
+
+Trong các quy trình con KM, quy trình nào được mô tả là hỗ trợ đồng thời hai quá trình KM khác nhau?
+a.
+Định hướng (Direction), vì nó điều chỉnh việc áp dụng tri thức vào cả phát hiện và áp dụng tri thức.
+b.
+Kết hợp (Combination), vì nó tập hợp tri thức từ nhiều nguồn để phục vụ nhiều mục đích khác nhau.
+c.
+Ngoại hóa (Externalization), vì nó chuyển đổi tri thức ẩn thành tri thức hiện.
+d.
+Xã hội hóa (Socialization), vì nó gắn liền với cả quá trình phát hiện tri thức và chia sẻ tri thức.
+
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+1/15
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ví dụ nào minh họa rõ nhất cho sự kết nối giữa chia sẻ tri thức và ứng dụng tri thức?
+a.
+Một nhóm nghiên cứu tạo ra mô hình mới dựa trên dữ liệu từ nhiều lĩnh vực khác nhau.
+b.
+Một công ty ký hợp đồng với nhà cung cấp để tiếp cận công nghệ tiên tiến.
+c.
+Một nhân viên nhận báo cáo phân tích từ đồng nghiệp và dùng nó để điều chỉnh chiến lược bán hàng.
+
+d.
+Một chuyên gia viết lại kinh nghiệm bản thân thành tài liệu để đưa vào thư viện tổ chức.
+Điểm chung của bốn quá trình khám phá, nắm bắt, chia sẻ và ứng dụng tri thức là gì?
+a.
+Chúng đều vận hành độc lập và không có mối liên hệ qua lại với nhau.
+b.
+Chúng đều chỉ tập trung vào tri thức hiện và bỏ qua vai trò của tri thức ẩn.
+c.
+Chúng đều nhằm gia tăng khả năng đạt mục tiêu tổ chức thông qua tối đa hóa giá trị của tri thức.
+
+d.
+Chúng đều phụ thuộc hoàn toàn vào công nghệ thông tin để có thể triển khai.
+Điểm giống nhau cơ bản giữa xã hội hóa dùng cho khám phá tri thức và xã hội hóa dùng cho chia sẻ tri thức là gì?
+a.
+Cả hai đều liên quan đến việc truyền đạt tri thức ẩn thông qua tương tác trực tiếp giữa các cá nhân.
+
+b.
+Cả hai đều tập trung vào chuẩn hóa tri thức hiện để dễ dàng lưu giữ trong hệ thống.
+c.
+Cả hai đều dựa trên tái cấu trúc dữ liệu và tài liệu hiện có để hình thành tri thức mới.
+d.
+Cả hai đều yêu cầu biến tri thức hiện thành tri thức ẩn thông qua học tập cá nhân.
+Quá trình “nắm bắt tri thức” (knowledge capture) được định nghĩa chính xác nhất là gì?
+a.
+Quá trình nắm bắt tri thức ẩn từ cá nhân và tri thức hiện từ tài liệu hay cơ sở dữ liệu để chia sẻ rộng rãi.
+
+b.
+Quá trình tổng hợp các dòng tri thức hiện nhằm hình thành bộ kiến thức chung cho toàn bộ tổ chức.
+c.
+Quá trình tái cấu trúc tri thức hiện thành mô hình mới để phục vụ phân tích dữ liệu trong tổ chức.
+d.
+Quá trình lưu giữ tri thức hiện đã có trong hệ thống để giảm thiểu rủi ro mất mát tri thức quan trọng.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+2/15
+
+================================================================================
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+Định nghĩa quản trị tri thức trong chương 4 nhấn mạnh mục tiêu cốt lõi nào?
+a.
+Nâng cao tác động của tri thức đối với việc đạt được mục tiêu của đơn vị theo cách tiết kiệm chi phí.
+
+b.
+Chuẩn hóa các bước tạo lập tri thức để giảm thiểu sự khác biệt về ngữ cảnh trong tổ chức.
+c.
+Tích hợp tri thức vào hệ thống công nghệ nhằm loại bỏ sự phụ thuộc vào nguồn lực con người.
+d.
+Thay thế các quy trình quản lý truyền thống bằng hệ thống quản trị tri thức tự động hóa.
+Trong ứng dụng tri thức, cơ chế định hướng (direction) có đặc điểm nào nổi bật nhất?
+a.
+Cá nhân dựa vào thói quen đã hình thành từ quá trình học tập và rèn luyện lâu dài.
+b.
+Cá nhân thực hiện công việc dựa trên hướng dẫn, khuyến nghị hoặc quyết định của người khác.
+
+c.
+Cá nhân quan sát đồng nghiệp và chuyển hóa tri thức hiện thành tri thức ẩn cá nhân.
+d.
+Cá nhân phân tích dữ liệu có sẵn để rút ra tri thức mới phục vụ cho hành động.
+Trường hợp của DeepGreen Financial minh họa điều gì về ứng dụng tri thức?
+a.
+Việc ngoại hóa tri thức ẩn thành tài liệu đào tạo đã tăng cường hiệu quả cho nhân viên mới.
+b.
+Việc sử dụng công nghệ ra quyết định tự động và quy trình nhúng sẵn cho phép xử lý nhanh chóng hồ sơ vay vốn.
+
+c.
+Việc xã hội hóa tri thức giữa nhân viên giúp hình thành các ý tưởng đổi mới trong ngành ngân hàng.
+d.
+Việc kết hợp nhiều nguồn dữ liệu khác nhau đã tạo ra một hệ thống dự báo xu hướng tiêu dùng.
+Trong bốn quá trình KM, quá trình nào được xem là điểm kết thúc hợp lý của ba quá trình còn lại?
+a.
+Thu nhận tri thức, vì nó đảm bảo sự duy trì và lưu giữ nguồn tri thức hiện có.
+b.
+Khám phá tri thức, vì nó làm nền tảng cho việc tạo lập toàn bộ hệ thống tri thức mới.
+c.
+Ứng dụng tri thức, vì nó biến tri thức thu được thành hành động cụ thể tạo giá trị.
+
+d.
+Chia sẻ tri thức, vì nó giúp tri thức được truyền bá rộng rãi và không bị mất mát.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+3/15
+
+================================================================================
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong bối cảnh quản trị tri thức, mục tiêu cốt lõi của nắm bắt tri thức là gì?
+a.
+Giảm thiểu sự khác biệt giữa tri thức cá nhân và tri thức tổ chức bằng cách chuẩn hóa thông tin.
+b.
+Tự động hóa toàn bộ quá trình chuyển đổi tri thức nhờ ứng dụng công nghệ thông tin.
+c.
+Tái cấu trúc dữ liệu hiện có để phục vụ cho phân tích chiến lược và dự báo xu hướng.
+d.
+Biến tri thức tiềm ẩn trong cá nhân hoặc tài liệu thành tài sản chung có thể chia sẻ và ứng dụng.
+
+Điểm khác biệt chính giữa ngoại hóa và nội hóa trong nắm bắt tri thức là gì?
+a.
+Ngoại hóa chuyển tri thức ẩn thành tri thức hiện, trong khi nội hóa biến tri thức hiện thành tri thức ẩn.
+
+b.
+Ngoại hóa áp dụng cho các tri thức tổ chức, trong khi nội hóa áp dụng cho các tri thức cá nhân.
+c.
+Ngoại hóa tập trung vào tổng hợp tri thức hiện, trong khi nội hóa tập trung vào lưu giữ tri thức hiện.
+d.
+Ngoại hóa dựa vào phân tích dữ liệu, trong khi nội hóa dựa vào quan sát trực tiếp thực tế công việc.
+Quá trình nắm bắt tri thức không chỉ giới hạn trong phạm vi nội bộ tổ chức mà còn bao gồm gì?
+a.
+Dữ liệu từ hệ thống ERP và CRM được cài đặt trong doanh nghiệp.
+b.
+Các sản phẩm trí tuệ đã đăng ký bằng sáng chế và nhãn hiệu thương mại.
+c.
+Các báo cáo tài chính định kỳ và dữ liệu kế toán do đối tác cung cấp.
+d.
+Tri thức từ khách hàng, nhà cung cấp, đối thủ cạnh tranh và chuyên gia bên ngoài.
+
+Tại sao thủ tục (routines) được coi là một cơ chế ứng dụng tri thức có hiệu quả?
+a.
+Vì nó cho phép cá nhân hành động theo chuẩn mực và chính sách mà không cần học lại toàn bộ tri thức.
+
+b.
+Vì nó giúp tri thức hiện được biến đổi thành tri thức ẩn thông qua trải nghiệm cá nhân.
+c.
+Vì nó tạo ra tri thức hiện mới thông qua sự tích hợp các nguồn dữ liệu khác nhau.
+d.
+Vì nó đảm bảo tri thức ẩn được truyền đạt trực tiếp giữa các cá nhân trong tổ chức.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+4/15
+
+================================================================================
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 16
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 17
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ứng dụng tri thức được định nghĩa chính xác nhất là gì?
+a.
+Quá trình chuyển đổi tri thức ẩn thành tri thức hiện để phổ biến trong toàn tổ chức.
+b.
+Quá trình sử dụng tri thức của người khác để đưa ra quyết định mà không cần tự học tri thức đó.
+
+c.
+Quá trình tổng hợp tri thức hiện từ nhiều nguồn để hình thành một hệ thống tri thức mới.
+d.
+Quá trình lưu giữ tri thức quan trọng trong hệ thống để đảm bảo khả năng truy cập lâu dài.
+Điểm khác biệt then chốt giữa chia sẻ tri thức và định hướng (direction) là gì?
+a.
+Chia sẻ tri thức chỉ diễn ra ở cấp cá nhân, còn định hướng chủ yếu ở cấp tổ chức.
+b.
+Chia sẻ tri thức phụ thuộc hoàn toàn vào công nghệ, còn định hướng chủ yếu dựa trên giao tiếp trực tiếp.
+c.
+Chia sẻ tri thức nhấn mạnh người nhận phải tiếp thu tri thức, còn định hướng chỉ đưa ra khuyến nghị hành động.
+
+d.
+Chia sẻ tri thức liên quan đến dữ liệu định lượng, còn định hướng liên quan đến kinh nghiệm định tính.
+Trong bối cảnh chia sẻ tri thức, điều kiện tiên quyết để người nhận thực sự áp dụng tri thức là gì?
+a.
+Người nhận phải được cấp quyền truy xuất các tài liệu chính thức.
+b.
+Người nhận phải tham gia vào quá trình khai phá dữ liệu nội bộ.
+c.
+Người nhận phải hiểu tri thức được chia sẻ đủ sâu để hành động dựa trên nó.
+
+d.
+Người nhận phải truy cập vào hệ thống công nghệ để lưu trữ tri thức.
+Ai từng xem chia sẻ tri thức là một trong những quá trình kinh doanh trọng yếu cá nhân trực tiếp chịu trách nhiệm?
+a.
+Bill Gates, CEO của Microsoft, cùng với đổi mới sản phẩm và quản lý công nghệ.
+b.
+Jeff Bezos, CEO của Amazon, cùng với quản trị chuỗi cung ứng và tối ưu hóa logistics.
+c.
+Jack Welch, CEO của General Electric, cùng với phân bổ nguồn lực và phát triển con người.
+
+d.
+Steve Jobs, CEO của Apple, cùng với thiết kế sáng tạo và trải nghiệm khách hàng.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+5/15
+
+================================================================================
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khi chia sẻ tri thức hiện, cơ chế nào được coi là thích hợp nhất?
+a.
+Xã hội hóa, vì nó tập trung vào giao tiếp trực tiếp và quan sát hành vi thực tế.
+b.
+Trao đổi, vì nó dựa trên việc truyền đạt tài liệu, dữ liệu và báo cáo chính thức.
+
+c.
+Nội hóa, vì nó liên quan đến việc chuyển đổi tri thức hiện thành kỹ năng cá nhân.
+d.
+Ngoại hóa, vì nó biến tri thức ẩn thành tri thức hiện để đưa vào kho dữ liệu.
+Ví dụ nào minh họa rõ nhất cho việc kết hợp xã hội hóa và trao đổi trong chia sẻ tri thức?
+a.
+Một nhân viên đọc tài liệu đào tạo và tự áp dụng vào công việc hàng ngày.
+b.
+Một công ty phân tích dữ liệu khách hàng để phát triển mô hình dự báo tiêu dùng.
+c.
+Một cuộc họp trực tiếp trong đó nhân viên vừa thảo luận kinh nghiệm vừa chia sẻ báo cáo viết tay.
+
+d.
+Một chuyên gia viết lại toàn bộ kinh nghiệm thành sách để phổ biến trong tổ chức.
+Trong bốn quá trình quản trị tri thức, điểm chung quan trọng nhất của chúng là gì?
+a.
+Đều hướng đến việc chuẩn hóa các quy trình vận hành thay vì tạo ra tri thức mới.
+b.
+Đều gắn liền với sự chuyển đổi hoặc sử dụng tri thức nhằm phục vụ mục tiêu của tổ chức.
+
+c.
+Đều phụ thuộc hoàn toàn vào công nghệ thông tin và hệ thống lưu trữ dữ liệu điện tử.
+d.
+Đều chỉ áp dụng cho tri thức hiện vì tri thức ẩn không thể được khai thác có hệ thống.
+Công nghệ nào có thể hỗ trợ cơ chế định hướng trong ứng dụng tri thức?
+a.
+Hệ chuyên gia, hệ hỗ trợ ra quyết định và các công cụ khắc phục sự cố.
+
+b.
+Hệ thống ERP, hệ thống thông tin quản lý và các chuẩn mực ngành công nghiệp.
+c.
+Các kho dữ liệu, hệ thống nhóm trực tuyến và bộ sưu tập thực hành tốt nhất.
+d.
+Các công cụ khai phá dữ liệu, hệ thống phân tích thống kê và mô hình dự báo.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+6/15
+
+================================================================================
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Sự khám phá tri thức hiện mới phụ thuộc trực tiếp nhất vào cơ chế nào?
+a.
+Kết hợp (Combination), khi nhiều nguồn tri thức hiện được tích hợp để tạo ra tri thức mới.
+
+b.
+Xã hội hóa (Socialization), khi tri thức ẩn được chia sẻ trực tiếp giữa các cá nhân.
+c.
+Nội hóa (Internalization), khi tri thức hiện được biến thành tri thức ẩn thông qua học tập cá nhân.
+d.
+Ngoại hóa (Externalization), khi tri thức ẩn được chuyển đổi thành tri thức hiện để lưu trữ.
+Công nghệ nào thường được sử dụng để hỗ trợ cơ chế thủ tục trong ứng dụng tri thức?
+a.
+ERP, hệ thống thông tin quản lý truyền thống và hệ chuyên gia.
+
+b.
+Các hệ thống khai phá dữ liệu và công cụ trí tuệ nhân tạo tạo tri thức mới.
+c.
+Công cụ trao đổi nhóm trực tuyến, diễn đàn web và mạng xã hội nội bộ.
+d.
+Công cụ phân tích tài chính, mô hình dự báo và kho dữ liệu thống kê.
+Sự khác biệt chính giữa khám phá tri thức (discovery) và nắm bắt tri thức (capture) là gì?
+a.
+Khám phá chủ yếu diễn ra bên ngoài tổ chức, còn thu nhận chỉ diễn ra bên trong tổ chức.
+b.
+Khám phá phụ thuộc vào công nghệ khai phá dữ liệu, còn thu nhận phụ thuộc vào hệ thống ERP.
+c.
+Khám phá dựa trên quá trình nội hóa tri thức hiện, còn thu nhận dựa trên việc ngoại hóa tri thức ẩn.
+d.
+Khám phá liên quan đến việc tạo ra tri thức mới, còn nắm bắt tập trung vào việc lưu trữ tri thức đã tồn tại.
+
+Khám phá tri thức được định nghĩa chính xác nhất là gì?
+a.
+Quá trình tái sử dụng tri thức hiện có thông qua việc áp dụng lại các quy trình và mô hình cũ.
+b.
+Quá trình lưu giữ tri thức quan trọng của tổ chức thông qua việc chuẩn hóa quy trình và thủ tục quản lý.
+c.
+Quá trình phát triển tri thức ẩn hoặc tri thức hiện mới từ dữ liệu, thông tin hoặc từ sự tổng hợp tri thức trước đó.
+
+d.
+Quá trình chuyển đổi tri thức ẩn thành tri thức hiện để làm cho nó dễ dàng truyền đạt hơn trong tổ chức.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+7/15
+
+================================================================================
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một minh họa điển hình của quá trình nội hóa là gì?
+a.
+Nhân viên đọc tài liệu hướng dẫn rồi áp dụng vào công việc và biến nó thành kỹ năng cá nhân.
+
+b.
+Một công ty sử dụng phần mềm để lưu giữ và chuẩn hóa toàn bộ dữ liệu kinh doanh.
+c.
+Một nhóm nhân viên tổ chức buổi hội thảo để trao đổi trực tiếp kinh nghiệm thực tế.
+d.
+Một chuyên gia viết lại toàn bộ kinh nghiệm nghề nghiệp thành sách để chia sẻ với đồng nghiệp.
+Theo Grant (1996) và Nahapiet & Ghoshal (1998), ba quy trình con KM bổ sung cho Nonaka (1994) bao gồm:
+a.
+Phát hiện, Lưu trữ, Tích hợp.
+b.
+Định hướng, Trao đổi, Thủ tục.
+
+c.
+Xã hội hóa, Ngoại hóa, Kết hợp.
+d.
+Nắm bắt, Áp dụng, Chia sẻ.
+Ví dụ nào minh họa rõ nhất cho cơ chế kết hợp trong khám phá tri thức?
+a.
+Tái cấu trúc các báo cáo, dữ liệu và tri thức hiện từ nhiều nguồn để tạo ra một đề xuất về phân khúc khách hàng mới.
+
+b.
+Nhân viên đọc tài liệu đào tạo chính thức để hình thành sự hiểu biết cá nhân.
+c.
+Một chuyên gia viết lại kinh nghiệm bản thân dưới dạng tài liệu để phổ biến trong tổ chức.
+d.
+Nhân viên học hỏi kỹ năng từ đồng nghiệp qua quan sát và thực hành chung.
+Cơ chế thủ tục (routines) trong ứng dụng tri thức thường gắn liền với yếu tố nào?
+a.
+Việc chuyển đổi tri thức hiện thành tri thức ẩn thông qua quá trình học tập cá nhân.
+b.
+Việc truyền đạt trực tiếp tri thức ẩn thông qua quan sát và trải nghiệm thực tế.
+c.
+Việc áp dụng các quy trình, chính sách, thủ tục hoặc chuẩn mực đã được tổ chức xây dựng.
+
+d.
+Việc tổng hợp dữ liệu định lượng từ nhiều nguồn để tạo thành tri thức hiện mới.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+8/15
+
+================================================================================
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ví dụ nào minh họa rõ nhất cho cơ chế thủ tục trong ứng dụng tri thức?
+a.
+Nhân viên đọc tài liệu và biến tri thức hiện thành kỹ năng cá nhân để áp dụng.
+b.
+Nhân viên kết hợp nhiều nguồn dữ liệu khác nhau để hình thành tri thức hiện mới.
+c.
+Nhân viên tuân thủ chính sách nhân sự và quy trình quản lý đã được ban hành sẵn.
+
+d.
+Nhân viên học hỏi từ người đi trước bằng cách tham gia chương trình thực tập.
+Tại sao ứng dụng tri thức được xem là đặc biệt quan trọng trong quản trị tri thức?
+a.
+Vì nó chỉ tập trung vào việc chia sẻ tri thức hiện thông qua hệ thống công nghệ.
+b.
+Vì nó nhấn mạnh vào việc sáng tạo tri thức mới thay vì sử dụng tri thức sẵn có.
+c.
+Vì nó giúp biến toàn bộ tri thức ẩn thành tri thức hiện để lưu giữ trong cơ sở dữ liệu.
+d.
+Vì nó cho phép khai thác tri thức hiện có một cách hiệu quả mà không yêu cầu mọi cá nhân phải tự học lại.
+
+Khi chia sẻ tri thức ẩn, cơ chế phù hợp nhất được sử dụng là gì?
+a.
+Xã hội hóa, vì nó cho phép chia sẻ kinh nghiệm và hiểu biết không được ghi chép chính thức.
+
+b.
+Ngoại hóa, vì nó chuyển đổi tri thức ẩn thành tri thức hiện để phổ biến rộng rãi.
+c.
+Nội hóa, vì nó biến tri thức hiện thành tri thức ẩn thông qua học tập và trải nghiệm cá nhân.
+d.
+Trao đổi, vì nó dựa vào tài liệu chính thức và kho dữ liệu để truyền đạt thông tin.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+9/15
+
+================================================================================
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong bốn quá trình quản trị tri thức (khám phá, nắm bắt, chia sẻ, ứng dụng), tình huống nào minh họa rõ nhất sự gắn kết tổng hợp
+của tất cả các quá trình này trong một tổ chức?
+a.
+Một công ty phát hiện xu hướng tiêu dùng mới từ dữ liệu thị trường, nắm bắt chuyên môn từ đối tác, chia sẻ kết quả phân
+tích cho toàn bộ bộ phận kinh doanh, rồi áp dụng vào chiến lược sản phẩm.
+
+b.
+Một nhóm nghiên cứu khoa học lưu trữ tài liệu trong kho dữ liệu, xây dựng hệ thống ERP để chuẩn hóa thông tin, áp dụng
+quy trình kiểm toán và ban hành chính sách quản lý chất lượng.
+c.
+Một tổ chức tổ chức hội thảo nội bộ, nơi nhân viên được hướng dẫn quy trình làm việc, tham khảo báo cáo định kỳ và tham
+gia thảo luận nhóm để củng cố kỹ năng hiện có.
+d.
+Một nhân viên học hỏi kinh nghiệm từ đồng nghiệp, biến tri thức đó thành tài liệu chính thức, sau đó gửi báo cáo qua email
+để quản lý phê duyệt, cuối cùng đưa vào hệ thống CRM.
+Ví dụ nào minh họa rõ nhất cho quá trình ngoại hóa?
+a.
+Một nhà quản lý phân tích dữ liệu khách hàng từ nhiều hệ thống để tìm ra xu hướng tiêu dùng.
+b.
+Một nhóm nhân viên cùng nhau thảo luận và chia sẻ kinh nghiệm thông qua họp mặt định kỳ.
+c.
+Một nhân viên học được kỹ năng mới thông qua việc quan sát đồng nghiệp thực hành công việc.
+d.
+Một kỹ sư viết lại kinh nghiệm sửa chữa máy móc thành tài liệu hướng dẫn cho đồng nghiệp.
+
+Một tổ chức thiết lập hệ thống đào tạo chính thức để biến kinh nghiệm của chuyên gia thành kỹ năng cho nhân viên mới. Quá trình
+nào đang được áp dụng?
+a.
+Kết hợp, vì tri thức hiện từ nhiều nguồn được tổng hợp thành chương trình đào tạo mới.
+b.
+Nội hóa, vì tri thức hiện được chuyển thành tri thức ẩn thông qua học tập và trải nghiệm.
+
+c.
+Xã hội hóa, vì nhân viên học hỏi thông qua quan sát trực tiếp trong quá trình làm việc.
+d.
+Ngoại hóa, vì tri thức ẩn được biến thành tri thức hiện dưới dạng tài liệu đào tạo.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+10/15
+
+================================================================================
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Chia sẻ tri thức được định nghĩa chính xác nhất là gì?
+a.
+Quá trình đưa ra các khuyến nghị nhằm hướng dẫn hành động mà không cần truyền đạt tri thức.
+b.
+Quá trình truyền đạt tri thức ẩn hoặc tri thức hiện để người nhận hiểu và có thể hành động dựa trên nó.
+
+c.
+Quá trình phân tích dữ liệu có sẵn để tái cấu trúc thành tập hợp tri thức hiện mới cho tổ chức.
+d.
+Quá trình lưu giữ thông tin trong kho dữ liệu để bảo đảm an toàn và khả năng truy cập lâu dài.
+Nội hóa (Internalization) trong thu nhận tri thức chủ yếu liên quan đến cơ chế nào?
+a.
+Truyền đạt tri thức ẩn giữa các thành viên nhóm thông qua giao tiếp và chia sẻ phi chính thức.
+b.
+Chuyển đổi tri thức hiện thành tri thức ẩn thông qua học tập, trải nghiệm và thực hành của cá nhân.
+
+c.
+Tích hợp tri thức hiện từ nhiều nguồn khác nhau để hình thành hệ thống tri thức mới cho tổ chức.
+d.
+Lưu giữ tri thức hiện trong hệ thống công nghệ nhằm đảm bảo an toàn và khả năng truy xuất sau này.
+Quá trình chia sẻ tri thức có thể diễn ra ở những phạm vi nào?
+a.
+Chỉ giới hạn ở cấp quản lý và lãnh đạo cấp cao.
+b.
+Chủ yếu trong hệ thống công nghệ và cơ sở dữ liệu chính thức.
+c.
+Giữa cá nhân, nhóm, phòng ban hoặc cả tổ chức.
+
+d.
+Chỉ thông qua các hợp đồng, chính sách và văn bản pháp lý.
+Theo Nonaka (1994), bốn phương thức quản trị tri thức chủ yếu được xây dựng dựa trên cơ chế nào?
+a.
+Sự đo lường tri thức thông qua đánh giá hiệu quả sử dụng công nghệ tri thức.
+b.
+Sự chuẩn hóa tri thức thông qua các hệ thống thông tin chính thức của tổ chức.
+c.
+Sự tích hợp tri thức thông qua các chương trình đào tạo và huấn luyện tập trung.
+d.
+Sự chuyển đổi tri thức thông qua tương tác giữa tri thức ẩn và tri thức hiện.
+
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+11/15
+
+================================================================================
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Điểm khác biệt cơ bản giữa cơ chế định hướng và cơ chế thủ tục trong ứng dụng tri thức là gì?
+a.
+Định hướng dựa vào chỉ dẫn của người khác, còn thủ tục dựa vào quy trình và chuẩn mực sẵn có.
+
+b.
+Định hướng tập trung vào việc tổng hợp tri thức, còn thói quen tập trung vào việc lưu giữ dữ liệu.
+c.
+Định hướng nhấn mạnh vào công nghệ phân tích dữ liệu, còn thói quen nhấn mạnh vào quan sát.
+d.
+Định hướng liên quan đến chia sẻ tri thức ẩn, còn thói quen liên quan đến ngoại hóa tri thức.
+Trong bối cảnh chia sẻ tri thức, tại sao hiệu quả truyền đạt được nhấn mạnh?
+a.
+Vì cần đảm bảo tri thức hiện được hệ thống hóa vào kho dữ liệu một cách chính xác.
+b.
+Vì tổ chức muốn chuẩn hóa quy trình lưu trữ thông tin để giảm thiểu rủi ro mất mát.
+c.
+Vì người nhận cần hiểu tri thức đủ rõ để có thể áp dụng vào hành động thực tiễn.
+
+d.
+Vì mục tiêu là biến toàn bộ tri thức ẩn thành tri thức hiện có thể được mã hóa.
+Theo nội dung Chương 4, tri thức cần nắm bắt có thể nằm ở đâu?
+a.
+Trong quy trình sản xuất, trong tài sản hữu hình và trong các chỉ số hiệu suất tài chính.
+b.
+Trong các báo cáo chính thức, trong cơ sở dữ liệu nội bộ và trong hệ thống ERP.
+c.
+Được sở hữu bởi mỗi cá nhân, trong tài liệu, CSDL, hoặc cả ngoài ranh giới tổ chức.
+
+d.
+Trong phần mềm quản lý, trong hợp đồng pháp lý và trong quy trình kế toán chuẩn hóa.
+Khi một tổ chức tận dụng tri thức từ nhà cung cấp để cải tiến quy trình nội bộ, quá trình nào đang diễn ra?
+a.
+Khám phá tri thức, vì tri thức mới được hình thành thông qua tổng hợp nhiều nguồn dữ liệu.
+b.
+Chia sẻ tri thức, vì tri thức được lan truyền từ một cá nhân sang nhiều đối tượng khác nhau.
+c.
+Ứng dụng tri thức, vì tri thức đã có sẵn được đưa vào sử dụng để cải thiện hoạt động.
+d.
+Nắm bắt tri thức, vì tri thức được lấy từ một thực thể bên ngoài và chuyển vào tổ chức.
+
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+12/15
+
+================================================================================
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong chia sẻ tri thức, nếu cần truyền đạt đồng thời tri thức ẩn và tri thức hiện, giải pháp nào phù hợp nhất?
+a.
+Chỉ sử dụng trao đổi để phân phối tài liệu, dữ liệu và các báo cáo chuẩn hóa.
+b.
+Kết hợp xã hội hóa và trao đổi, ví dụ trong một cuộc họp trực tiếp vừa có thảo luận vừa có báo cáo.
+
+c.
+Chỉ sử dụng xã hội hóa để nhân viên tự quan sát và học hỏi qua trải nghiệm chung.
+d.
+Dùng ngoại hóa để biến tri thức ẩn thành tri thức hiện rồi lưu giữ trong cơ sở dữ liệu.
+Ví dụ nào minh họa rõ nhất cho cơ chế định hướng?
+a.
+Nhân viên áp dụng quy trình chuẩn ISO để tiến hành kiểm định chất lượng sản phẩm.
+b.
+Nhân viên nhận chỉ đạo từ cấp quản lý cấp cao để thực hiện một nhiệm vụ cụ thể.
+
+c.
+Nhân viên quan sát đồng nghiệp lành nghề để học cách vận hành thiết bị phức tạp.
+d.
+Nhân viên sử dụng dữ liệu khách hàng để tái cấu trúc thành báo cáo phân tích mới.
+Ngoại hóa (Externalization) trong quá trình nắm bắt tri thức được hiểu là gì?
+a.
+Quá trình chia sẻ trực tiếp tri thức ẩn giữa các cá nhân thông qua quan sát và thực hành chung.
+b.
+Quá trình tổng hợp tri thức hiện từ nhiều nguồn để hình thành tri thức hiện mới phức tạp hơn.
+c.
+Quá trình biến đổi tri thức ẩn thành tri thức hiện có thể được ghi chép, mã hóa hoặc tài liệu hóa.
+
+d.
+Quá trình chuyển đổi tri thức hiện thành tri thức ẩn để áp dụng vào kỹ năng làm việc của cá nhân.
+Trong khám phá tri thức, việc sử dụng kỹ thuật khai phá dữ liệu (data mining) nhằm mục đích gì?
+a.
+Giúp tăng cường hiệu quả sử dụng các tài liệu hiện có mà không cần sáng tạo tri thức mới.
+b.
+Giúp truyền đạt kinh nghiệm giữa các cá nhân trong cùng một nhóm làm việc.
+c.
+Giúp phát hiện các mối quan hệ mới trong dữ liệu và tạo ra các mô hình dự báo hoặc phân loại.
+
+d.
+Giúp tái cấu trúc tri thức ẩn thành tri thức hiện để lưu trữ lâu dài.
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+13/15
+
+================================================================================
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khám phá tri thức ẩn mới diễn ra chủ yếu thông qua cơ chế nào?
+a.
+Kết hợp, khi tri thức hiện được tổng hợp thành tập hợp tri thức hiện mới.
+b.
+Xã hội hóa, khi tri thức ẩn từ nhiều cá nhân được tích hợp để hình thành tri thức ẩn mới.
+
+c.
+Nội hóa, khi cá nhân chuyển tri thức hiện thành tri thức ẩn để áp dụng vào công việc.
+d.
+Trao đổi, khi tri thức hiện được chia sẻ trực tiếp qua các tài liệu chính thức.
+Tại sao việc nắm bắt tri thức ẩn được xem là đặc biệt quan trọng trong quản trị tri thức?
+a.
+Vì tri thức ẩn chỉ tồn tại ở cấp độ tổ chức chứ không liên quan đến cá nhân.
+b.
+Vì tri thức ẩn thường khó truy xuất trực tiếp và dễ mất đi khi nhân sự rời bỏ tổ chức.
+
+c.
+Vì tri thức ẩn luôn được ghi chép chi tiết và dễ dàng truy cập trong tài liệu nội bộ.
+d.
+Vì tri thức ẩn có thể được lưu trữ tự động bằng hệ thống công nghệ thông tin.
+◄ KM_Slides_Ch04
+Chuyển tới...
+Slides - Nhóm 6 ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+14/15
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+GET SOCIAL
+      
+22:50 5/12/25
+Chapter 4 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2059992&cmid=667488&showall=1
+15/15
+
+================================================================================

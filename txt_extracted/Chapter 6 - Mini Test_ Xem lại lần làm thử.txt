@@ -1,0 +1,918 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức
+/  Week 9 - Chapter 6: Knowledge Application Systems /  Chapter 6 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 1 October 2025, 12:09 PM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 1 October 2025, 12:26 PM
+Thời gian thực
+hiện
+17 phút 31 giây
+Điểm
+60,00/60,00
+Điểm
+10,00 trên 10,00 (100%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong số các loại hệ thống ứng dụng tri thức, hệ thống nào chủ yếu dựa vào mối quan hệ cấp trên–cấp dưới để truyền tri thức?
+a.
+Hệ thống hỗ trợ quyết định dựa trên phân tích dữ liệu phức tạp.
+b.
+Hệ thống thủ tục với quy trình chuẩn hóa cho toàn bộ nhân viên.
+c.
+Hệ thống chuyên gia dựa trên tri thức được mã hóa thành luật IF–THEN.
+d.
+Hệ thống hướng dẫn với tri thức truyền đạt thông qua chỉ đạo.
+
+Vì sao các hệ thống ứng dụng tri thức thường gắn liền với công nghệ trí tuệ nhân tạo?
+a.
+Vì AI thay thế hoàn toàn các cơ chế tổ chức trong quản trị tri thức.
+b.
+Vì AI tạo điều kiện để tự động hóa quá trình thu giữ tri thức từ cộng đồng.
+c.
+Vì AI giúp mô phỏng suy nghĩ của con người và hỗ trợ quyết định nhanh chóng.
+
+d.
+Vì AI loại bỏ nhu cầu sử dụng bất kỳ công nghệ nào khác trong doanh nghiệp.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+1/17
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khi một hệ thống AI được thiết kế để hành động giống con người, điều gì được nhấn mạnh?
+a.
+Đầu vào và đầu ra của hệ thống phù hợp với cách con người phản ứng trong các tình huống.
+
+b.
+Hệ thống chỉ cần dựa vào dữ liệu chuẩn hóa thay vì suy nghĩ logic.
+c.
+Hệ thống hoạt động dựa trên việc loại bỏ mọi sai số từ tri thức ẩn.
+d.
+Kết quả của hệ thống phụ thuộc hoàn toàn vào các báo cáo định kỳ.
+Nếu không có quy trình chuyển giao tri thức hiệu quả, hệ thống ứng dụng tri thức có nguy cơ nào?
+a.
+Tri thức hiện tại sẽ tự động biến mất khỏi thư viện mà không có cơ chế lưu giữ.
+b.
+Các quy tắc vận hành sẽ bị vô hiệu hóa và hệ thống ngừng hoạt động ngay.
+c.
+Hệ thống sẽ tự động chuyển đổi sang công nghệ khác mà không cần quản trị.
+d.
+Người dùng sẽ không bổ sung thêm trường hợp mới vào thư viện tình huống.
+
+Trong bối cảnh ứng dụng tri thức, hệ thống hỗ trợ quyết định có vai trò chính là gì?
+a.
+Cung cấp thông tin phân tích giúp nhà quản lý đưa ra quyết định hợp lý.
+
+b.
+Đảm bảo sự lặp lại quy trình thông qua chuẩn hóa và thủ tục.
+c.
+Truyền đạt chỉ đạo trực tiếp từ lãnh đạo đến nhân viên.
+d.
+Mã hóa tri thức chuyên gia thành các luật suy luận.
+Ý nghĩa quan trọng nhất của SOS Advisor đối với quy trình quản lý của cơ quan liên bang là gì?
+a.
+Giúp nhân viên liên bang tập trung vào hỗ trợ chuyên sâu thay vì sàng lọc sơ bộ.
+
+b.
+Thay thế hoàn toàn các cộng đồng thực hành trong việc lan tỏa tri thức.
+c.
+Đảm bảo tất cả doanh nghiệp nhỏ đều có quyền nhận hỗ trợ vốn ban đầu.
+d.
+Ngăn chặn sự xuất hiện của các ứng viên không đủ điều kiện tham gia thị trường.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+2/17
+
+================================================================================
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+So với các hình thức biểu diễn tri thức khác, vì sao luật thường được lựa chọn?
+a.
+Vì chúng thay thế hoàn toàn nhu cầu trao đổi tri thức giữa các chuyên gia.
+b.
+Vì có khả năng mô tả chi tiết mọi hiện tượng phức tạp mà không cần kiểm chứng.
+c.
+Vì dễ hình dung, triển khai trực quan và phù hợp cho việc mô tả tri thức thực tiễn.
+
+d.
+Vì đảm bảo tính bảo mật tuyệt đối của tri thức trong mọi hoàn cảnh vận hành.
+Theo phương pháp Case-Method Cycle, mục tiêu chính của quá trình phát triển hệ thống là gì?
+a.
+Chuyển đổi tất cả tri thức ẩn thành tri thức hiện bằng cách chuẩn hóa quy trình.
+b.
+Phát triển hệ thống có khả năng lưu trữ các trường hợp mới và truy xuất trường hợp liên quan.
+
+c.
+Tích hợp toàn bộ dữ liệu thô mà không cần sàng lọc hay phân loại.
+d.
+Tự động loại bỏ các tình huống tương đồng để giảm dung lượng cơ sở dữ liệu.
+Theo mô hình bộ nhớ động của Schank (1982), cách tiếp cận của CBR nhấn mạnh vào yếu tố nào?
+a.
+Việc lưu trữ các công thức toán học để giải thích hiện tượng thực tiễn.
+b.
+Quá trình truy xuất và sử dụng kinh nghiệm đã có nhằm giải quyết tình huống mới.
+
+c.
+Quá trình thay thế tri thức ẩn bằng tri thức hiện trong môi trường tổ chức.
+d.
+Việc tiêu chuẩn hóa toàn bộ dữ liệu vận hành thành các bảng quy chiếu cố định.
+Giải pháp Total Recall được xây dựng nhằm khắc phục vấn đề nào của AQUARIS?
+a.
+Cho phép xây dựng thư viện tình huống dựa trên CBR để tái sử dụng kinh nghiệm phân tích lỗi.
+
+b.
+Chuẩn hóa tất cả dữ liệu chất lượng thành báo cáo quản trị cho cấp lãnh đạo.
+c.
+Tạo cơ chế kết nối trực tiếp giữa khách hàng và nhóm kỹ sư bảo đảm chất lượng.
+d.
+Tự động loại bỏ các lỗi nhỏ nhằm tập trung vào các sự cố nghiêm trọng nhất.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+3/17
+
+================================================================================
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong quy trình của hệ thống CBR, bước nào đảm bảo cải thiện chất lượng giải pháp về lâu dài?
+a.
+Phản hồi từ việc áp dụng giải pháp để phân loại kết quả thành thành công hoặc thất bại.
+
+b.
+Lưu giữ nguyên trạng mọi trường hợp cũ mà không cần cập nhật.
+c.
+Tự động loại bỏ những trường hợp không thành công để giữ cơ sở dữ liệu nhỏ gọn.
+d.
+Đưa toàn bộ dữ liệu vào hệ thống thống kê để tính xác suất chính xác.
+Hệ thống chuyên gia minh họa rõ nhất cho cách áp dụng tri thức nào?
+a.
+Tri thức hiện được mã hóa thành các luật và suy luận có cấu trúc.
+
+b.
+Tri thức được lặp lại qua các thủ tục tổ chức hàng ngày.
+c.
+Tri thức ẩn lan truyền qua cộng đồng thực hành và xã hội hóa.
+d.
+Tri thức được tích hợp thành báo cáo hỗ trợ cho quản lý cấp cao.
+Quy trình chuyển giao tri thức trong Case-Method Cycle nhằm đạt được điều gì?
+a.
+Giới hạn quyền truy cập để đảm bảo tính bảo mật tuyệt đối.
+b.
+Chuẩn hóa tất cả tri thức hiện có và loại bỏ tri thức ẩn.
+c.
+Tạo động lực để người dùng chấp nhận và bổ sung thêm các trường hợp mới.
+
+d.
+Ngăn chặn việc phản hồi để duy trì tính ổn định của thư viện.
+Theo bối cảnh ngành điện, vì sao khả năng chẩn đoán sớm sự cố của GenAID lại mang tính sống còn?
+a.
+Vì các sự cố nhỏ thường được xử lý ngay mà không ảnh hưởng đến hoạt động tổng thể.
+b.
+Vì một lần dừng máy có thể gây thiệt hại từ 60.000 USD đến 250.000 USD.
+
+c.
+Vì nhân viên tại chỗ luôn có đủ chuyên môn để phân tích dữ liệu nên cần tự động hóa.
+d.
+Vì chi phí lắp đặt cảm biến mới thường vượt quá mức dự toán ngân sách hằng năm.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+4/17
+
+================================================================================
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 16
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 17
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Mục tiêu chính khi Westinghouse phát triển hệ thống GenAID là gì?
+a.
+Chuẩn hóa toàn bộ dữ liệu bảo trì để giảm chi phí lưu trữ hồ sơ vận hành.
+b.
+Dự báo nhu cầu thị trường cho các loại tua-bin mới nhằm tối ưu sản xuất.
+c.
+Phát hiện sớm các điều kiện vận hành bất thường của máy phát điện tua-bin.
+
+d.
+Loại bỏ nhu cầu sử dụng cảm biến trong quá trình giám sát thiết bị.
+Cơ chế nào thường được các hệ thống ứng dụng tri thức khai thác để đảm bảo sự chỉ dẫn và chuẩn hóa hành vi?
+a.
+Sáng kiến cá nhân, tự do sáng tạo và thói quen cá nhân hóa công việc.
+b.
+Quan hệ thứ bậc, trung tâm hỗ trợ và các bộ phận trợ giúp kỹ thuật.
+
+c.
+Hệ thống tự động, mô phỏng sinh học và thuật toán tiến hóa ngẫu nhiên.
+d.
+Thị trường mở, cạnh tranh nội bộ và phân quyền tài chính độc lập.
+Vì sao Turing Test thường được dùng để đánh giá một hệ thống AI?
+a.
+Dựa trên khả năng phân tích độ chính xác khi hệ thống tái tạo tri thức hiện trong cơ sở dữ liệu.
+b.
+Dựa trên khả năng hệ thống hành động hợp lý trong môi trường phức tạp.
+c.
+Dựa trên khả năng một hệ thống AI có thể “đánh lừa” người đối thoại sao cho họ không phân biệt được đó là máy hay con
+người.
+
+d.
+Dựa trên mức độ mà hệ thống có thể bắt chước tư duy sáng tạo của con người.
+Trong hệ thống CBR, mục tiêu chính khi bắt chước cách con người giải quyết vấn đề là gì?
+a.
+Tìm kiếm các trường hợp tương tự trong trí nhớ và điều chỉnh giải pháp cũ cho vấn đề mới.
+
+b.
+Tái tạo toàn bộ tiến trình tư duy sáng tạo trong bộ não con người.
+c.
+Loại bỏ sự tham gia của chuyên gia để đảm bảo tính khách quan tuyệt đối.
+d.
+Sử dụng mô hình quy tắc chuẩn hóa để mô phỏng quyết định tổ chức.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+5/17
+
+================================================================================
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong bối cảnh ngành bán dẫn, thách thức lớn nhất khi National Semiconductor duy trì chất lượng sản phẩm là gì?
+a.
+Khối lượng dữ liệu sản xuất khổng lồ khiến việc chuẩn hóa trở nên bất khả thi.
+b.
+Việc phụ thuộc vào nhà cung cấp thiết bị cảm biến bên ngoài làm tăng chi phí vận hành.
+c.
+Sự thiếu hụt nhân lực kỹ thuật có kinh nghiệm khiến việc giám sát không nhất quán.
+d.
+Độ phức tạp cao của công nghệ bán dẫn khiến việc phân tích nguyên nhân lỗi trở nên khó khăn.
+
+Ví dụ nào thể hiện rõ nhất hệ thống thủ tục trong tổ chức?
+a.
+Quy trình kiểm toán tài chính định kỳ được chuẩn hóa trong toàn doanh nghiệp.
+
+b.
+Mô hình thống kê dự báo nhu cầu dựa trên dữ liệu thị trường.
+c.
+Mạng xã hội doanh nghiệp khuyến khích chia sẻ tri thức ngầm.
+d.
+Hệ thống trí tuệ nhân tạo hỗ trợ phân tích hành vi khách hàng phức tạp.
+Trong bối cảnh ứng dụng KM, giá trị của AI thể hiện rõ nhất ở khả năng nào?
+a.
+Khả năng hỗ trợ xử lý tri thức theo hướng mô phỏng tư duy của con người.
+
+b.
+Khả năng chuẩn hóa tri thức hiện để giảm chi phí vận hành tổ chức.
+c.
+Khả năng thay thế toàn bộ nhân lực để đảm bảo hiệu quả vận hành tối đa.
+d.
+Khả năng loại bỏ hoàn toàn tri thức ẩn nhằm duy trì dữ liệu minh bạch.
+Trong sáu quy trình của Case-Method Cycle, quy trình phát triển thư viện trường hợp tập trung vào điều gì?
+a.
+Chỉ lưu trữ dữ liệu định tính mà không cần chú ý đến dữ liệu định lượng.
+b.
+Hạn chế việc thêm mới các trường hợp để tránh trùng lặp dữ liệu.
+c.
+Xây dựng và duy trì một thư viện đủ lớn để hỗ trợ lĩnh vực cần áp dụng.
+
+d.
+Loại bỏ các trường hợp cũ nhằm đảm bảo tính gọn nhẹ của hệ thống.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+6/17
+
+================================================================================
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong thực tiễn, yếu tố nào đảm bảo sự thành công của quá trình phát triển hệ thống ứng dụng tri thức?
+a.
+Giới hạn hệ thống chỉ cho một nhóm nhỏ để giảm chi phí.
+b.
+Tập trung tuyệt đối vào công nghệ mà không cần quan tâm đến văn hóa tổ chức.
+c.
+Việc loại bỏ toàn bộ tri thức ẩn để tránh mâu thuẫn trong thư viện.
+d.
+Sự phối hợp giữa kỹ thuật phần mềm, quản lý dữ liệu và sự chấp nhận của người dùng.
+
+Trong bối cảnh doanh nghiệp, lợi ích thực tiễn nào có thể đạt được khi áp dụng CBR?
+a.
+Loại bỏ các kho dữ liệu cũ để tối giản chi phí vận hành công nghệ.
+b.
+Tự động hóa toàn bộ quy trình sản xuất mà không cần đến nhân lực.
+c.
+Chuẩn hóa mọi hoạt động sáng tạo để duy trì tính nhất quán tuyệt đối.
+d.
+Khả năng học hỏi từ kinh nghiệm tổ chức để giải quyết nhanh các sự cố vận hành.
+
+Trong quy trình khai thác cơ sở dữ liệu, công cụ nào thường được sử dụng để nâng cao giá trị hệ thống?
+a.
+Các mô hình tâm lý học để dự đoán hành vi người dùng.
+b.
+Các kỹ thuật khai phá dữ liệu (data mining) kết hợp với phân tích thống kê.
+
+c.
+Các quy tắc hành vi xã hội nhằm chuẩn hóa giao tiếp nội bộ.
+d.
+Các chiến lược nhân sự để giảm chi phí vận hành hạ tầng.
+Một hệ thống CBR điển hình cần làm bước nào trước khi thích ứng giải pháp cho vấn đề hiện tại?
+a.
+So sánh tất cả dữ liệu trong thư viện mà không có tiêu chí lọc.
+b.
+Truy xuất trường hợp tương tự nhất từ thư viện và lượng hóa độ tương đồng.
+
+c.
+Tạo ra tri thức hoàn toàn mới mà không dựa trên các tình huống trước đó.
+d.
+Xây dựng mô hình thống kê mới thay cho dữ liệu kinh nghiệm cũ.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+7/17
+
+================================================================================
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Mục tiêu cơ bản của SOS Advisor trong bối cảnh chương trình SBIR/STTR là gì?
+a.
+Tối ưu hóa thời gian đánh giá khả năng đủ điều kiện của doanh nghiệp.
+
+b.
+Thay thế hoàn toàn quy trình tuyển chọn ứng viên cho các cơ quan liên bang.
+c.
+Chuẩn hóa tri thức ẩn của các nhân viên liên bang thành dữ liệu có cấu trúc.
+d.
+Tập trung vào việc thương mại hóa ngay các sản phẩm công nghệ cao.
+Khi hai tình huống chưa đủ tương đồng, hệ thống CBR sẽ thực hiện hành động nào?
+a.
+Hủy bỏ toàn bộ dữ liệu cũ và yêu cầu nhập mới từ chuyên gia.
+b.
+Áp dụng giải pháp hiện có mà không cần kiểm chứng thực tiễn.
+c.
+Điều chỉnh giải pháp từ trường hợp trước để phù hợp với vấn đề mới.
+
+d.
+Tạo ra quy tắc cố định để thay thế mọi tình huống trong tương lai.
+Thách thức lớn nhất mà Darty phải đối mặt trước khi triển khai hệ thống ứng dụng tri thức là gì?
+a.
+Toàn bộ dữ liệu cuộc gọi không thể được số hóa và lưu trữ trong kho dữ liệu trung tâm.
+b.
+Hệ thống ERP nội bộ không tích hợp được với quy trình vận hành của tổng đài.
+c.
+Hầu hết cuộc gọi bị chuyển lên cấp 2 vì nhân viên cấp 1 thiếu kiến thức kỹ thuật.
+
+d.
+Tỷ lệ khách hàng không hài lòng luôn ở mức 95% bất chấp nỗ lực cải thiện.
+Trong thực tiễn, khi nào hệ thống chuyên gia được xem là phù hợp nhất?
+a.
+Khi tổ chức muốn loại bỏ hoàn toàn tri thức ẩn để chuẩn hóa dữ liệu.
+b.
+Khi cần mô phỏng quyết định của chuyên gia trong môi trường phức tạp.
+
+c.
+Khi các thủ tục lặp lại được coi là nền tảng duy nhất cho vận hành.
+d.
+Khi việc truyền đạt chỉ đạo là cách duy nhất để áp dụng tri thức.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+8/17
+
+================================================================================
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Điểm nổi bật trong dự án CLAIM của GE Healthcare nhằm cải thiện quy trình xác định tài liệu đính kèm cho hồ sơ bồi hoàn là gì?
+a.
+Sử dụng hệ thống CBR so sánh hồ sơ mới với hồ sơ tương tự trong quá khứ để dự đoán nhu cầu đính kèm.
+
+b.
+Áp dụng mô hình học sâu để thay thế hoàn toàn nhân viên quản lý hồ sơ bồi hoàn.
+c.
+Giới hạn xử lý hồ sơ ở mức thử nghiệm thủ công để đảm bảo bảo mật thông tin bệnh nhân.
+d.
+Tập trung vào chuẩn hóa toàn bộ quy trình thanh toán y tế thành một giao diện ERP thống nhất.
+Một hạn chế nổi bật của hệ thống dựa trên luật khi số lượng luật tăng quá lớn là gì?
+a.
+Làm giảm khả năng học hỏi tri thức ẩn từ trải nghiệm cá nhân của nhân viên.
+b.
+Làm tri thức trở nên phân mảnh và buộc tổ chức phải phụ thuộc vào tri thức bên ngoài.
+c.
+Khiến hệ thống chỉ còn dựa trên dữ liệu định tính mà không thể xử lý dữ liệu định lượng.
+d.
+Gây khó khăn cho việc mã hóa, kiểm chứng, bảo trì và giảm hiệu quả của bộ suy luận.
+
+Một ví dụ điển hình về việc hệ thống ứng dụng tri thức hỗ trợ các quy trình theo thói quen là gì?
+a.
+Quản lý tài chính xây dựng mô hình dự báo lợi nhuận dài hạn bằng công cụ BI.
+b.
+Nhân sự tuyển dụng phát triển chiến lược nhân tài toàn cầu dựa trên benchmark.
+c.
+Kỹ sư nghiên cứu tạo ra tri thức mới từ dữ liệu thử nghiệm chưa được công bố.
+d.
+Nhân viên dịch vụ khách hàng tìm giải pháp giao hàng thay thế khi xử lý đơn hàng.
+
+Trong cách tiếp cận CBR, tri thức được tích lũy và phát triển theo cơ chế nào?
+a.
+Bằng cách chuyển đổi mọi tình huống thành quy tắc IF-THEN chuẩn hóa.
+b.
+Bằng cách bổ sung các trường hợp mới cùng kết quả đánh giá vào thư viện.
+
+c.
+Bằng cách loại bỏ dần các trường hợp cũ để giữ lại dữ liệu tinh gọn.
+d.
+Bằng cách thay thế toàn bộ dữ liệu kinh nghiệm bằng mô hình dự đoán thống kê.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+9/17
+
+================================================================================
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong phát triển hệ thống dựa trên luật, vai trò của knowledge engineer là gì?
+a.
+Xây dựng quy trình kinh doanh chuẩn hóa để thay thế chuyên gia trong tổ chức.
+b.
+Quản lý dữ liệu vận hành và đảm bảo các chỉ số KPI đạt mức tiêu chuẩn toàn cầu.
+c.
+Khai thác tri thức từ chuyên gia và biểu diễn nó thành dạng có thể xử lý bởi máy tính.
+
+d.
+Thiết kế và điều chỉnh thuật toán thống kê nhằm mô hình hóa toàn bộ tri thức hiện.
+Trong quản trị tri thức, ý nghĩa của việc AI được liên hệ chặt chẽ với tri thức là gì?
+a.
+AI chỉ giới hạn ở chức năng tự động hóa các quy trình chuẩn hóa.
+b.
+AI thay thế toàn bộ hệ thống chia sẻ tri thức, loại bỏ nhu cầu trao đổi phi chính thức.
+c.
+AI đảm bảo tri thức hiện luôn chiếm ưu thế so với tri thức ẩn.
+d.
+AI cung cấp một khuôn khổ giúp khai thác tri thức để hỗ trợ suy luận và ra quyết định.
+
+Trước khi có GenAID, hạn chế lớn nhất trong cách phân tích dữ liệu cảm biến tại nhà máy điện là gì?
+a.
+Thiết bị cảm biến không thể cung cấp dữ liệu theo thời gian thực cho nhà máy.
+b.
+Hệ thống kiểm toán tài chính không tích hợp được với dữ liệu kỹ thuật.
+c.
+Dữ liệu được thu thập thủ công và thiếu tính nhất quán giữa các bộ phận.
+d.
+Phải phụ thuộc vào kỹ thuật viên đến tận nơi để kiểm tra định kỳ dữ liệu.
+
+Vì sao CBR được coi là phương pháp suy luận dựa trên sự tương đồng?
+a.
+Vì nó loại bỏ tính ngẫu nhiên trong quá trình ứng dụng tri thức.
+b.
+Vì nó dựa trên mối quan hệ nhân quả giữa dữ liệu và giải pháp chuẩn hóa.
+c.
+Vì nó thay thế mọi kinh nghiệm tổ chức bằng các thuật toán thống kê.
+d.
+Vì nó tận dụng sự tương đồng giữa tình huống cũ và tình huống mới để đề xuất giải pháp.
+
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+10/17
+
+================================================================================
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Điểm khác biệt then chốt giữa tìm kiếm trong thư viện trường hợp và tìm kiếm cơ sở dữ liệu thông thường là gì?
+a.
+Thư viện trường hợp chỉ lưu giữ dữ liệu định lượng dưới dạng bảng số liệu.
+b.
+Việc tìm kiếm tập trung vào các trường hợp có mức độ tương tự cao với vấn đề hiện tại.
+
+c.
+Tìm kiếm trong thư viện trường hợp chỉ cần duyệt qua toàn bộ dữ liệu mà không cần so sánh.
+d.
+Thư viện trường hợp loại bỏ hoàn toàn nhu cầu phản hồi kết quả sau khi áp dụng.
+Hệ thống AQUARIS do National phát triển năm 1995 có hạn chế nổi bật nào?
+a.
+Không cho phép phân tích định lượng về tỷ lệ lỗi của từng dây chuyền sản xuất.
+b.
+Không thể truy xuất hiệu quả các trường hợp lỗi tương tự trong quá khứ.
+
+c.
+Không tích hợp được với các hệ thống ERP hiện có của tập đoàn.
+d.
+Không có khả năng lưu trữ dữ liệu số hóa dưới dạng báo cáo kỹ thuật chuẩn.
+Một tính năng đặc biệt trong giao diện người dùng của hệ thống Darty là gì?
+a.
+Thuật toán deep learning tái tạo toàn bộ quy trình dịch vụ khách hàng.
+b.
+Cơ chế blockchain đảm bảo bảo mật dữ liệu cuộc gọi trong toàn bộ hệ thống.
+c.
+Công cụ tìm kiếm trực quan cho phép mô tả vấn đề bằng hình ảnh minh họa.
+
+d.
+Cơ sở dữ liệu phi cấu trúc thay thế hoàn toàn cho kho dữ liệu hiện có.
+Ví dụ nào minh họa rõ cách áp dụng hệ thống dựa trên luật trong thực tiễn?
+a.
+SOS Advisor kiểm tra điều kiện để xác định một công ty có đủ tiêu chuẩn cho chương trình SBIR/STTR.
+
+b.
+Một tổ chức tài chính xây dựng mô hình dự báo thị trường chứng khoán bằng dữ liệu lớn.
+c.
+Một công ty phần mềm phát triển công cụ khai phá dữ liệu để tìm ra các luật kết hợp.
+d.
+Một bệnh viện dùng thuật toán học sâu để nhận diện hình ảnh y tế phức tạp.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+11/17
+
+================================================================================
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+So với hệ thống dựa trên luật, điểm mạnh nổi bật của CBR là gì?
+a.
+Khả năng dễ dàng thích ứng giải pháp trong bối cảnh phức tạp và thay đổi.
+
+b.
+Khả năng thay thế tri thức ẩn bằng tri thức hiện trong mọi tình huống.
+c.
+Khả năng đảm bảo mọi tình huống được xử lý bằng cùng một quy tắc chuẩn.
+d.
+Khả năng loại bỏ hoàn toàn sự can thiệp của chuyên gia ra quyết định.
+Trong quá trình vận hành tàu con thoi, hệ thống OFD được NASA áp dụng nhằm giải quyết thách thức nào?
+a.
+Ghi nhận, phân loại và tái sử dụng các kinh nghiệm từ những bất thường chưa từng gặp.
+
+b.
+Quản lý dữ liệu hành chính để giảm chi phí tài chính cho trung tâm vũ trụ.
+c.
+Chuẩn hóa toàn bộ quy trình lắp ráp để tăng tốc độ sản xuất hàng loạt.
+d.
+Loại bỏ nhu cầu can thiệp của kỹ sư bằng cách tự động hóa hoàn toàn mọi hoạt động.
+Quy trình vận hành hệ thống trong phát triển hệ thống ứng dụng tri thức có đặc điểm gì?
+a.
+Loại bỏ toàn bộ dữ liệu lỗi để đảm bảo thư viện trường hợp luôn tinh gọn.
+b.
+Phụ thuộc hoàn toàn vào các chuyên gia thay vì các nguyên tắc kỹ thuật chung.
+c.
+Dựa vào các quy trình kỹ nghệ phần mềm và quản lý cơ sở dữ liệu quan hệ.
+
+d.
+Chỉ tập trung vào khâu cài đặt phần cứng mà không chú trọng đến người dùng.
+Một luật trong hệ thống chuyên gia dựa trên luật thường được biểu diễn dưới hình thức nào?
+a.
+Các câu lệnh điều kiện dạng IF-THEN.
+
+b.
+Các công thức toán học dùng để tính xác suất và dự báo kết quả trong mọi tình huống.
+c.
+Các sơ đồ khối mô tả chi tiết từng bước trong quá trình xử lý dữ liệu phức tạp.
+d.
+Các biểu đồ chuỗi thời gian thể hiện xu hướng thay đổi của thông tin trong cơ sở dữ liệu.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+12/17
+
+================================================================================
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Sau ba tháng triển khai hệ thống tại Darty, kết quả nổi bật nhất đạt được là gì?
+a.
+Hệ thống tạo ra báo cáo tự động giúp ban lãnh đạo loại bỏ nhu cầu về các cộng đồng thực hành.
+b.
+Tỷ lệ cuộc gọi phải chuyển lên cấp 2 giảm từ 95% xuống còn 20%.
+
+c.
+Doanh thu tăng trưởng 30% nhờ tối ưu hóa hệ thống ERP tích hợp.
+d.
+Số lượng nhân viên cấp 1 giảm một nửa do hệ thống thay thế hoàn toàn vai trò của họ.
+Cơ chế nào giúp SOS Advisor vừa sàng lọc được ứng viên đủ điều kiện, vừa giảm tải cho nhân viên chương trình?
+a.
+Áp dụng thuật toán thống kê phức tạp để phân loại mọi dữ liệu nộp vào.
+b.
+Dựa trên tập hợp câu hỏi trắc nghiệm với luật IF–THEN đánh giá tự động.
+
+c.
+Tích hợp trực tiếp với hệ thống ERP nhằm chuẩn hóa thông tin tài chính.
+d.
+Sử dụng cơ chế đấu thầu công khai để chọn lọc các hồ sơ doanh nghiệp.
+Một hạn chế khi áp dụng hệ thống hướng dẫn trong tổ chức là gì?
+a.
+Không thể kết hợp tri thức hiện và tri thức ẩn trong môi trường thực tế.
+b.
+Đòi hỏi phải có dữ liệu lớn và công cụ phân tích thống kê phức tạp.
+c.
+Phụ thuộc nhiều vào người lãnh đạo, có thể dẫn đến thiên lệch cá nhân.
+
+d.
+Khó duy trì sự lặp lại quy trình, làm giảm tính ổn định trong hoạt động.
+Vì sao CBR thường được chọn làm công nghệ nền tảng trong phát triển hệ thống ứng dụng tri thức?
+a.
+Vì CBR có thể thay thế hoàn toàn vai trò của con người trong suy luận.
+b.
+Vì CBR đảm bảo mọi tình huống đều được xử lý bằng một quy tắc duy nhất.
+c.
+Vì CBR loại bỏ nhu cầu quản lý và bảo trì thư viện trường hợp.
+d.
+Vì CBR trực quan, tận dụng tri thức hiện có như báo cáo sự cố và dễ triển khai.
+
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+13/17
+
+================================================================================
+Câu hỏi 51
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 52
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 53
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 54
+Đúng
+Đạt điểm 1,00 trên 1,00
+Quy trình quản lý trong phát triển hệ thống ứng dụng tri thức có vai trò nào?
+a.
+Tạo ra một mô hình duy nhất thay thế mọi phương pháp phát triển khác.
+b.
+Xác định cách thức thành lập nhóm dự án và loại hình hỗ trợ tổ chức cần thiết.
+
+c.
+Loại bỏ các bước kiểm thử để rút ngắn thời gian triển khai.
+d.
+Đảm bảo tất cả tri thức ẩn được số hóa ngay trong giai đoạn đầu.
+Trong bốn cách định nghĩa AI được Russell và Norvig (2002) đề xuất, đâu là định nghĩa nhấn mạnh yếu tố hành động hợp lý?
+a.
+Hệ thống có thể tái hiện toàn bộ tiến trình nhận thức của con người.
+b.
+Hệ thống được đánh giá qua khả năng vượt qua bài kiểm tra Turing Test.
+c.
+Hệ thống xử lý thông tin như con người khi giải quyết vấn đề phức tạp.
+d.
+Hệ thống có thể hành động một cách hợp lý dựa trên nguyên tắc logic.
+
+Trong quản trị tri thức, hệ thống ứng dụng tri thức hỗ trợ cá nhân sử dụng tri thức của người khác mà không cần điều kiện nào?
+a.
+Họ phải học hỏi toàn bộ kiến thức nền tảng trước khi áp dụng tri thức.
+b.
+Họ không cần tự mình lĩnh hội tri thức nhưng vẫn có thể ứng dụng.
+
+c.
+Họ phải mua quyền sử dụng tri thức từ cơ sở dữ liệu thương mại.
+d.
+Họ phải trải qua đào tạo chính thức để nắm bắt tri thức được chia sẻ.
+Đặc điểm nổi bật nhất của hệ thống thủ tục trong ứng dụng tri thức là gì?
+a.
+Các quyết định được mô phỏng dựa trên mô hình thống kê phức tạp.
+b.
+Các quy trình được chuẩn hóa và lặp lại để đảm bảo sự nhất quán trong tổ chức.
+
+c.
+Các mối quan hệ xã hội giữ vai trò chính trong việc chia sẻ tri thức ẩn.
+d.
+Các dữ liệu thô được khai phá nhằm tìm ra mẫu và xu hướng mới.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+14/17
+
+================================================================================
+Câu hỏi 55
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 56
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 57
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 58
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong bốn loại hệ thống ứng dụng tri thức, điểm chung quan trọng nhất là gì?
+a.
+Đều hỗ trợ áp dụng tri thức vào thực tiễn nhằm nâng cao hiệu quả tổ chức.
+
+b.
+Đều dựa vào dữ liệu thô chưa được xử lý để đưa ra quyết định.
+c.
+Đều thay thế hoàn toàn vai trò của tri thức ẩn trong tổ chức.
+d.
+Đều loại bỏ nhu cầu sử dụng cộng đồng thực hành và chia sẻ kinh nghiệm.
+Điểm khác biệt then chốt giữa hệ thống chuyên gia và hệ thống hỗ trợ quyết định là gì?
+a.
+Hệ thống chuyên gia thiên về chuẩn hóa thủ tục, còn DSS thiên về chỉ đạo.
+b.
+Hệ thống chuyên gia dựa vào tri thức luật hóa, còn DSS dựa vào phân tích dữ liệu.
+
+c.
+Hệ thống chuyên gia chú trọng tri thức ẩn, còn DSS chỉ dựa vào tri thức hiện.
+d.
+Hệ thống chuyên gia hoạt động thủ công, còn DSS hoàn toàn tự động.
+Trong bối cảnh xử lý hàng trăm triệu hồ sơ y tế, thách thức lớn nhất đối với các nhà cung cấp dịch vụ chăm sóc sức khỏe khi gửi hồ sơ
+bồi hoàn là gì?
+a.
+Tất cả các nhà chi trả đều công bố chính sách chuẩn hóa về tài liệu đính kèm.
+b.
+Các yêu cầu về tài liệu bổ sung từ mỗi nhà chi trả thay đổi liên tục và khó nắm bắt.
+
+c.
+Các hệ thống ERP y tế không thể đồng bộ hóa dữ liệu bệnh nhân với hồ sơ khiếu nại.
+d.
+Nhân viên hành chính luôn có đủ năng lực để quyết định loại hồ sơ cần đính kèm.
+Đâu là mục tiêu cơ bản của các hệ thống ứng dụng tri thức?
+a.
+Để thay thế hoàn toàn các hệ thống chia sẻ và lưu giữ tri thức truyền thống.
+b.
+Để tạo ra tri thức mới thông qua quá trình khám phá tri thức phức tạp.
+c.
+Để hỗ trợ việc sử dụng tri thức của tổ chức một cách hiệu quả.
+
+d.
+Để loại bỏ sự tham gia của con người trong các quy trình quản trị tri thức.
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+15/17
+
+================================================================================
+Câu hỏi 59
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 60
+Đúng
+Đạt điểm 1,00 trên 1,00
+Điểm nào cho thấy phương pháp Case-Method Cycle mang tính lặp (iterative)?
+a.
+Hệ thống chỉ vận hành theo trình tự và không cho phép phản hồi từ người dùng.
+b.
+Sáu quy trình được thực hiện liên tục và cập nhật kết quả để cải tiến hệ thống.
+
+c.
+Các bước chỉ được thực hiện một lần và không quay lại giai đoạn trước.
+d.
+Việc triển khai chỉ dựa vào mô hình tuyến tính cố định không thay đổi.
+Một minh chứng điển hình cho hệ thống hỗ trợ quyết định trong kinh doanh là gì?
+a.
+Công cụ BI phân tích dữ liệu thị trường để hỗ trợ nhà quản lý.
+
+b.
+Bộ quy trình kiểm toán nội bộ nhằm chuẩn hóa hoạt động tài chính.
+c.
+Bộ luật IF–THEN mô phỏng quyết định của chuyên gia kỹ thuật.
+d.
+Chỉ đạo miệng của lãnh đạo để định hướng hành vi nhân viên.
+◄ Chapter 5 - Mini Test
+Chuyển tới...
+Slides - Nhóm 9 ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+16/17
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+GET SOCIAL
+      
+22:52 5/12/25
+Chapter 6 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2104642&cmid=681662&showall=1
+17/17
+
+================================================================================

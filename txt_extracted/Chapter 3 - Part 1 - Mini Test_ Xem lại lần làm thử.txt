@@ -1,0 +1,918 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức
+/  Week4 - Chapter 3 - Knowledge Management Foundations /  Chapter 3 - Part 1 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 27 August 2025, 10:40 AM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 27 August 2025, 10:58 AM
+Thời gian thực
+hiện
+17 phút 54 giây
+Điểm
+59,00/60,00
+Điểm
+9,83 trên 10,00 (98%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Mối quan hệ giữa công nghệ thông tin và quản trị tri thức là gì?
+a.
+Công nghệ giúp tạo ra tri thức mới từ hư không
+b.
+Công nghệ thay thế hoàn toàn con người trong quản lý tri thức
+c.
+Công nghệ chỉ cung cấp công cụ hỗ trợ lưu trữ và chia sẻ tri thức
+
+d.
+Công nghệ không liên quan đến quản trị tri thức trong tổ chức
+Một minh chứng cho sự tích hợp của KM solutions, mechanisms và infrastructure là gì?
+a.
+Khi một tổ chức chỉ dựa vào dữ liệu thống kê để ra quyết định chiến lược
+b.
+Khi một doanh nghiệp vừa đầu tư hệ thống CNTT, vừa duy trì văn hóa chia sẻ, vừa áp dụng luân chuyển nhân viên để lan
+tỏa tri thức
+
+c.
+Khi một công ty chỉ tập trung phát triển phần mềm ERP để quản lý tài chính
+d.
+Khi một doanh nghiệp coi KM là hoạt động độc lập tách biệt với văn hóa và con người
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+1/17
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong mối quan hệ tổng thể, KM systems có vai trò gì?
+a.
+Là sự tích hợp của nhiều công nghệ và cơ chế để hỗ trợ các quy trình KM
+
+b.
+Là bộ phận thay thế cho toàn bộ cơ cấu tổ chức
+c.
+Là nền tảng dài hạn thay thế cho KM foundations
+d.
+Là kết quả của việc áp dụng văn hóa chia sẻ tri thức
+Trong quản trị tri thức, yếu tố nào thường được xem là rào cản lớn nhất khi triển khai giải pháp KM?
+a.
+Nhân viên không chia sẻ tri thức vì văn hóa tổ chức chưa khuyến khích
+
+b.
+Sự khác biệt trong tiêu chuẩn kế toán tài chính toàn cầu
+c.
+Thiếu hệ thống ERP và DSS để lưu trữ dữ liệu
+d.
+Không đủ ngân sách đầu tư vào cơ sở hạ tầng vật chất
+Quản trị tri thức chủ yếu tập trung vào điều gì trong tổ chức?
+a.
+Thu thập càng nhiều dữ liệu càng tốt
+b.
+Mua phần mềm quản lý dữ liệu đắt tiền
+c.
+Chia sẻ, lưu trữ và áp dụng tri thức hiệu quả
+
+d.
+Lưu giữ toàn bộ thông tin trong hệ thống máy tính
+KM foundations có ý nghĩa gì đối với các giải pháp KM?
+a.
+Đảm bảo rằng dữ liệu luôn chính xác tuyệt đối
+b.
+Giúp các giải pháp KM hoạt động trong ngắn hạn nhưng không bền vững
+c.
+Cung cấp cơ sở lâu dài hỗ trợ mọi giải pháp KM
+
+d.
+Hoàn toàn thay thế quy trình và hệ thống KM
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+2/17
+
+================================================================================
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+Giải pháp quản trị tri thức (KM solutions) bao gồm những thành phần nào?
+a.
+Cấu trúc tổ chức và văn hóa tổ chức
+b.
+Cơ sở tri thức và các nhóm chuyên môn
+c.
+Quy trình quản trị tri thức và hệ thống quản trị tri thức
+
+d.
+Cơ sở hạ tầng tri thức và công nghệ thông tin
+Cơ sở hạ tầng vật chất có thể được thiết kế để:
+a.
+Giảm thiểu chi phí văn phòng thông qua tự động hóa
+b.
+Chuẩn hóa dữ liệu giữa các bộ phận tài chính và nhân sự
+c.
+Khuyến khích tương tác và trao đổi tri thức giữa các cá nhân
+
+d.
+Tập trung vào giám sát hiệu suất qua camera
+Mối quan hệ giữa KM solutions và KM foundations được mô tả như thế nào?
+a.
+KM solutions thay thế KM foundations khi tổ chức phát triển
+b.
+KM foundations là kết quả cuối cùng của KM solutions
+c.
+KM foundations hỗ trợ và duy trì KM solutions
+
+d.
+KM solutions cung cấp cơ sở cho KM foundations
+KM processes bao gồm những hoạt động chính nào?
+a.
+Quản lý cơ sở hạ tầng công nghệ thông tin
+b.
+Tạo ra dữ liệu, tổng hợp dữ liệu và báo cáo
+c.
+Khám phá, lưu giữ, chia sẻ và áp dụng tri thức
+
+d.
+Phân tích dữ liệu, thống kê và lưu trữ thông tin
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+3/17
+
+================================================================================
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Văn hóa tổ chức trong quản trị tri thức có vai trò gì?
+a.
+Đảm bảo mọi nhân viên đều có kỹ năng công nghệ thông tin cơ bản
+b.
+Hạn chế trao đổi tri thức để duy trì sự cạnh tranh nội bộ
+c.
+Tạo ra chuẩn mực và niềm tin khuyến khích chia sẻ và học hỏi tri thức
+
+d.
+Giảm thiểu chi phí vận hành thông qua chuẩn hóa quy trình
+Ví dụ nào thể hiện rõ vai trò của văn hóa tổ chức trong KM?
+a.
+Nhân viên chủ động chia sẻ kinh nghiệm nhờ được khuyến khích và khen thưởng
+
+b.
+Lãnh đạo giảm số lượng nhân sự để tiết kiệm chi phí vận hành
+c.
+Công ty triển khai hệ thống ERP nhằm kiểm soát tài chính
+d.
+Doanh nghiệp cung cấp phần mềm quản lý dữ liệu cho mọi phòng ban
+Yếu tố nào KHÔNG phải là mục tiêu cốt lõi của quản trị tri thức?
+a.
+Tích lũy dữ liệu thô không qua xử lý
+
+b.
+Tạo điều kiện đổi mới và cải tiến
+c.
+Giúp tổ chức cạnh tranh bền vững
+d.
+Cải thiện quá trình ra quyết định
+Tri thức hiện (explicit knowledge) thường thể hiện ở dạng nào?
+a.
+Bằng ký ức và kinh nghiệm không thể mô tả bằng lời
+b.
+Thông qua thói quen, kỹ năng và bí quyết cá nhân
+c.
+Qua việc học hỏi trực tiếp trong thực tế công việc
+d.
+Bằng các tài liệu, quy trình và hướng dẫn chính thức
+
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+4/17
+
+================================================================================
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 16
+Sai
+Đạt điểm 0,00 trên 1,00
+Câu hỏi 17
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khi xem xét mối quan hệ giữa hạ tầng KM, cơ chế KM và công nghệ KM, đâu là mô tả chính xác nhất?
+a.
+Hạ tầng cung cấp nền tảng dài hạn, cơ chế thúc đẩy hành vi chia sẻ, công nghệ hỗ trợ lưu trữ và xử lý tri thức
+
+b.
+Hạ tầng thay thế công nghệ, cơ chế thay thế hạ tầng, công nghệ thay thế con người
+c.
+Hạ tầng và cơ chế cùng tồn tại ngắn hạn, công nghệ duy trì dài hạn
+d.
+Hạ tầng tập trung vào dữ liệu, cơ chế tập trung vào tài chính, công nghệ tập trung vào marketing
+Vì sao KM technologies được xem là khác với công nghệ thông tin thông thường?
+a.
+Vì KM technologies không cần sự hỗ trợ từ con người
+b.
+Vì KM technologies tập trung vào tri thức hơn là xử lý thông tin
+c.
+Vì KM technologies chỉ áp dụng trong lĩnh vực sản xuất
+
+d.
+Vì KM technologies không yêu cầu cơ sở hạ tầng kỹ thuật số
+KM systems được hình thành như thế nào?
+a.
+Bằng việc xây dựng một nền văn hóa doanh nghiệp mạnh mẽ
+b.
+Bằng cách chuẩn hóa toàn bộ tri thức thành cơ sở dữ liệu
+c.
+Bằng cách tích hợp công nghệ và cơ chế để hỗ trợ quy trình KM
+
+d.
+Bằng việc tăng cường năng lực cá nhân của nhân viên
+Điểm khác biệt cơ bản giữa thông tin và tri thức trong bối cảnh KM là gì?
+a.
+Tri thức chỉ bao gồm dữ liệu số hóa trong hệ thống CNTT
+b.
+Tri thức không cần đến bối cảnh để phát huy tác dụng
+c.
+Thông tin cần được bối cảnh hóa, kết hợp với kinh nghiệm mới trở thành tri thức
+
+d.
+Thông tin luôn có giá trị chiến lược cao hơn tri thức
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+5/17
+
+================================================================================
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Công nghệ quản trị tri thức (KM technologies) chủ yếu tập trung vào:
+a.
+Thay thế vai trò của văn hóa tổ chức và lãnh đạo
+b.
+Hỗ trợ các hoạt động khám phá, lưu giữ, chia sẻ và áp dụng tri thức
+
+c.
+Quản lý thông tin thay vì quản lý tri thức
+d.
+Lưu trữ dữ liệu nguyên thủy để phục vụ tính toán thống kê
+Điểm khác biệt giữa dữ liệu, thông tin và tri thức trong quản trị tri thức là gì?
+a.
+Dữ liệu là hiểu biết, thông tin là ý tưởng, tri thức là sản phẩm công nghệ
+b.
+Dữ liệu là sự thật, thông tin là tài liệu, tri thức là bản ghi chính thức
+c.
+Dữ liệu là quyết định, thông tin là chiến lược, tri thức là hành động cụ thể
+d.
+Dữ liệu thường không có ý nghĩa, thông tin là dữ liệu có ngữ cảnh hoặc đã qua xử lý và trở nên có ý nghĩa, tri thức tích lũy
+được thông qua quá trình xử lý thông tin
+
+Hoạt động nào sau đây thể hiện đúng nhất bản chất của quản trị tri thức?
+a.
+Thu thập, chia sẻ và áp dụng tri thức để nâng cao hiệu quả tổ chức
+
+b.
+Tập trung xây dựng hệ thống máy chủ và cơ sở dữ liệu lớn
+c.
+Hạn chế việc nhân viên trao đổi ý tưởng để tránh rủi ro
+d.
+Lưu trữ toàn bộ thông tin mà không cần đến con người sử dụng
+Trong quản trị tri thức, vai trò của tri thức chung (common knowledge) thể hiện như thế nào khi triển khai KM solutions?
+a.
+Giúp tổ chức thu thập dữ liệu thô để chuyển thành thông tin chi tiết
+b.
+Đảm bảo cơ sở dữ liệu CNTT luôn được cập nhật định kỳ chính xác
+c.
+Giúp giảm thiểu chi phí vận hành thông qua chuẩn hóa quy trình tài chính
+d.
+Tạo ra nền tảng nhận thức và ngôn ngữ chung giúp các hệ thống KM hoạt động hiệu quả hơn
+
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+6/17
+
+================================================================================
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một hạn chế lớn nếu tổ chức chỉ tập trung vào KM mechanisms mà bỏ qua KM infrastructure là gì?
+a.
+Hoạt động chia sẻ tri thức có thể diễn ra nhưng thiếu nền tảng văn hóa và cấu trúc để duy trì bền vững
+
+b.
+Cơ sở hạ tầng tri thức sẽ được hình thành tự động nhờ các quy trình chia sẻ
+c.
+Hệ thống CNTT có thể vận hành hiệu quả mà không cần sự tham gia của con người
+d.
+Văn hóa tổ chức không còn ảnh hưởng đến hiệu quả quản trị tri thức
+Trong bối cảnh KM, yếu tố nào minh chứng rõ rằng “công nghệ là điều kiện cần nhưng không đủ”?
+a.
+Các hệ thống CNTT giúp tri thức chung được hình thành mà không cần con người
+b.
+Công nghệ có khả năng loại bỏ hoàn toàn tri thức ẩn trong doanh nghiệp
+c.
+Phần mềm quản lý dữ liệu lớn luôn đảm bảo mọi tri thức được khai thác đầy đủ
+d.
+Hệ thống CNTT hiện đại vẫn không thể thay thế động lực và niềm tin chia sẻ tri thức trong tổ chức
+
+Trong các thành phần hạ tầng KM, yếu tố nào thiên về môi trường vật lý?
+a.
+Tri thức chung
+b.
+Hạ tầng CNTT
+c.
+Không gian văn phòng và khu vực tương tác chung
+
+d.
+Văn hóa tổ chức
+Nền tảng quản trị tri thức (KM foundations) KHÔNG bao gồm yếu tố nào sau đây?
+a.
+Cơ chế quản trị tri thức (KM mechanisms)
+b.
+Kết quả tài chính của quản trị tri thức
+
+c.
+Công nghệ quản trị tri thức (KM technologies)
+d.
+Cơ sở hạ tầng quản trị tri thức (KM infrastructure)
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+7/17
+
+================================================================================
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tri thức ẩn (tacit knowledge) được đặc trưng bởi điều nào sau đây?
+a.
+Thuộc về kinh nghiệm và trực giác cá nhân
+
+b.
+Thường được lưu giữ trong cơ sở dữ liệu tập trung
+c.
+Có thể dễ dàng ghi chép và truyền đạt qua tài liệu
+d.
+Chủ yếu biểu hiện dưới dạng báo cáo thống kê
+Tổ chức học tập (organizational learning) đóng vai trò gì trong quản trị tri thức?
+a.
+Giúp tổ chức tích lũy, điều chỉnh và cải thiện tri thức liên tục
+
+b.
+Loại bỏ nhu cầu đào tạo nhân viên định kỳ
+c.
+Cung cấp dữ liệu cho hệ thống phần mềm kế toán
+d.
+Thay thế các phương thức quản lý truyền thống bằng công nghệ
+Một tổ chức có văn hóa khuyến khích chia sẻ tri thức nhưng thiếu đầu tư CNTT sẽ gặp khó khăn gì?
+a.
+Tri thức ẩn sẽ tự động chuyển hóa thành tri thức hiện mà không cần hỗ trợ
+b.
+Nhân viên sẵn sàng trao đổi nhưng không có công cụ để lưu giữ và truy xuất tri thức hiệu quả
+
+c.
+Cơ chế xã hội sẽ không còn đóng vai trò quan trọng trong quản trị tri thức
+d.
+Cấu trúc tổ chức sẽ không thể điều chỉnh dù văn hóa chia sẻ mạnh mẽ
+Tại sao văn hóa tổ chức thường được coi là thách thức lớn nhất trong KM?
+a.
+Vì văn hóa tổ chức không thể đo lường bằng các chỉ số tài chính
+b.
+Vì nhân viên thường ngại chia sẻ tri thức do sợ mất lợi thế cá nhân
+
+c.
+Vì văn hóa luôn thay đổi nhanh hơn công nghệ
+d.
+Vì văn hóa chỉ ảnh hưởng đến cấp quản lý cao nhất
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+8/17
+
+================================================================================
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Quản trị tri thức trong doanh nghiệp thường hướng đến việc:
+a.
+Giảm thiểu số lượng nhân viên tham gia vào chia sẻ thông tin
+b.
+Tăng hiệu quả ra quyết định dựa trên tri thức có sẵn
+
+c.
+Xây dựng hệ thống lưu trữ vật lý khổng lồ
+d.
+Bảo mật dữ liệu tuyệt đối trong mọi tình huống
+Nhìn chung, mối quan hệ giữa KM infrastructure, KM mechanisms và KM technologies là gì?
+a.
+KM infrastructure hỗ trợ mechanisms và technologies, từ đó hỗ trợ các hệ thống KM
+
+b.
+KM mechanisms và technologies thay thế cho KM infrastructure
+c.
+KM technologies và mechanisms hoạt động độc lập với nhau và với infrastructure
+d.
+KM infrastructure chỉ phục vụ trong việc lưu trữ dữ liệu thô
+Hạ tầng CNTT trong KM không chỉ là công cụ mà còn:
+a.
+Giúp thay thế hoàn toàn tri thức ngầm bằng tri thức hiện rõ
+b.
+Cung cấp phạm vi tiếp cận, sự phong phú và khả năng tổng hợp thông tin
+
+c.
+Đảm bảo mọi nhân viên đều phải sử dụng cùng một phần mềm
+d.
+Tập trung vào việc giảm chi phí đầu tư phần cứng
+Một ví dụ về tác động tiêu cực của cấu trúc tổ chức đối với KM là gì?
+a.
+Xây dựng vai trò Chief Knowledge Officer (CKO) để dẫn dắt KM
+b.
+Cạnh tranh nội bộ quá cao khiến nhân viên không muốn chia sẻ thông tin, tri thức hữu ích
+
+c.
+Tạo ra cộng đồng thực hành để khuyến khích học hỏi
+d.
+Phân quyền hợp lý giúp tăng cường sáng tạo
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+9/17
+
+================================================================================
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Vì sao có thể nói KM infrastructure đóng vai trò “xương sống” trong toàn bộ hệ thống quản trị tri thức?
+a.
+Vì nó đảm bảo mọi báo cáo tài chính đều được chuẩn hóa và minh bạch
+b.
+Vì nó tập trung duy nhất vào việc quản lý tri thức hiện trong cơ sở dữ liệu
+c.
+Vì nó thay thế hoàn toàn nhu cầu về cơ chế và công nghệ quản trị tri thức
+d.
+Vì nó bao gồm các yếu tố nền tảng lâu dài như văn hóa, cấu trúc, hạ tầng CNTT và tri thức chung
+
+Một ví dụ nào sau đây thể hiện KM mechanisms trong thực tế?
+a.
+Luân chuyển nhân viên giữa các phòng ban để chia sẻ kinh nghiệm
+
+b.
+Cài đặt hệ thống máy chủ để lưu trữ cơ sở dữ liệu nội bộ
+c.
+Mua phần mềm quản lý tài chính để thống kê chi phí
+d.
+Chuẩn hóa báo cáo định kỳ cho ban lãnh đạo
+Một đặc điểm quan trọng của tri thức so với thông tin là gì?
+a.
+Có thể được sao chép chính xác mà không cần bối cảnh
+b.
+Gắn liền với kinh nghiệm và sự phán đoán của con người
+
+c.
+Luôn tồn tại trong cơ sở dữ liệu của hệ thống công nghệ
+d.
+Không cần chia sẻ để mang lại giá trị cho tổ chức
+Trong quản trị tri thức, tại sao có thể nói rằng “công nghệ là cần nhưng chưa đủ”?
+a.
+Vì công nghệ quan trọng hơn văn hóa trong mọi tình huống
+b.
+Vì công nghệ tự động tạo ra tri thức mà không cần con người tham gia
+c.
+Vì công nghệ là yếu tố duy nhất duy trì tri thức lâu dài
+d.
+Vì công nghệ chỉ là công cụ, còn tri thức cần được gắn với con người và bối cảnh tổ chức
+
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+10/17
+
+================================================================================
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Vì sao quản trị tri thức trở thành xu thế tất yếu của các tổ chức hiện đại?
+a.
+Vì tri thức là tài nguyên khan hiếm không thể tái tạo
+b.
+Vì tri thức mang lại giá trị cạnh tranh lâu dài cho doanh nghiệp
+
+c.
+Vì tri thức luôn tồn tại độc lập và không cần quản lý
+d.
+Vì tri thức chỉ quan trọng trong lĩnh vực công nghệ cao
+KM infrastructure được hiểu là gì trong tổ chức?
+a.
+Nền tảng dài hạn bao gồm văn hóa, cấu trúc và công nghệ tổ chức
+
+b.
+Công cụ phân tích dữ liệu được sử dụng trong quản trị tri thức
+c.
+Tập hợp các tài liệu chính thức như hướng dẫn và báo cáo
+d.
+Nguồn dữ liệu được lưu giữ trong cơ sở dữ liệu tập trung
+Điểm chung quan trọng nhất giữa tri thức ẩn (tacit knowledge) và văn hóa tổ chức trong KM là gì?
+a.
+Cả hai đều tồn tại chủ yếu trong cơ sở dữ liệu nội bộ của tổ chức
+b.
+Cả hai đều được tiêu chuẩn hóa bằng các báo cáo chính thức định kỳ
+c.
+Cả hai đều khó mã hóa và phụ thuộc vào con người trong môi trường tổ chức
+
+d.
+Cả hai đều có thể thay thế trực tiếp bằng công nghệ thông tin tiên tiến
+Một đặc trưng của tri thức trong tổ chức là:
+a.
+Luôn cố định và không thay đổi theo thời gian
+b.
+Hoàn toàn tách biệt với kinh nghiệm cá nhân
+c.
+Được định nghĩa giống nhau trong mọi ngành nghề
+d.
+Phụ thuộc vào bối cảnh và môi trường ứng dụng
+
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+11/17
+
+================================================================================
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+Điểm khác biệt giữa KM mechanisms và KM technologies là gì?
+a.
+KM mechanisms là ngắn hạn, KM technologies là dài hạn
+b.
+KM mechanisms được phát triển từ công nghệ, KM technologies từ văn hóa
+c.
+KM mechanisms thiên về các quy định liên quan đến con người, KM technologies thiên về công cụ CNTT
+
+d.
+KM mechanisms chỉ tập trung vào dữ liệu, KM technologies tập trung vào kinh nghiệm
+Cấu trúc tổ chức ảnh hưởng đến quản trị tri thức như thế nào?
+a.
+Qua việc chuẩn hóa toàn bộ thông tin thành báo cáo chính thức
+b.
+Bằng cách quyết định mức độ phân quyền, sự linh hoạt và cộng đồng thực hành
+
+c.
+Thông qua hệ thống phần mềm quản lý dữ liệu thống kê
+d.
+Nhờ việc tăng cường đầu tư tài chính vào hạ tầng CNTT
+Đặc trưng nào thể hiện một hạ tầng KM bền vững?
+a.
+Thay đổi liên tục để theo kịp công nghệ
+b.
+Giảm thiểu vai trò của con người trong quản trị tri thức
+c.
+Hoàn toàn dựa vào dữ liệu lớn và công cụ AI
+d.
+Được hỗ trợ mạnh mẽ bởi lãnh đạo và gắn liền với giá trị văn hóa tổ chức
+
+Một tổ chức muốn nâng cao hiệu quả KM thì trước hết nên:
+a.
+Chuẩn hóa tất cả dữ liệu tài chính
+b.
+Đầu tư mạnh vào phần mềm mới nhất
+c.
+Mở rộng số lượng chi nhánh toàn cầu
+d.
+Xây dựng văn hóa và cơ chế khuyến khích chia sẻ tri thức
+
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+12/17
+
+================================================================================
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một trong những lợi ích lớn nhất của quản trị tri thức là gì?
+a.
+Giúp tổ chức tái tạo tri thức đã mất mát
+b.
+Loại bỏ hoàn toàn nhu cầu về nhân lực quản lý
+c.
+Thay thế hoàn toàn công nghệ thông tin hiện đại
+d.
+Tăng khả năng cạnh tranh thông qua sử dụng hiệu quả tri thức
+
+Một tổ chức có cơ sở hạ tầng CNTT mạnh nhưng thiếu các cơ chế hỗ trợ sẽ gặp vấn đề gì?
+a.
+Công nghệ hỗ trợ tốt nhưng tri thức không được chia sẻ rộng rãi giữa các nhân viên
+
+b.
+Văn hóa tổ chức quá mạnh khiến cơ sở dữ liệu trở nên không cần thiết
+c.
+Nhân viên chia sẻ tri thức tự do nhưng thiếu công cụ lưu trữ dữ liệu
+d.
+Cấu trúc tổ chức trở nên dư thừa vì toàn bộ tri thức đều số hóa
+Vì sao nói rằng cơ sở hạ tầng quản trị tri thức (KM infrastructure) có tính dài hạn hơn so với cơ chế và công nghệ KM?
+a.
+Vì nó chỉ liên quan đến dữ liệu lớn và hệ thống máy chủ ổn định
+b.
+Vì nó hoàn toàn dựa vào cơ chế tài chính và kế hoạch kinh doanh
+c.
+Vì nó gắn liền với văn hóa, cấu trúc và tri thức chung khó thay đổi nhanh chóng
+
+d.
+Vì nó phụ thuộc vào các phần mềm mới cập nhật theo chu kỳ hàng năm
+Một ví dụ điển hình về hạ tầng vật chất trong KM là gì?
+a.
+Không gian mở (ví dụ: góc cà phê) khuyến khích mọi người trao đổi ý tưởng
+
+b.
+Bộ quy tắc ứng xử trong công ty
+c.
+Hệ thống ERP hỗ trợ quản lý tài nguyên
+d.
+Quy trình đánh giá hiệu suất dựa trên chia sẻ tri thức
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+13/17
+
+================================================================================
+Câu hỏi 51
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 52
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 53
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 54
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ví dụ nào sau đây thuộc về KM mechanisms?
+a.
+Máy chủ lưu trữ dữ liệu lớn
+b.
+Dashboard phân tích dữ liệu theo thời gian thực
+c.
+Đào tạo tại chỗ, luân chuyển nhân viên, cộng đồng thực hành
+
+d.
+Hệ thống ERP và DSS
+Yếu tố nào giúp tri thức chung (common knowledge) hỗ trợ KM hiệu quả?
+a.
+Tập trung vào các chỉ số hiệu quả tài chính
+b.
+Ngôn ngữ và nhận thức chung giúp con người hiểu nhau dễ dàng hơn
+
+c.
+Sự tồn tại của một cơ sở dữ liệu trung tâm về khách hàng
+d.
+Tăng số lượng phòng ban để đa dạng hóa góc nhìn
+Tri thức chung (common knowledge) được hiểu là gì?
+a.
+Là tri thức phổ biến được biết và chia sẻ một cách rộng rãi giữa các cá nhân trong cùng tổ chức
+
+b.
+Các báo cáo thống kê được sử dụng chung trong tổ chức
+c.
+Hệ thống phần mềm chung phục vụ toàn công ty
+d.
+Các dữ liệu thô được tích hợp vào kho dữ liệu tập trung
+Một ví dụ về KM infrastructure là gì?
+a.
+Văn hóa tổ chức khuyến khích chia sẻ tri thức
+
+b.
+Quy trình trao đổi tri thức giữa các nhóm
+c.
+Cơ sở dữ liệu về các thực hành tốt nhất
+d.
+Đào tạo tại chỗ cho nhân viên mới
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+14/17
+
+================================================================================
+Câu hỏi 55
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 56
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 57
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 58
+Đúng
+Đạt điểm 1,00 trên 1,00
+Thành phần nào sau đây KHÔNG thuộc cơ sở hạ tầng quản trị tri thức?
+a.
+Cơ sở hạ tầng công nghệ thông tin
+b.
+Tri thức chung (common knowledge)
+c.
+Chính sách marketing đối ngoại
+
+d.
+Văn hóa tổ chức
+Trong bối cảnh quản trị tri thức, đâu là mối quan hệ chính giữa tri thức ẩn và tri thức hiện?
+a.
+Tri thức hiện luôn có giá trị cao hơn tri thức ẩn trong tổ chức
+b.
+Tri thức ẩn và tri thức hiện là hai khái niệm hoàn toàn tách biệt
+c.
+Tri thức ẩn chỉ tồn tại trong cá nhân và không thể chuyển đổi thành tri thức hiện
+d.
+Tri thức hiện được hình thành khi tri thức ẩn được diễn đạt, chia sẻ và chuẩn hóa
+
+Trong quản trị tri thức, việc chia sẻ tri thức có ý nghĩa như thế nào?
+a.
+Hạn chế quyền truy cập thông tin để đảm bảo an toàn
+b.
+Giúp nhân viên giữ bí quyết cá nhân để bảo toàn lợi thế
+c.
+Giảm thiểu các mối quan hệ hợp tác giữa các bộ phận
+d.
+Tạo điều kiện lan tỏa kinh nghiệm và cải tiến trong toàn tổ chức
+
+Một đặc điểm quan trọng của KM mechanisms là gì?
+a.
+Đảm bảo mọi quyết định đều dựa trên dữ liệu thống kê
+b.
+Chủ yếu dựa trên các quy định của tổ chức hoặc cơ chế xã hội để hỗ trợ KM
+
+c.
+Hoạt động như một hệ thống lưu trữ dữ liệu điện tử
+d.
+Luôn yêu cầu sử dụng công nghệ thông tin tiên tiến
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+15/17
+
+================================================================================
+Câu hỏi 59
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 60
+Đúng
+Đạt điểm 1,00 trên 1,00
+Yếu tố nào sau đây được xem là thách thức lớn đối với quản trị tri thức?
+a.
+Tri thức được lưu trữ trong nhiều hệ thống khác nhau
+b.
+Công nghệ thông tin ngày càng phát triển nhanh chóng
+c.
+Các tổ chức đầu tư nhiều vào nghiên cứu và phát triển
+d.
+Nhân viên không sẵn sàng chia sẻ tri thức cá nhân
+
+Điểm khác biệt cốt lõi giữa KM solutions và KM foundations là gì?
+a.
+KM solutions chỉ áp dụng ngắn hạn, KM foundations chỉ tồn tại dài hạn
+b.
+KM solutions loại bỏ vai trò con người, KM foundations duy trì yếu tố xã hội
+c.
+KM solutions thiên về công cụ CNTT, KM foundations thiên về dữ liệu thống kê
+d.
+KM solutions tập trung vào thực thi, KM foundations tạo cơ sở lâu dài cho giải pháp
+
+◄ KM_Slides_Ch03
+Chuyển tới...
+Slides - Nhóm 4 ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+16/17
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+GET SOCIAL
+      
+22:49 5/12/25
+Chapter 3 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2036928&cmid=663694&showall=1
+17/17
+
+================================================================================

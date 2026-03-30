@@ -1,0 +1,939 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức /  Week 7 - Chapter 4 (Con't)
+/  Chapter 4 - Part 2 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 17 September 2025, 11:03 AM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 17 September 2025, 11:36 AM
+Thời gian thực
+hiện
+32 phút 43 giây
+Điểm
+59,00/60,00
+Điểm
+9,83 trên 10,00 (98%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong Bảng 4.1, cơ chế “brainstorming retreats” thường gắn liền nhất với quá trình quản trị tri thức nào?
+a.
+Chia sẻ tri thức, vì nó nhấn mạnh việc lan truyền tri thức hiện qua báo cáo và tài liệu.
+b.
+Ứng dụng tri thức, vì nó tập trung vào việc sử dụng hướng dẫn và thủ tục có sẵn.
+c.
+Nắm bắt tri thức, vì nó cho phép chuyển đổi kinh nghiệm cá nhân thành tài liệu chính thức.
+d.
+Khám phá tri thức, vì nó khuyến khích kết hợp các ý tưởng và dữ liệu hiện để hình thành tri thức mới.
+
+Công nghệ nào sau đây có thể đóng vai trò kép, vừa hỗ trợ hướng dẫn vừa hỗ trợ thủ tục trong hệ thống ứng dụng tri thức?
+a.
+Công cụ groupware, vì có thể hỗ trợ chia sẻ tri thức hiện qua các tài liệu trực tuyến và báo cáo.
+b.
+Cơ sở dữ liệu web, vì có thể lưu trữ thông tin và cung cấp tri thức hiện cho nhiều phòng ban khác nhau.
+c.
+Cộng đồng thực hành, vì có thể giúp nhân viên trao đổi kinh nghiệm và đồng thời tạo ra tri thức ẩn mới.
+d.
+Hệ chuyên gia, vì có thể tích hợp tri thức của chuyên gia vào cả quá trình hỗ trợ quyết định lẫn quy trình vận hành chuẩn. 
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+1/18
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tại sao việc xây dựng một danh mục giải pháp KM bổ sung lẫn nhau lại được coi là cần thiết đối với tổ chức?
+a.
+Vì nó thay thế hoàn toàn nhu cầu tham gia của con người bằng công nghệ tự động hóa.
+b.
+Vì nó cho phép tổ chức tập trung hoàn toàn vào một loại hệ thống KM duy nhất để tối ưu chi phí.
+c.
+Vì nó đảm bảo mọi tri thức ẩn đều được chuyển thành tri thức hiện để dễ lưu trữ.
+d.
+Vì nó tạo sự phối hợp nhịp nhàng giữa các quá trình, hệ thống, cơ chế và công nghệ để gia tăng hiệu quả dài hạn.
+
+Một công ty khởi nghiệp trong lĩnh vực fintech muốn sử dụng hệ thống khám phá tri thức để dự đoán hành vi tiêu dùng tài chính.
+Yếu tố nào quyết định nhất đến khả năng tạo ra tri thức hiện mới từ dữ liệu khách hàng?
+a.
+Khả năng tích hợp và kết hợp nhiều nguồn dữ liệu khác nhau để phát hiện các mẫu tiềm ẩn.
+
+b.
+Khả năng thiết lập kho dữ liệu tập trung nhằm đảm bảo lưu giữ toàn bộ thông tin.
+c.
+Khả năng biến tri thức ẩn từ chuyên gia thành tri thức hiện để đào tạo nhân viên mới.
+d.
+Khả năng xây dựng quy trình thủ tục chuẩn hóa để nhân viên áp dụng đồng bộ.
+Trong hệ thống ứng dụng tri thức, điểm khác biệt cốt lõi giữa cơ chế hướng dẫn và cơ chế thủ tục là gì?
+a.
+Hướng dẫn được triển khai thông qua xã hội hóa, còn thủ tục được triển khai thông qua trao đổi.
+b.
+Hướng dẫn tập trung vào tri thức ẩn, còn thủ tục tập trung vào tri thức hiện để chuẩn hóa thành tài liệu.
+c.
+Hướng dẫn chỉ áp dụng ở cấp cá nhân, còn thủ tục chủ yếu triển khai ở cấp liên tổ chức.
+d.
+Hướng dẫn dựa vào chỉ dẫn từ người khác hoặc hệ thống hỗ trợ, trong khi thủ tục dựa vào chính sách, quy trình và chuẩn
+mực tổ chức.
+
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+2/18
+
+================================================================================
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Theo Bảng 4.1, cơ chế “on-the-job training” thường liên quan trực tiếp đến:
+a.
+Nội hóa, vì tri thức hiện được chuyển đổi thành tri thức ẩn thông qua trải nghiệm thực tế.
+
+b.
+Ngoại hóa, vì tri thức ẩn được chuyển thành tri thức hiện nhờ ghi chép và hệ thống hóa.
+c.
+Kết hợp, vì tri thức hiện từ nhiều nguồn được tổng hợp thành tri thức hiện mới.
+d.
+Trao đổi, vì tri thức hiện được lan truyền qua tài liệu và báo cáo chính thức.
+Sự cộng hưởng giữa các cơ chế và công nghệ KM có ý nghĩa gì?
+a.
+Một công nghệ chỉ được thiết kế cho một quá trình duy nhất để tránh sự chồng chéo.
+b.
+Một cơ chế chỉ tập trung vào tri thức hiện, còn công nghệ chỉ phục vụ tri thức ẩn.
+c.
+Một cơ chế luôn thay thế vai trò công nghệ để duy trì sự cân bằng trong tổ chức.
+d.
+Một công nghệ có thể hỗ trợ nhiều quá trình KM khác nhau tùy theo bối cảnh triển khai.
+
+Trong bốn quá trình KM, cơ chế kết hợp trực tiếp liên quan đến mục tiêu nào?
+a.
+Biến tri thức ẩn thành tri thức hiện bằng cách ghi lại và mã hóa chính thức.
+b.
+Truyền đạt tri thức ẩn giữa các cá nhân thông qua quan sát và hoạt động chung.
+c.
+Tạo ra tri thức hiện mới thông qua việc tổng hợp, tích hợp và hệ thống hóa nhiều nguồn tri thức.
+
+d.
+Biến tri thức hiện thành tri thức ẩn bằng cách áp dụng vào trải nghiệm thực tế.
+Điểm chung cơ bản của các cơ chế và công nghệ trong hệ thống chia sẻ tri thức là gì?
+a.
+Đều hướng đến việc thay thế hoàn toàn tương tác con người bằng công nghệ thông minh.
+b.
+Đều tập trung vào chuẩn hóa dữ liệu định lượng và lưu giữ chúng trong kho dữ liệu chung.
+c.
+Đều nhằm bảo đảm tri thức, dù là ẩn hay hiện, được truyền đạt hiệu quả để người nhận có thể hiểu và hành động dựa trên
+nó.
+
+d.
+Đều chỉ phục vụ mục đích quản lý tài chính và vận hành các quy trình hành chính.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+3/18
+
+================================================================================
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Các cơ sở hạ tầng nào thường được đề cập cùng với văn hóa tổ chức và cấu trúc tổ chức?
+a.
+Hạ tầng đào tạo nhân sự và huấn luyện, vì chúng thay thế vai trò của cơ chế KM.
+b.
+Hạ tầng marketing và truyền thông, vì chúng quyết định khả năng áp dụng tri thức.
+c.
+Hạ tầng tài chính và nguồn vốn, vì chúng đảm bảo ngân sách để triển khai KM.
+d.
+Hạ tầng công nghệ thông tin và môi trường vật lý, vì chúng là nền tảng cho các hệ thống KM.
+
+Trong trường hợp DeepGreen, cơ chế nào của hệ thống ứng dụng tri thức được nhấn mạnh nhiều nhất?
+a.
+Thủ tục, vì các quy tắc ra quyết định được nhúng sẵn trong hệ thống tự động hóa.
+
+b.
+Kết hợp, vì tri thức hiện từ nhiều nguồn được tích hợp thành tập hợp mới để ra quyết định.
+c.
+Xã hội hóa, vì nhân viên học hỏi trực tiếp kinh nghiệm từ nhau trong quy trình làm việc.
+d.
+Ngoại hóa, vì tri thức ẩn được biến thành tri thức hiện để tạo thành báo cáo chính thức.
+Cơ chế nội hóa trong hệ thống nắm bắt tri thức thường được minh họa qua ví dụ nào?
+a.
+Các nhà quản lý cao cấp đưa ra chỉ đạo để nhân viên làm theo mà không cần hiểu tri thức.
+b.
+Nhân viên học hỏi bằng cách làm việc thực tế, quan sát đồng nghiệp và tham gia huấn luyện tại chỗ.
+
+c.
+Các chuyên gia cùng nhau tổng hợp dữ liệu định lượng để tạo ra tri thức hiện mới.
+d.
+Một nhóm nghiên cứu viết lại toàn bộ kinh nghiệm để đưa vào hệ thống dữ liệu chính thức.
+Yếu tố nào được xem là điều kiện tiên quyết để triển khai thành công các giải pháp KM?
+a.
+Sự tham gia của lãnh đạo cấp cao trong việc thiết lập tầm nhìn và chiến lược KM dài hạn.
+
+b.
+Việc loại bỏ tri thức ẩn ra khỏi quy trình để tập trung hoàn toàn vào tri thức hiện.
+c.
+Việc sử dụng hệ thống ERP và MIS để chuẩn hóa toàn bộ dữ liệu tài chính và hoạt động.
+d.
+Sự thay thế hoàn toàn các quy trình thủ công bằng trí tuệ nhân tạo.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+4/18
+
+================================================================================
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 16
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 17
+Sai
+Đạt điểm 0,00 trên 1,00
+Sự khác biệt chính giữa cơ chế hướng dẫn và cơ chế thủ tục trong ứng dụng tri thức là gì?
+a.
+Hướng dẫn chỉ diễn ra trong các tổ chức nhỏ, còn thủ tục chỉ áp dụng trong tổ chức lớn.
+b.
+Hướng dẫn triển khai qua xã hội hóa, còn thủ tục triển khai qua trao đổi tri thức.
+c.
+Hướng dẫn dựa vào chỉ đạo từ người khác hoặc hệ thống, còn thủ tục dựa vào quy trình và chính sách chuẩn hóa.
+
+d.
+Hướng dẫn tập trung vào tri thức ẩn, còn thủ tục tập trung vào tri thức hiện để phổ biến.
+Điểm khác biệt lớn nhất trong quy trình cho vay của DeepGreen so với các tổ chức tín dụng truyền thống là gì?
+a.
+Khách hàng được yêu cầu chuẩn bị đầy đủ giấy tờ, hồ sơ công chứng và chờ đợi quy trình phê duyệt.
+b.
+Khách hàng phải đến trực tiếp chi nhánh để gặp chuyên viên tín dụng và ký hợp đồng.
+c.
+Khách hàng phải cung cấp báo cáo định giá tài sản và chứng nhận thu nhập trước khi nộp hồ sơ.
+d.
+Khách hàng có thể hoàn tất thủ tục trong vòng năm phút và nhận quyết định gần như ngay lập tức.
+
+Trong bối cảnh một công ty năng lượng muốn xây dựng chiến lược KM toàn diện, tại sao việc tích hợp hạ tầng IT, văn hóa và cấu trúc
+tổ chức lại mang tính quyết định?
+a.
+Vì công nghệ IT có thể tự động thay thế hoàn toàn các yếu tố văn hóa và cấu trúc.
+b.
+Vì văn hóa tổ chức là yếu tố duy nhất ảnh hưởng đến sự thành công của KM.
+c.
+Vì chỉ khi kết hợp công nghệ, môi trường văn hóa và cấu trúc quản lý thì các hệ thống KM mới phát huy tối đa hiệu quả.
+
+d.
+Vì cấu trúc tổ chức đủ mạnh có thể loại bỏ nhu cầu triển khai công nghệ và cơ chế.
+Cơ chế ngoại hóa trong hệ thống nắm bắt tri thức có ý nghĩa gì?
+a.
+Chuyển đổi tri thức hiện thành tri thức ẩn để áp dụng trong trải nghiệm cá nhân.
+
+b.
+Truyền đạt tri thức ẩn giữa các cá nhân thông qua giao tiếp trực tiếp và quan sát.
+c.
+Chuyển đổi tri thức ẩn thành tri thức hiện để có thể được ghi lại, lưu trữ và chia sẻ.
+d.
+Tổng hợp tri thức hiện từ nhiều nguồn để hình thành tri thức hiện phức tạp hơn.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+5/18
+
+================================================================================
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong hệ thống chia sẻ tri thức, công nghệ “expertise locator systems” chủ yếu được dùng để:
+a.
+Phân tích dữ liệu và thông tin để tổng hợp thành tri thức hiện mới.
+b.
+Xác định và kết nối cá nhân có tri thức phù hợp để hỗ trợ trao đổi tri thức hiện.
+
+c.
+Chuyển đổi kinh nghiệm ẩn thành tri thức hiện thông qua ghi chép chính thức.
+d.
+Chuẩn hóa thủ tục vận hành trong toàn bộ tổ chức nhằm áp dụng tri thức.
+Ví dụ nào sau đây minh họa rõ ràng nhất sự kết hợp giữa xã hội hóa và kết hợp trong khám phá tri thức?
+a.
+Một cá nhân đọc lại tài liệu nghiên cứu cũ và chuyển hóa chúng thành kỹ năng làm việc cá nhân.
+b.
+Một nhóm nhân viên áp dụng quy trình ISO để đảm bảo chất lượng sản phẩm trong dây chuyền sản xuất.
+c.
+Các nhà quản lý cấp cao cùng trao đổi tài liệu chiến lược, đồng thời tổ chức thảo luận nhóm để đưa ra ý tưởng mới.
+
+d.
+Một công ty triển khai hệ thống ERP để chuẩn hóa toàn bộ dữ liệu tài chính và hoạt động kế toán.
+Ví dụ nào minh họa rõ nhất việc ứng dụng công nghệ hướng dẫn trong hệ thống ứng dụng tri thức?
+a.
+Một nhân viên áp dụng quy trình chuẩn ISO đã được ban hành để kiểm soát chất lượng sản phẩm.
+b.
+Một nhóm quản lý sử dụng best practices ngành để thiết kế lại quy trình cung ứng dịch vụ.
+c.
+Một kỹ sư hiện trường sử dụng hệ chuyên gia để chẩn đoán sự cố thiết bị mà không cần tự học toàn bộ kiến thức chuyên
+môn.
+
+d.
+Một tổ chức triển khai ERP để tích hợp quy trình tài chính và hậu cần trong toàn bộ doanh nghiệp.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+6/18
+
+================================================================================
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một tập đoàn sản xuất đa quốc gia muốn tận dụng hệ thống nắm bắt tri thức để khai thác sáng kiến từ nhà cung cấp. Bước đi nào
+quan trọng nhất trong bối cảnh này?
+a.
+Ngoại hóa tri thức ẩn của nhà cung cấp thành tri thức hiện có thể ghi chép và lưu trữ.
+
+b.
+Chuẩn hóa quy trình nội bộ để giảm thiểu sự khác biệt trong vận hành toàn cầu.
+c.
+Nội hóa tri thức hiện có từ báo cáo để nhân viên áp dụng thành kỹ năng cá nhân.
+d.
+Tập trung vào xã hội hóa để khuyến khích nhân viên chia sẻ trực tiếp kinh nghiệm.
+Một công ty phần mềm triển khai hệ thống ứng dụng tri thức để hỗ trợ kỹ sư mới trong xử lý sự cố khách hàng. Cơ chế nào được tận
+dụng nhiều nhất?
+a.
+Ngoại hóa, thông qua biến tri thức ẩn thành tri thức hiện để làm tài liệu đào tạo.
+b.
+Hướng dẫn, thông qua hệ chuyên gia và trung tâm hỗ trợ để đưa ra quyết định tức thì.
+
+c.
+Xã hội hóa, thông qua quan sát và trao đổi trực tiếp giữa các nhân viên lâu năm.
+d.
+Kết hợp, thông qua tích hợp dữ liệu từ nhiều nguồn để tạo ra tri thức hiện mới.
+Điểm khác biệt then chốt của hệ thống quản trị tri thức so với từng cơ chế hoặc công nghệ riêng lẻ là gì?
+a.
+Hệ thống loại bỏ nhu cầu sử dụng công nghệ, còn cơ chế tập trung vào quản lý thủ công.
+b.
+Hệ thống chỉ tập trung vào tri thức ẩn, còn cơ chế và công nghệ chỉ xử lý tri thức hiện.
+c.
+Hệ thống kết hợp nhiều cơ chế và công nghệ, trong khi mỗi cơ chế hoặc công nghệ chỉ hoạt động đơn lẻ.
+
+d.
+Hệ thống hoạt động hoàn toàn độc lập với các cơ chế, trong khi công nghệ phải phụ thuộc vào cơ chế.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+7/18
+
+================================================================================
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một đặc điểm nổi bật của hệ thống nắm bắt tri thức là khả năng gì?
+a.
+Nắm bắt tri thức không chỉ từ nhân viên nội bộ mà còn từ tư vấn, đối thủ, khách hàng và nhà cung cấp.
+
+b.
+Nắm bắt tri thức chủ yếu từ tài liệu và hệ thống công nghệ, loại bỏ vai trò của con người.
+c.
+Nắm bắt tri thức chỉ giới hạn trong ranh giới nội bộ tổ chức mà không có yếu tố bên ngoài.
+d.
+Nắm bắt tri thức hoàn toàn dựa trên việc chuẩn hóa tri thức hiện thông qua cơ sở dữ liệu.
+Điểm cốt lõi trong chức năng của hệ thống nắm bắt tri thức là gì?
+a.
+Hỗ trợ quá trình áp dụng tri thức có sẵn vào hành động thông qua cơ chế định hướng và thói quen.
+b.
+Hỗ trợ quá trình sáng tạo tri thức mới từ dữ liệu và thông tin thông qua cơ chế kết hợp và xã hội hóa.
+c.
+Hỗ trợ quá trình nắm bắt tri thức ẩn hoặc hiện từ nhiều nguồn, cả bên trong và bên ngoài tổ chức.
+
+d.
+Hỗ trợ quá trình phân phối tri thức hiện đến người dùng cuối thông qua cơ chế trao đổi và xã hội hóa.
+Trong hệ thống ứng dụng tri thức, cơ chế thủ tục thường được hỗ trợ bởi công nghệ nào?
+a.
+Hệ thống trao đổi nhóm trực tuyến, vì chúng cho phép chia sẻ tài liệu và báo cáo tức thời.
+b.
+Công cụ khai phá dữ liệu, vì chúng tổng hợp dữ liệu hiện để tạo ra tri thức mới.
+c.
+Trí tuệ nhân tạo, vì nó mô phỏng suy nghĩ của con người để đưa ra quyết định sáng tạo.
+d.
+ERP và MIS, vì chúng giúp chuẩn hóa các quy trình, thủ tục và hoạt động định kỳ trong tổ chức.
+
+Một ngân hàng bán lẻ triển khai hệ thống chia sẻ tri thức để giảm sai sót trong giao dịch tại quầy. Công nghệ nào mang lại giá trị rõ
+ràng nhất trong tình huống này?
+a.
+Videoconferencing để khách hàng và nhân viên trao đổi trực tiếp về lỗi giao dịch.
+b.
+Data mining để phát hiện các mẫu dữ liệu bất thường trong giao dịch tài chính.
+c.
+Groupware và best practices để phổ biến quy trình xử lý chuẩn cho toàn bộ nhân viên.
+
+d.
+Case-based reasoning để hệ thống tự động gợi ý giải pháp dựa trên các tình huống cũ.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+8/18
+
+================================================================================
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong ngữ cảnh hệ thống khám phá tri thức, điểm chung của việc tạo ra tri thức mới từ dữ liệu và từ xã hội hóa là gì?
+a.
+Cả hai đều dựa vào cùng một cơ chế là ngoại hóa tri thức ẩn thành tri thức hiện thông qua tài liệu hóa.
+b.
+Cả hai đều tập trung hoàn toàn vào việc lưu trữ tri thức hiện để đảm bảo khả năng truy xuất lâu dài.
+c.
+Cả hai đều dẫn đến sự xuất hiện của tri thức chưa từng tồn tại trước đó thông qua đổi mới hoặc tổng hợp.
+
+d.
+Cả hai đều chỉ áp dụng trong lĩnh vực khoa học hàn lâm và không liên quan đến doanh nghiệp.
+Trong bối cảnh hệ thống chia sẻ tri thức, cơ chế trao đổi (exchange) chủ yếu nhằm đạt mục tiêu nào?
+a.
+Chuyển đổi tri thức ẩn thành tri thức hiện để dễ dàng lưu trữ và phổ biến trong tổ chức.
+b.
+Đảm bảo tri thức hiện được truyền đạt thông qua các tài liệu chính thức, báo cáo và cơ sở dữ liệu.
+
+c.
+Truyền đạt tri thức ẩn giữa các cá nhân thông qua quan sát và trải nghiệm trực tiếp.
+d.
+Hình thành tri thức mới bằng cách tổng hợp nhiều nguồn dữ liệu hiện có trong kho tri thức.
+Tác động của hệ thống ứng dụng tri thức tại DeepGreen đến hiệu quả hoạt động nhân sự được thể hiện như thế nào?
+a.
+Chỉ với 8 nhân viên, công ty vẫn có thể xử lý khoảng 400 hồ sơ mỗi ngày nhờ tự động hóa.
+
+b.
+Số lượng nhân sự tăng theo tỷ lệ thuận với số hồ sơ vay vốn được tiếp nhận hàng ngày.
+c.
+Nhân viên được đào tạo chủ yếu để thực hiện phân tích định tính thay cho hệ thống tự động.
+d.
+Công ty phải duy trì đội ngũ nhân sự lớn hơn để kiểm tra thủ công các quyết định cho vay.
+Cơ chế nào có thể hỗ trợ đồng thời quá trình khám phá và chia sẻ tri thức?
+a.
+Xã hội hóa, vì nó giúp tổng hợp tri thức ẩn thành tri thức mới và truyền đạt giữa các cá nhân.
+
+b.
+Nội hóa, vì nó chủ yếu biến đổi tri thức hiện thành kỹ năng ẩn của từng cá nhân.
+c.
+Ngoại hóa, vì nó tập trung vào biến tri thức ẩn thành tri thức hiện để lưu trữ.
+d.
+Trao đổi, vì nó chỉ truyền đạt tri thức hiện thông qua tài liệu chính thức và cơ sở dữ liệu.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+9/18
+
+================================================================================
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một bệnh viện triển khai song song hệ thống nắm bắt tri thức và hệ thống chia sẻ tri thức. Hiệu quả quan trọng nhất có thể đạt được
+là gì?
+a.
+Chuẩn hóa toàn bộ quy trình vận hành bệnh viện bằng cách sử dụng ERP và MIS.
+b.
+Vừa ghi lại kinh nghiệm chuyên môn của bác sĩ thành tài liệu chuẩn, vừa truyền đạt tri thức này rộng rãi cho đội ngũ y tá
+và nhân viên hỗ trợ.
+
+c.
+Biến đổi tri thức hiện thành tri thức ẩn thông qua đào tạo và thực hành cá nhân.
+d.
+Tạo ra tri thức hiện mới bằng cách tích hợp dữ liệu bệnh án để dự báo xu hướng bệnh tật.
+Hệ thống quản trị tri thức (KM systems) được định nghĩa chính xác nhất là gì?
+a.
+Sự tích hợp của công nghệ và cơ chế nhằm hỗ trợ các quá trình quản trị tri thức trong tổ chức.
+
+b.
+Sự sao chép các công cụ công nghệ thông tin nhằm tạo ra một kho dữ liệu chung cho toàn bộ tổ chức.
+c.
+Một tập hợp các quy trình thủ công được chuẩn hóa để điều phối tri thức hiện có trong doanh nghiệp.
+d.
+Một hệ thống phần mềm duy nhất chuyên biệt để thay thế hoàn toàn các hoạt động quản trị truyền thống.
+Làm thế nào mà DeepGreen có thể xử lý khối lượng đơn vay vốn gấp nhiều lần trung bình ngành?
+a.
+Nhờ nhúng các thủ tục ra quyết định vào hệ thống tự động và khai thác hiệu quả thông tin trực tuyến.
+
+b.
+Nhờ phát triển quan hệ đối tác độc quyền với các ngân hàng lớn để hỗ trợ thẩm định hồ sơ.
+c.
+Nhờ giảm thiểu tiêu chuẩn tín dụng và chấp nhận rủi ro cao để thu hút nhiều khách hàng.
+d.
+Nhờ tuyển dụng đội ngũ nhân viên có kinh nghiệm lâu năm trong ngành tài chính truyền thống.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+10/18
+
+================================================================================
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Lợi ích chiến lược lớn nhất của việc triển khai hệ thống ứng dụng tri thức trong tổ chức là gì?
+a.
+Khai thác hiệu quả tri thức sẵn có thông qua hướng dẫn và thủ tục chuẩn mà không yêu cầu cá nhân phải tự học lại.
+
+b.
+Tạo ra tri thức mới từ dữ liệu chưa được khai thác và phân tích để đổi mới sản phẩm.
+c.
+Chuẩn hóa toàn bộ quy trình sáng tạo tri thức để loại bỏ sự khác biệt giữa các phòng ban.
+d.
+Biến đổi toàn bộ tri thức ẩn thành tri thức hiện và lưu giữ trong cơ sở dữ liệu tập trung.
+Yếu tố nào được xem là lợi thế cạnh tranh cốt lõi của DeepGreen Financial so với các đối thủ truyền thống?
+a.
+Khả năng ra quyết định gần như tức thì thông qua công nghệ ứng dụng tri thức tự động.
+
+b.
+Khả năng mở rộng mạng lưới chi nhánh để tiếp cận khách hàng trên toàn quốc.
+c.
+Khả năng tập trung vào thị trường ngách với số lượng khách hàng giới hạn để giảm rủi ro.
+d.
+Khả năng áp dụng mức lãi suất thấp hơn nhờ nguồn vốn dồi dào từ tập đoàn tài chính mẹ.
+Vì sao sản phẩm vay vốn của DeepGreen được Online Banking Report vinh danh là “Best of the Web”?
+a.
+Vì dịch vụ mở rộng được mạng lưới đối tác toàn cầu và hệ thống chi nhánh vật lý trên 50 bang.
+b.
+Vì dịch vụ chú trọng nhiều nhất vào khía cạnh tư vấn trực tiếp thay vì công nghệ tự động.
+c.
+Vì dịch vụ cung cấp lãi suất thấp nhất trên thị trường bất kể điều kiện tín dụng của khách hàng.
+d.
+Vì dịch vụ cung cấp sự tiện lợi vượt trội, xử lý trực tuyến nhanh và quyết định gần như ngay lập tức.
+
+Tại sao xã hội hóa (socialization) được xem là một cơ chế quan trọng trong hệ thống khám phá tri thức?
+a.
+Vì nó đảm bảo toàn bộ dữ liệu có sẵn được chuẩn hóa thành các mô hình tri thức hiện.
+b.
+Vì nó cho phép tích hợp tri thức ẩn từ nhiều cá nhân để tạo ra tri thức ẩn mới thông qua hoạt động chung.
+
+c.
+Vì nó là phương thức duy nhất có thể biến đổi tri thức hiện thành tri thức ẩn trong tổ chức.
+d.
+Vì nó thay thế hoàn toàn nhu cầu sử dụng công nghệ trong việc tạo ra tri thức mới.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+11/18
+
+================================================================================
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Vai trò của lãnh đạo cấp cao trong quản lý giải pháp KM chủ yếu là gì?
+a.
+Đảm bảo mọi tri thức ẩn được loại bỏ để tập trung vào tri thức hiện chính thức.
+b.
+Xác lập tầm nhìn dài hạn, phối hợp các hệ thống và tận dụng sự cộng hưởng giữa cơ chế và công nghệ.
+
+c.
+Thay thế hoàn toàn sự tham gia của nhân viên bằng các hệ thống trí tuệ nhân tạo.
+d.
+Chuẩn hóa quy trình vận hành nhằm loại bỏ sự khác biệt giữa các phòng ban.
+Trong triển khai hệ thống ứng dụng tri thức, bối cảnh nào nên ưu tiên cơ chế hướng dẫn thay vì cơ chế thủ tục?
+a.
+Khi nhiệm vụ lặp lại ổn định, đòi hỏi tuân thủ chuẩn mực và kiểm soát đồng nhất trên toàn tổ chức.
+b.
+Khi mục tiêu chính là lan truyền tri thức hiện qua tài liệu và kho best practices.
+c.
+Khi nhiệm vụ có độ biến thiên cao, cần quyết định theo tri thức chuyên gia/thiết bị hỗ trợ, khó đóng khung thành quy
+trình cố định.
+
+d.
+Khi tổ chức đã chuẩn hóa dữ liệu trong ERP/MIS và có thể giám sát thông qua KPI cứng.
+Một công ty logistics toàn cầu muốn khai thác hệ thống chia sẻ tri thức để tối ưu vận hành chuỗi cung ứng. Biện pháp nào minh họa
+rõ ràng nhất sự tích hợp cơ chế xã hội hóa và trao đổi?
+a.
+Triển khai trí tuệ nhân tạo để tự động hóa toàn bộ hoạt động giao nhận hàng hóa.
+b.
+Tổ chức diễn đàn trực tuyến nơi nhân viên vừa thảo luận kinh nghiệm, vừa chia sẻ báo cáo chuẩn.
+
+c.
+Phân tích dữ liệu khách hàng để phát triển mô hình dự báo nhu cầu tiêu dùng.
+d.
+Sử dụng ERP để lưu giữ dữ liệu tài chính và tích hợp quy trình kế toán trên toàn cầu.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+12/18
+
+================================================================================
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một công ty tư vấn và triển khai các giải pháp về IT áp dụng đồng thời cả hệ thống nắm bắt tri thức và hệ thống ứng dụng tri thức
+trong các hoạt động của mình. Giá trị cốt lõi nào có thể đạt được?
+a.
+Biến kinh nghiệm của chuyên gia thành tri thức hiện để lưu trữ, đồng thời sử dụng quy trình thủ tục để triển khai giải pháp
+hiệu quả.
+
+b.
+Tập trung vào trao đổi tài liệu chính thức để giảm bớt chi phí truyền thông nội bộ.
+c.
+Tạo ra tri thức ẩn mới thông qua xã hội hóa giữa các nhân viên và khách hàng.
+d.
+Xây dựng hệ thống MIS để chuẩn hóa dữ liệu và thay thế vai trò của các nhà quản lý.
+Một công ty thương mại điện tử kết hợp hệ thống khám phá tri thức và hệ thống chia sẻ tri thức để cải thiện trải nghiệm khách hàng.
+Lợi ích chính đạt được là gì?
+a.
+Phát hiện các mẫu hành vi mua sắm mới và lan truyền tri thức đó cho toàn bộ bộ phận kinh doanh.
+
+b.
+Đảm bảo toàn bộ tri thức ẩn được loại bỏ để tập trung vào dữ liệu chính thức.
+c.
+Lưu giữ tri thức hiện trong hệ thống ERP và thay thế hoàn toàn vai trò nhân viên hỗ trợ.
+d.
+Biến toàn bộ dữ liệu khách hàng thành quy trình thủ tục chuẩn để tự động hóa đơn hàng.
+Điểm đặc biệt của Bảng 4.1 là cho thấy cùng một công nghệ có thể:
+a.
+Chỉ áp dụng cho một quá trình duy nhất để tránh sự chồng chéo và dư thừa.
+b.
+Hỗ trợ nhiều quá trình KM khác nhau tùy theo cách thức triển khai và ngữ cảnh.
+
+c.
+Hoạt động độc lập mà không cần phối hợp với cơ chế quản trị tri thức.
+d.
+Được phân loại hoàn toàn dựa trên tiêu chí là tri thức ẩn hay tri thức hiện.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+13/18
+
+================================================================================
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Cơ chế “apprenticeships” trong Bảng 4.1 phản ánh rõ nhất đặc điểm nào của quản trị tri thức?
+a.
+Biến đổi tri thức hiện thành tri thức ẩn nhờ áp dụng vào tình huống thực tiễn.
+b.
+Tạo ra tri thức ẩn mới thông qua xã hội hóa giữa chuyên gia và người học việc.
+
+c.
+Lưu giữ tri thức hiện để bảo đảm khả năng tái sử dụng và truy xuất lâu dài.
+d.
+Truyền đạt tri thức hiện giữa các phòng ban bằng báo cáo và cơ sở dữ liệu.
+Có bốn loại hệ thống quản trị tri thức, đó là những loại nào?
+a.
+Hệ thống quản lý quy trình, hệ thống quản lý dữ liệu, hệ thống quản lý thông tin, hệ thống quản lý hồ sơ.
+b.
+Hệ thống lưu trữ tri thức, hệ thống phân tích tri thức, hệ thống đo lường tri thức, hệ thống bảo mật tri thức.
+c.
+Hệ thống đào tạo nhân lực, hệ thống đánh giá hiệu suất, hệ thống quản lý nhân sự, hệ thống chiến lược.
+d.
+Hệ thống ứng dụng tri thức, hệ thống nắm bắt tri thức, hệ thống chia sẻ tri thức, hệ thống khám phá tri thức.
+
+Ví dụ nào sau đây minh họa rõ nhất cho sự tích hợp của trao đổi và xã hội hóa trong một hệ thống chia sẻ tri thức?
+a.
+Một cá nhân học tập bằng cách đọc tài liệu hướng dẫn và áp dụng riêng vào công việc.
+b.
+Một công ty xây dựng hệ thống ERP để chuẩn hóa quy trình tài chính và kế toán.
+c.
+Một tổ chức phát triển mô hình dự báo dựa trên dữ liệu lớn và phân tích thống kê.
+d.
+Một buổi họp nhóm trực tuyến nơi nhân viên vừa chia sẻ báo cáo kết quả, vừa thảo luận kinh nghiệm cá nhân.
+
+Vì sao các quá trình KM được mô tả cùng với cơ chế và công nghệ?
+a.
+Vì sự phối hợp này chỉ ra rằng tri thức ẩn và tri thức hiện có thể được quản lý tách biệt hoàn toàn.
+b.
+Vì sự phối hợp này đảm bảo mỗi cơ chế chỉ phục vụ cho một quá trình KM duy nhất.
+c.
+Vì sự phối hợp này cho thấy cách tri thức được tạo ra, lưu giữ, chia sẻ và áp dụng thông qua công cụ cụ thể.
+
+d.
+Vì sự phối hợp này loại bỏ nhu cầu tham gia của con người trong toàn bộ hệ thống.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+14/18
+
+================================================================================
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 51
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong hệ thống chia sẻ tri thức, xã hội hóa (socialization) khác với trao đổi (exchange) ở điểm nào?
+a.
+Xã hội hóa chủ yếu được thực hiện qua các hệ thống ERP, còn trao đổi chủ yếu qua cơ sở dữ liệu.
+b.
+Xã hội hóa diễn ra trong nghiên cứu hàn lâm, còn trao đổi diễn ra trong doanh nghiệp thực tiễn.
+c.
+Xã hội hóa chỉ phù hợp với chia sẻ tri thức hiện, còn trao đổi chỉ phù hợp với chia sẻ tri thức ẩn.
+d.
+Xã hội hóa tập trung vào tri thức ẩn và diễn ra qua tương tác trực tiếp, còn trao đổi tập trung vào tri thức hiện qua tài liệu
+và công nghệ.
+
+Trong bối cảnh khám phá tri thức, cơ chế “collaborative problem solving” trong Bảng 4.1 phục vụ trực tiếp cho mục tiêu nào?
+a.
+Chia sẻ tri thức ẩn giữa các thành viên nhóm thông qua xã hội hóa.
+b.
+Tổng hợp tri thức hiện từ nhiều nguồn để hình thành tri thức hiện mới.
+
+c.
+Biến tri thức hiện thành tri thức ẩn thông qua thực hành tại chỗ.
+d.
+Ghi lại kinh nghiệm cá nhân thành tài liệu chính thức để phổ biến.
+Theo Bảng 4.1, công nghệ “repositories of best practices” thường gắn liền với quá trình nào?
+a.
+Chia sẻ tri thức, vì nó cho phép lan truyền kinh nghiệm tích lũy và các bài học rút ra.
+
+b.
+Nắm bắt tri thức, vì nó biến đổi tri thức ẩn thành tri thức hiện để lưu trữ.
+c.
+Khám phá tri thức, vì nó tổng hợp dữ liệu hiện thành tri thức hiện mới.
+d.
+Ứng dụng tri thức, vì nó cho phép nhân viên làm theo thủ tục được quy định sẵn.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+15/18
+
+================================================================================
+Câu hỏi 52
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 53
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 54
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 55
+Đúng
+Đạt điểm 1,00 trên 1,00
+Hệ thống khám phá tri thức khác biệt cơ bản với hệ thống nắm bắt tri thức ở điểm nào?
+a.
+Khám phá tri thức chỉ áp dụng cho tri thức ẩn, còn nắm bắt tri thức chỉ áp dụng cho tri thức hiện.
+b.
+Khám phá tri thức diễn ra trong nghiên cứu hàn lâm, còn nắm bắt tri thức diễn ra trong doanh nghiệp.
+c.
+Khám phá tri thức chủ yếu dựa vào công nghệ khai phá dữ liệu, còn nắm bắt tri thức chỉ dựa vào con người.
+d.
+Khám phá tri thức tập trung vào việc tạo ra tri thức mới từ dữ liệu hoặc tổng hợp, còn nắm bắt tri thức giả định tri thức đã
+tồn tại và chỉ cần ghi lại.
+
+Theo Bảng 4.1, công nghệ “case-based reasoning systems” thường hỗ trợ trực tiếp cơ chế nào?
+a.
+Kết hợp, bằng cách tổng hợp nhiều nguồn tri thức hiện để hình thành tri thức mới.
+b.
+Hướng dẫn, bằng cách cung cấp lời khuyên và giải pháp dựa trên các trường hợp trước đó.
+
+c.
+Xã hội hóa, bằng cách thúc đẩy tương tác trực tiếp giữa các cá nhân.
+d.
+Trao đổi, bằng cách truyền đạt thông tin chính thức qua báo cáo và cơ sở dữ liệu.
+Trong bốn quá trình KM, “videoconferencing” trong Bảng 4.1 được xem là công nghệ hỗ trợ quan trọng nhất cho:
+a.
+Khám phá tri thức, vì nó tổng hợp dữ liệu hiện để tạo thành ý tưởng mới.
+b.
+Ứng dụng tri thức, vì nó giúp cá nhân làm theo thủ tục một cách chuẩn hóa.
+c.
+Chia sẻ tri thức, vì nó tạo điều kiện cho xã hội hóa và trao đổi tri thức từ xa.
+
+d.
+Nắm bắt tri thức, vì nó ghi lại toàn bộ kinh nghiệm ẩn thành tri thức hiện.
+Một cơ chế hoặc công nghệ quản trị tri thức có thể:
+a.
+Luôn cần kết hợp với ít nhất hai công nghệ khác để đảm bảo tính khả thi.
+b.
+Chỉ được sử dụng trong một hệ thống duy nhất và không thể tái áp dụng cho mục đích khác.
+c.
+Hỗ trợ nhiều hệ thống quản trị tri thức khác nhau tùy thuộc vào hoàn cảnh sử dụng.
+
+d.
+Được áp dụng chủ yếu cho quản lý dữ liệu tài chính và báo cáo định kỳ.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+16/18
+
+================================================================================
+Câu hỏi 56
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 57
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 58
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 59
+Đúng
+Đạt điểm 1,00 trên 1,00
+Các công nghệ nào được xem là công cụ quan trọng để hỗ trợ trao đổi tri thức trong hệ thống chia sẻ tri thức?
+a.
+Trò chuyện trực tiếp, quan sát công việc thực tế và huấn luyện tại chỗ.
+b.
+Các công cụ khai phá dữ liệu, trí tuệ nhân tạo và mô hình học máy.
+c.
+Groupware, cơ sở dữ liệu trực tuyến và kho lưu trữ tri thức như best practices hay lessons learned.
+
+d.
+Các hệ thống ERP, MIS và các quy trình quản lý tiêu chuẩn hóa.
+Trong hệ thống khám phá tri thức, cơ chế kết hợp (combination) đóng vai trò gì?
+a.
+Biến đổi tri thức ẩn thành tri thức hiện bằng việc mã hóa dưới dạng tài liệu hoặc dữ liệu.
+b.
+Truyền đạt trực tiếp tri thức ẩn giữa các cá nhân thông qua hoạt động chung và trải nghiệm.
+c.
+Biến đổi tri thức hiện thành tri thức ẩn thông qua quá trình học tập cá nhân và kinh nghiệm.
+d.
+Tổng hợp nhiều nguồn tri thức hiện để hình thành tập hợp tri thức hiện mới và phức tạp hơn.
+
+Điểm chung giữa cơ sở hạ tầng công nghệ thông tin (IT infrastructure) và văn hóa tổ chức là gì?
+a.
+Cả hai đều được triển khai độc lập mà không cần phối hợp với các hệ thống KM.
+b.
+Cả hai đều chỉ phù hợp với quá trình nắm bắt tri thức và ứng dụng tri thức.
+c.
+Cả hai đều thay thế hoàn toàn các cơ chế quản trị tri thức truyền thống.
+d.
+Cả hai đều được xem là nền tảng hỗ trợ để triển khai hiệu quả các hệ thống KM.
+
+Việc phân loại các hệ thống quản trị tri thức thành bốn loại chủ yếu dựa trên yếu tố nào?
+a.
+Quy mô tổ chức và số lượng tri thức được xử lý hàng ngày.
+b.
+Mức độ hiện đại của công nghệ thông tin được tích hợp vào hệ thống.
+c.
+Quá trình quản trị tri thức được hệ thống đó trực tiếp hỗ trợ nhiều nhất.
+
+d.
+Loại hình dữ liệu mà hệ thống được thiết kế để lưu trữ và phân tích.
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+17/18
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+Câu hỏi 60
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong trường hợp DeepGreen Financial, nếu công ty chỉ tập trung vào giảm lãi suất thay vì tự động hóa tri thức, điều gì có khả năng
+xảy ra nhất?
+a.
+Khả năng xử lý hồ sơ tăng mạnh nhờ tận dụng đội ngũ nhân viên giàu kinh nghiệm.
+b.
+Công nghệ ERP trở thành nền tảng chính để kiểm soát toàn bộ giao dịch tài chính.
+c.
+Tri thức ẩn trong tổ chức được biến thành tri thức hiện để tạo ra nhiều quy trình chuẩn.
+d.
+Lợi thế cạnh tranh khó duy trì vì đối thủ có thể dễ dàng bắt chước chính sách lãi suất.
+
+◄ Q & A - Nhóm 6
+Chuyển tới...
+Chapter 5 - Mini Test ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+GET SOCIAL
+      
+22:51 5/12/25
+Chapter 4 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2077575&cmid=670037&showall=1
+18/18
+
+================================================================================

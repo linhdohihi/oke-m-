@@ -1,0 +1,915 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức /  Week 10 - Chapter 7: Knowledge Capture Systems
+/  Chapter 7 - Part 1 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 8 October 2025, 11:20 AM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 8 October 2025, 11:35 AM
+Thời gian thực
+hiện
+14 phút 53 giây
+Điểm
+60,00/60,00
+Điểm
+10,00 trên 10,00 (100%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong kỹ thuật quan sát nhân học của Snowden, việc sử dụng “người phỏng vấn ngây thơ” mang lại lợi ích gì?
+a.
+Giúp loại bỏ hoàn toàn yếu tố cảm xúc trong câu chuyện được kể.
+b.
+Tái hiện chính xác dữ liệu định lượng thay cho tường thuật định tính.
+c.
+Tạo cơ hội để các đối tượng chia sẻ những giai thoại tự nhiên và chân thực.
+
+d.
+Đảm bảo rằng các câu hỏi luôn tập trung vào chi tiết kỹ thuật phức tạp.
+Hệ thống nắm bắt tri thức có thể thu giữ tri thức từ những nguồn nào?
+a.
+Từ các tài liệu chính thức đã được ban hành nội bộ.
+b.
+Từ các báo cáo định kỳ của bộ phận tài chính.
+c.
+Từ nhân viên hiện tại của tổ chức thông qua phỏng vấn trực tiếp.
+d.
+Từ nhân viên, đối thủ cạnh tranh, khách hàng, nhà cung cấp.
+
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+1/17
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Yếu tố công nghệ đóng vai trò gì trong hệ thống nắm bắt tri thức?
+a.
+Thay thế hoàn toàn chuyên gia để ra quyết định chiến lược.
+b.
+Loại bỏ nhu cầu cộng tác giữa các nhân viên.
+c.
+Đảm bảo thu thập được hoàn toàn tri thức ẩn của tất cả các nhân viên.
+d.
+Hỗ trợ ngoại hóa và nội hóa thông qua công cụ giao tiếp và mô phỏng.
+
+Trong bối cảnh phát triển văn hóa quản trị, 3M sử dụng những “pet stories” để làm gì?
+a.
+Trình bày số liệu tài chính và báo cáo lợi nhuận.
+b.
+Miêu tả những hành vi nên được nhân rộng trong toàn tổ chức.
+c.
+Minh họa “những việc không nên làm” để tránh sai lầm.
+
+d.
+Giải thích chi tiết các quy trình vận hành kỹ thuật.
+Trong thiết kế hệ thống, vì sao cần phân biệt rõ giữa tài liệu kỹ thuật và tri thức chuyên gia?
+a.
+Vì tài liệu luôn chứa toàn bộ bối cảnh nên dễ áp dụng hơn tri thức.
+b.
+Vì tri thức chuyên gia luôn ít giá trị hơn tài liệu kỹ thuật.
+c.
+Vì tri thức chuyên gia chỉ tồn tại dưới dạng số hóa.
+d.
+Vì tài liệu chỉ ghi lại sản phẩm cuối, còn tri thức bao gồm lập luận và giả định.
+
+Vì sao kể chuyện được coi là công cụ mạnh trong việc giữ gìn bản sắc tổ chức?
+a.
+Vì nó thay thế toàn bộ tài liệu lưu trữ chính thức.
+b.
+Vì nó đảm bảo loại bỏ sự đa dạng văn hóa trong nội bộ.
+c.
+Vì nó chỉ tập trung vào việc ghi lại số liệu tài chính.
+d.
+Vì nó kết nối lịch sử, giá trị và kinh nghiệm chung thành ký ức tập thể.
+
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+2/17
+
+================================================================================
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ý nghĩa của việc lưu trữ câu chuyện trong cơ sở dữ liệu là gì?
+a.
+Giúp mã hóa các quy tắc IF–THEN để suy luận tự động.
+b.
+Giúp loại bỏ nhu cầu chia sẻ tri thức trực tiếp giữa con người.
+c.
+Giúp bảo tồn kinh nghiệm tổ chức và làm nguồn tham chiếu cho tình huống mới.
+
+d.
+Giúp thay thế toàn bộ báo cáo tài chính và kế hoạch sản xuất.
+Vì sao vòng tròn kể chuyện (storytelling circles) được khuyến nghị nên ghi lại bằng video?
+a.
+Vì video dễ dàng chuyển đổi thành dữ liệu số chuẩn hóa.
+b.
+Vì video loại bỏ được sự chủ quan trong nội dung câu chuyện.
+c.
+Vì video có thể tái hiện bối cảnh, ngôn ngữ cơ thể và sắc thái giọng nói.
+
+d.
+Vì video thay thế hoàn toàn nhu cầu chia sẻ trực tiếp giữa con người.
+Ví dụ nào thể hiện rõ cơ chế nội hóa trong nắm bắt tri thức?
+a.
+Xây dựng mô hình khái niệm để trình bày tri thức hiện.
+b.
+Kể lại một câu chuyện để truyền đạt kinh nghiệm quản lý.
+c.
+Số hóa báo cáo kiểm toán thành dữ liệu định lượng.
+d.
+Nhân viên mới học hỏi bằng cách quan sát chuyên gia xử lý công việc.
+
+Trong truyền thông tổ chức, vì sao kể chuyện thường có sức mạnh hơn báo cáo chính thức?
+a.
+Vì kể chuyện dễ gợi cảm xúc và tạo sự đồng cảm hơn dữ liệu khô khan.
+
+b.
+Vì báo cáo chính thức chỉ được viết để giải trí cho nhân viên.
+c.
+Vì báo cáo chính thức thường không chứa đựng thông tin có giá trị.
+d.
+Vì kể chuyện thay thế hoàn toàn các công cụ thống kê.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+3/17
+
+================================================================================
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khi được sử dụng trong đào tạo, kể chuyện có ưu điểm nào so với bài giảng lý thuyết?
+a.
+Giúp mô phỏng chính xác mọi quy trình tài chính trong doanh nghiệp.
+b.
+Giúp loại bỏ hoàn toàn tri thức ẩn và thay bằng tri thức hiện.
+c.
+Giúp chuẩn hóa tri thức để không còn khác biệt văn hóa.
+d.
+Giúp người học tiếp thu nhanh nhờ tình huống và ngữ cảnh cụ thể.
+
+Vì sao hệ thống nắm bắt tri thức được coi là công cụ quan trọng đối với tri thức chiến thuật?
+a.
+Vì tri thức chiến thuật tập trung vào vị thế dài hạn và tầm nhìn chiến lược.
+b.
+Vì tri thức chiến thuật không cần sự tham gia của chuyên gia hiện trường.
+c.
+Vì tri thức chiến thuật chủ yếu được mã hóa trong tài liệu tài chính.
+d.
+Vì tri thức chiến thuật liên quan đến các quyết định vận hành ngắn hạn.
+
+Khi thay đổi nhân vật hoặc bối cảnh trong câu chuyện (shifting character or context), tổ chức đạt được điều gì?
+a.
+Tránh mọi yếu tố hư cấu và chỉ giữ lại sự kiện thực tế.
+b.
+Xem xét một quan điểm mới để hiểu sâu hơn ý nghĩa của câu chuyện.
+
+c.
+Đảm bảo rằng tất cả chi tiết được mô tả hoàn toàn giống dữ liệu gốc.
+d.
+Loại bỏ các mối liên hệ xã hội vốn có trong bối cảnh câu chuyện.
+Tại sao 3M coi việc kể chuyện là một công cụ chiến lược trong quản trị tri thức?
+a.
+Vì nó hỗ trợ phát triển thế hệ lãnh đạo kế cận.
+
+b.
+Vì nó thay thế hoàn toàn báo cáo tài chính và kế hoạch sản xuất.
+c.
+Vì nó giúp mô tả chi tiết các bước vận hành kỹ thuật chuẩn.
+d.
+Vì nó tạo ra kịch bản giải trí giúp nhân viên giảm căng thẳng.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+4/17
+
+================================================================================
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 16
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 17
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tại sao bản đồ khái niệm (concept maps) lại hữu ích trong đào tạo nhân lực mới?
+a.
+Vì chúng chuẩn hóa toàn bộ quy trình vận hành tài chính.
+b.
+Vì chúng biểu diễn trực quan các mối quan hệ khái niệm mà văn bản khó thể hiện.
+
+c.
+Vì chúng thay thế nhu cầu cố vấn cá nhân trong tổ chức.
+d.
+Vì chúng đảm bảo mọi nhân viên đều suy nghĩ giống nhau.
+Khi xây dựng hệ thống nắm bắt tri thức, mục tiêu cuối cùng của việc bảo tồn tri thức chuyên gia là gì?
+a.
+Đảm bảo loại bỏ mọi khác biệt giữa tri thức ẩn và tri thức hiện.
+b.
+Đảm bảo hệ thống tự động thay thế hoàn toàn chuyên gia.
+c.
+Đảm bảo tri thức chỉ tồn tại trong môi trường máy tính.
+d.
+Đảm bảo người khác có thể học hỏi và áp dụng được tri thức đó.
+
+Một rủi ro lớn khi chỉ lưu giữ “kết quả” chẩn đoán mà không lưu lại lập luận dẫn đến kết quả đó là gì?
+a.
+Kết quả được lưu sẽ thay thế mọi kinh nghiệm thực tiễn.
+b.
+Báo cáo y tế sẽ trở nên đơn giản và dễ đọc hơn.
+c.
+Người học sẽ tự động suy luận đúng dựa vào kết quả cuối cùng.
+d.
+Người học về sau không hiểu được cách thức để tái áp dụng tri thức.
+
+Trong thiết kế hệ thống nắm bắt tri thức, thách thức lớn nhất của việc lưu trữ chẩn đoán y khoa là gì?
+a.
+Kết quả chẩn đoán được ghi lại nhưng quá trình suy luận dẫn đến chẩn đoán thường không được lưu giữ.
+
+b.
+Các quyết định lâm sàng thường được chuẩn hóa sẵn trong cơ sở dữ liệu.
+c.
+Các bác sĩ luôn viết rõ ràng mọi giả định và ràng buộc trong báo cáo.
+d.
+Tri thức y khoa chỉ tồn tại dưới dạng dữ liệu số hóa và không cần tài liệu bổ sung.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+5/17
+
+================================================================================
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một câu chuyện trong tổ chức có thể khuyến khích đổi mới sáng tạo bằng cách nào?
+a.
+Đảm bảo rằng mọi hoạt động được giữ nguyên trạng và không thay đổi.
+b.
+Ngăn chặn việc áp dụng ý tưởng mới để duy trì tính ổn định.
+c.
+Truyền cảm hứng để nhân viên nhìn thấy khả năng thay đổi.
+
+d.
+Thay thế sự sáng tạo cá nhân bằng quy trình kiểm toán nghiêm ngặt.
+Điểm khác biệt cơ bản giữa tài liệu kỹ thuật và tri thức thực sự của chuyên gia là gì?
+a.
+Tài liệu thường giàu cảm xúc, trong khi tri thức hoàn toàn trung tính.
+b.
+Tài liệu thường chỉ phản ánh kết quả, còn tri thức bao gồm cả giả định và lập luận dẫn đến kết quả đó.
+
+c.
+Tài liệu luôn chứa toàn bộ suy luận chi tiết, còn tri thức chỉ là tóm tắt kết quả.
+d.
+Tài liệu và tri thức hoàn toàn đồng nhất trong mọi bối cảnh.
+Trong việc lan tỏa văn hóa tổ chức, kể chuyện đóng vai trò gì?
+a.
+Loại bỏ hoàn toàn các mối quan hệ xã hội phi chính thức.
+b.
+Đảm bảo mọi dữ liệu được xử lý bằng công cụ phân tích thống kê.
+c.
+Truyền đạt các giá trị, niềm tin và chuẩn mực hành vi tới nhân viên mới.
+
+d.
+Chuẩn hóa các quy trình kỹ thuật thành báo cáo định lượng.
+Điều gì làm cho kể chuyện phù hợp trong môi trường cần hợp tác cao?
+a.
+Vì nó thay thế hoàn toàn các hệ thống quản lý tri thức chính thức.
+b.
+Vì nó cung cấp dữ liệu số hóa nhanh chóng.
+c.
+Vì nó phản ánh chuẩn mực, giá trị và văn hóa tổ chức.
+
+d.
+Vì nó loại bỏ các yếu tố phi chính thức.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+6/17
+
+================================================================================
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong bối cảnh thiết kế hệ thống nắm bắt tri thức, tại sao cần song song vừa có kỹ thuật vừa có công nghệ thông minh?
+a.
+Vì công nghệ luôn loại bỏ mọi giả định trong khi kỹ thuật thì không.
+b.
+Vì kỹ thuật tạo ra nội dung còn công nghệ cung cấp phương tiện lưu trữ và truyền tải.
+
+c.
+Vì kỹ thuật thay thế toàn bộ tri thức ẩn, còn công nghệ chỉ ghi lại tri thức hiện.
+d.
+Vì công nghệ đảm bảo tính hợp pháp trong khi kỹ thuật chỉ tập trung vào vận hành.
+Theo quan điểm thiết kế hệ thống nắm bắt tri thức, vai trò chính của công nghệ là gì?
+a.
+Tập trung vào việc thay thế con người trong toàn bộ quá trình.
+b.
+Tạo ra môi trường cho phép mô phỏng và bảo tồn tri thức của chuyên gia.
+
+c.
+Đảm bảo mọi tri thức ẩn tự động chuyển thành tri thức hiện.
+d.
+Loại bỏ hoàn toàn nhu cầu xây dựng thư viện tri thức.
+Theo quan điểm quản trị tri thức, kể chuyện trong tổ chức mang lại lợi ích gì?
+a.
+Chuẩn hóa hoàn toàn dữ liệu để dễ dàng xử lý bằng công nghệ.
+b.
+Giảm sự cần thiết của cộng đồng thực hành trong tổ chức.
+c.
+Thay thế toàn bộ tri thức ẩn bằng tri thức hiện.
+d.
+Tạo ra cách nhìn đa chiều giúp phát hiện cơ hội kinh doanh.
+
+Tại sao suy luận dựa trên ngữ cảnh (CxBR) lại phù hợp cho tri thức chiến thuật?
+a.
+Vì nó chủ yếu tập trung vào tri thức hiện có sẵn trong báo cáo.
+b.
+Vì nó mô phỏng quá trình đánh giá tình huống và lựa chọn hành động.
+
+c.
+Vì nó thay thế hoàn toàn nhu cầu đào tạo bằng mô phỏng.
+d.
+Vì nó chỉ lưu trữ thông tin dạng văn bản mà không xử lý ngữ cảnh.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+7/17
+
+================================================================================
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Cơ chế nội hóa (internalization) trong hệ thống nắm bắt tri thức có đặc điểm gì?
+a.
+Mô tả quy trình mã hóa luật IF–THEN từ tri thức chuyên gia.
+b.
+Chỉ tập trung vào việc thu thập dữ liệu từ kho lưu trữ điện tử.
+c.
+Giúp người học chuyển đổi tri thức hiện thành tri thức ẩn thông qua trải nghiệm.
+
+d.
+Loại bỏ sự tham gia của con người để đảm bảo khách quan tuyệt đối.
+Một hạn chế khi sử dụng kể chuyện như cơ chế nắm bắt tri thức là gì?
+a.
+Nội dung chỉ phù hợp cho báo cáo tài chính hàng năm.
+b.
+Nội dung luôn phản ánh chính xác dữ liệu định lượng.
+c.
+Nội dung có thể bị thiên lệch do góc nhìn và cách diễn đạt của người kể.
+
+d.
+Nội dung không thể tác động đến hành vi hay thái độ.
+Tại sao môi trường có tính bất định cao lại yêu cầu việc ghi lại các quyết định?
+a.
+Vì tài liệu kỹ thuật trong bối cảnh này không còn giá trị.
+b.
+Vì chỉ có dữ liệu định lượng mới đủ để vận hành.
+c.
+Vì môi trường bất định luôn loại bỏ mọi giả định.
+d.
+Vì các quyết định được lưu trữ sẽ giúp tái sử dụng khi điều kiện thay đổi.
+
+Làm thế nào để việc kể chuyện góp phần xây dựng niềm tin trong tổ chức?
+a.
+Bằng cách loại bỏ các tương tác phi chính thức giữa nhân viên.
+b.
+Bằng cách chuẩn hóa tri thức thành quy trình thủ tục duy nhất.
+c.
+Bằng cách sử dụng thuật toán thống kê để xác nhận mọi phát biểu.
+d.
+Bằng cách tạo cảm giác kết nối cá nhân và chia sẻ trải nghiệm chân thực.
+
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+8/17
+
+================================================================================
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Mục tiêu của kỹ thuật “alternative histories” trong thu thập tri thức tổ chức là gì?
+a.
+Tạo ra những kịch bản giả định khác nhau để tham chiếu kết quả dự án.
+
+b.
+Chuẩn hóa các câu chuyện thành báo cáo định lượng duy nhất.
+c.
+Loại bỏ hoàn toàn các yếu tố sáng tạo khỏi quá trình ra quyết định.
+d.
+Giảm sự đa dạng trong tri thức nhằm duy trì ổn định tổ chức.
+Trong môi trường bất định, việc ghi lại giả định kèm theo quyết định thiết kế mang lại lợi ích gì?
+a.
+Giúp loại bỏ hoàn toàn nhu cầu cập nhật tri thức.
+b.
+Đảm bảo tất cả quyết định đều đúng trong tương lai.
+c.
+Thay thế toàn bộ vai trò của chuyên gia kỹ thuật.
+d.
+Cho phép tái sử dụng hoặc điều chỉnh quyết định khi bối cảnh thay đổi.
+
+Tại sao hệ thống nắm bắt tri thức có thể vượt qua ranh giới tổ chức?
+a.
+Vì chỉ tập trung vào dữ liệu nội bộ để giảm chi phí vận hành.
+b.
+Vì tri thức ẩn luôn có thể tự động chuyển thành tri thức hiện mà không cần công cụ.
+c.
+Vì có thể thu nhận tri thức từ cả bên trong lẫn bên ngoài, bao gồm đối tác và đối thủ cạnh tranh.
+
+d.
+Vì mọi tri thức đều được chuẩn hóa thành quy trình thủ tục cố định.
+Theo nghiên cứu của Denning, yếu tố nào làm cho kể chuyện có thể kích hoạt hành động thay đổi ngay?
+a.
+Việc tái tạo toàn bộ báo cáo chiến lược dài hạn.
+b.
+Cách kể ngắn gọn, tập trung và dễ liên hệ để người nghe tưởng tượng khả năng mới.
+
+c.
+Việc mô tả chi tiết tất cả lỗi vận hành để tránh sai sót.
+d.
+Việc đưa vào nhiều số liệu phức tạp để chứng minh độ chính xác tuyệt đối.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+9/17
+
+================================================================================
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một lý do khiến kể chuyện trở thành công cụ quản trị thay đổi hiệu quả là gì?
+a.
+Khả năng định hình lại cách nhìn và hành vi của nhân viên qua ví dụ thực tế.
+
+b.
+Khả năng loại bỏ nhu cầu phân tích dữ liệu trong tổ chức.
+c.
+Khả năng đảm bảo tri thức chỉ tồn tại dưới dạng số liệu chuẩn.
+d.
+Khả năng thay thế tất cả chính sách quản lý bằng tường thuật.
+Theo Snowden, tại sao kể chuyện trong tổ chức được coi là phi thứ bậc (nonhierarchical)?
+a.
+Vì kể chuyện thay thế toàn bộ các chính sách quản trị chính thức.
+b.
+Vì kể chuyện loại bỏ hoàn toàn sự tham gia của nhân viên cấp dưới.
+c.
+Vì kể chuyện mang tính hợp tác, khuyến khích các thành viên đồng sáng tạo.
+
+d.
+Vì kể chuyện đảm bảo quyền lực tập trung vào lãnh đạo cấp cao.
+Ví dụ nào thể hiện rõ cơ chế ngoại hóa trong quá trình nắm bắt tri thức?
+a.
+Thông qua kể chuyện để chuyển tri thức ẩn thành tri thức hiện.
+
+b.
+Tổ chức các cuộc họp trực tiếp để nhân viên học hỏi lẫn nhau.
+c.
+Đọc lại báo cáo đã chuẩn hóa từ hệ thống thông tin quản lý.
+d.
+Quan sát trực tiếp cách một chuyên gia xử lý tình huống trong thực tế.
+Hệ thống nắm bắt tri thức khác biệt với hệ thống chia sẻ tri thức chủ yếu ở điểm nào?
+a.
+Tập trung vào việc chuẩn hóa số liệu tài chính thành báo cáo.
+b.
+Tập trung vào việc tự động hóa các quyết định chiến lược cấp cao.
+c.
+Tập trung vào việc thu giữ và định hình tri thức để lưu trữ lâu dài.
+
+d.
+Tập trung vào việc truyền đạt nhanh chóng giữa các nhóm chức năng.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+10/17
+
+================================================================================
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong tổ chức, vì sao phép ẩn dụ thường được dùng trong các câu chuyện để truyền đạt tri thức?
+a.
+Vì phép ẩn dụ cho phép loại bỏ mọi sự khác biệt văn hóa trong doanh nghiệp.
+b.
+Vì phép ẩn dụ giúp minh họa trực quan những khái niệm trừu tượng và khó diễn đạt.
+
+c.
+Vì phép ẩn dụ thay thế hoàn toàn nhu cầu đào tạo chính thức trong tổ chức.
+d.
+Vì phép ẩn dụ luôn chính xác hơn số liệu định lượng khi giải thích tình huống.
+Một nhược điểm của kỹ thuật phỏng vấn truyền thống so với kỹ thuật kể chuyện trong nắm bắt tri thức là gì?
+a.
+Luôn tạo ra dữ liệu định tính chính xác tuyệt đối.
+b.
+Chỉ thu được dữ liệu từ bên ngoài tổ chức.
+c.
+Không thể thu nhận tri thức hiện từ chuyên gia.
+d.
+Ít tái hiện được bối cảnh phong phú gắn với hành động và quyết định.
+
+Theo định nghĩa của Swap et al. (2001), câu chuyện tổ chức được hiểu là gì?
+a.
+Một bản kế hoạch chiến lược dài hạn được phê duyệt bởi ban giám đốc.
+b.
+Một bản mô tả kỹ thuật chi tiết về quá trình sản xuất sản phẩm.
+c.
+Một chuỗi dữ liệu số hóa phản ánh hiệu quả tài chính của doanh nghiệp.
+d.
+Một tường thuật phi chính thức về các sự kiện nội bộ hay bên ngoài tổ chức.
+
+Trong lịch sử nhân loại, cơ chế nguyên thủy nhất để nắm bắt tri thức là gì?
+a.
+Việc mã hóa luật thành văn bản pháp lý.
+b.
+Các quy trình kiểm toán tài chính định kỳ.
+c.
+Việc chuẩn hóa các bảng số liệu và thống kê.
+d.
+Nghệ thuật kể chuyện truyền miệng trong cộng đồng.
+
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+11/17
+
+================================================================================
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+Kỹ thuật gợi tri thức (knowledge elicitation) trong AI chủ yếu được thực hiện bằng cách nào?
+a.
+Thông qua việc chuẩn hóa các báo cáo định lượng trong doanh nghiệp.
+b.
+Thông qua buổi phỏng vấn giữa kỹ sư tri thức và chuyên gia.
+
+c.
+Thông qua quan sát ngẫu nhiên các quy trình không chính thức.
+d.
+Thông qua việc phân tích dữ liệu hành vi người dùng từ mạng xã hội.
+Một trong những điểm mạnh của kể chuyện là gì khi so với danh sách gạch đầu dòng trong kế hoạch kinh doanh?
+a.
+Danh sách có khả năng truyền đạt các giá trị văn hóa tốt hơn.
+b.
+Kể chuyện cho phép tái hiện mạch sự kiện và ưu tiên chiến lược rõ ràng.
+
+c.
+Kể chuyện loại bỏ hoàn toàn yếu tố cảm xúc cá nhân.
+d.
+Danh sách gạch đầu dòng luôn hấp dẫn và dễ nhớ hơn.
+Một “springboard story” theo Denning (2000) có tác dụng gì?
+a.
+Giúp khán giả hình dung tổ chức có thể thay đổi nhờ câu chuyện trong một bối cảnh khác.
+
+b.
+Thay thế các phương pháp phân tích dữ liệu định lượng trong tổ chức.
+c.
+Dùng để chuẩn hóa tri thức hiện thành các tài liệu hướng dẫn chính thức.
+d.
+Chỉ nhằm mục đích khuyến khích nhân viên giải trí sau giờ làm việc.
+Một trong những lý do kể chuyện giúp tăng tốc quản trị thay đổi trong tổ chức là gì?
+a.
+Kể chuyện đảm bảo sự tuân thủ tuyệt đối của nhân viên.
+b.
+Kể chuyện loại bỏ nhu cầu về bất kỳ số liệu minh chứng nào.
+c.
+Kể chuyện luôn thay thế toàn bộ chiến lược dài hạn.
+d.
+Kể chuyện khơi gợi hình ảnh cụ thể khiến nhân viên hình dung dễ dàng về trạng thái tương lai.
+
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+12/17
+
+================================================================================
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Theo Phoel (2006), yếu tố nào được xem là trung tâm để một câu chuyện tổ chức thành công?
+a.
+Khả năng lặp lại câu chuyện giống hệt trong mọi ngữ cảnh.
+b.
+Sự tham gia của chuyên gia bên ngoài để hiệu chỉnh nội dung.
+c.
+Mức độ chính xác trong các số liệu tài chính được đề cập.
+d.
+Tính chân thực trong cách kể và nội dung của câu chuyện.
+
+Điểm hạn chế của các mô hình chuyên gia được xây dựng trong AI là gì?
+a.
+Mô hình có xu hướng chỉ tập trung vào dữ liệu định lượng và bỏ qua cảm xúc.
+b.
+Mô hình thường quá phức tạp nên không thể vận hành trên nền tảng số hóa.
+c.
+Máy tính dễ dàng hiểu mô hình, nhưng mô hình không phải lúc nào cũng phản ánh đầy đủ tri thức để người khác học hỏi. 
+d.
+Mô hình luôn yêu cầu nguồn dữ liệu cực lớn nên khó ứng dụng thực tế.
+Trong việc kể chuyện tổ chức, vì sao yếu tố cảm xúc được coi là tài sản tri thức?
+a.
+Vì nó tạo sự kết nối sâu sắc và gợi nhớ lâu dài hơn dữ liệu khô khan.
+
+b.
+Vì nó thay thế được tất cả các quy trình chính thức.
+c.
+Vì nó loại bỏ được các khác biệt về bối cảnh.
+d.
+Vì nó luôn chính xác hơn các dữ kiện thống kê.
+Trong kỹ thuật “dit-spinning” (fish tales), đặc điểm nào nổi bật nhất?
+a.
+Xu hướng giảm thiểu chi tiết ngữ cảnh để tăng tính khách quan.
+b.
+Xu hướng con người phóng đại hoặc cải tiến câu chuyện đã được kể.
+
+c.
+Xu hướng chuyển mọi tri thức thành dữ liệu số hóa chuẩn.
+d.
+Xu hướng tập trung vào việc chuẩn hóa quy trình kỹ thuật nội bộ.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+13/17
+
+================================================================================
+Câu hỏi 51
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 52
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 53
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 54
+Đúng
+Đạt điểm 1,00 trên 1,00
+Đâu là một trong những đặc điểm làm cho kể chuyện trở thành công cụ hiệu quả trong việc nắm bắt tri thức ẩn?
+a.
+Kể chuyện thường được chuẩn hóa thành dữ liệu định lượng rõ ràng.
+b.
+Kể chuyện loại bỏ hoàn toàn các yếu tố cảm xúc của người tham gia.
+c.
+Kể chuyện thường chứa đựng chi tiết ngữ cảnh phong phú và dễ liên hệ cá nhân.
+
+d.
+Kể chuyện chỉ có giá trị khi được viết dưới dạng báo cáo chính thức.
+Trong bối cảnh IBM, Snowden cho rằng mục tiêu chính của kể chuyện trong tổ chức là gì?
+a.
+Đạt được sự giải trí cho nhân viên sau giờ làm việc.
+b.
+Chuẩn hóa tri thức hiện để tạo ra quy trình kỹ thuật.
+c.
+Đảm bảo rằng mọi câu chuyện đều phản ánh hành vi lý tưởng.
+d.
+Giúp đạt một mục đích cụ thể chứ không chỉ để giải trí.
+
+Khi lập chỉ mục cơ sở dữ liệu, việc sử dụng nhân vật nguyên mẫu (archetypal characters) có ý nghĩa gì?
+a.
+Giảm thiểu tính đa dạng văn hóa trong cộng đồng tổ chức.
+b.
+Loại bỏ hoàn toàn yếu tố cảm xúc trong tri thức tổ chức.
+c.
+Chuẩn hóa câu chuyện thành báo cáo định lượng duy nhất.
+d.
+Gợi liên tưởng đến những hình mẫu phổ quát giúp truyền tải giá trị.
+
+Cơ chế ngoại hóa (externalization) trong hệ thống nắm bắt tri thức được hiểu là gì?
+a.
+Quá trình chuyển đổi tri thức ẩn thành tri thức hiện để có thể chia sẻ.
+
+b.
+Quá trình chuẩn hóa dữ liệu thành mô hình thống kê để dự báo.
+c.
+Quá trình biến đổi báo cáo tài chính thành tài liệu quản trị tri thức.
+d.
+Quá trình chuyển đổi tri thức hiện thành tri thức ẩn thông qua thực hành.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+14/17
+
+================================================================================
+Câu hỏi 55
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 56
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 57
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 58
+Đúng
+Đạt điểm 1,00 trên 1,00
+Theo Snowden (1999), điều gì KHÔNG nên có trong một chương trình kể chuyện?
+a.
+Sử dụng chất liệu gắn liền với cộng đồng nội bộ.
+b.
+Tránh lý tưởng hóa hành vi nhân viên trong câu chuyện.
+c.
+Khuyến khích nhân viên chia sẻ trải nghiệm công việc.
+d.
+Phụ thuộc quá nhiều vào chuyên gia bên ngoài để duy trì.
+
+Cơ sở dữ liệu có thể được lập chỉ mục theo những cách nào?
+a.
+Theo số liệu tài chính, báo cáo sản xuất và hợp đồng kinh doanh.
+b.
+Theo chủ đề, các bên liên quan hoặc các nhân vật nguyên mẫu.
+
+c.
+Theo độ chính xác thống kê và mức độ kiểm toán độc lập.
+d.
+Theo cấu trúc dữ liệu số hóa được chuẩn hóa toàn cầu.
+Việc áp dụng bản đồ khái niệm (concept maps) trong giáo dục nhằm mục đích chính nào?
+a.
+Hỗ trợ nắm bắt và mô hình hóa tri thức của chuyên gia trong môi trường đào tạo.
+
+b.
+Chuẩn hóa kinh nghiệm cá nhân thành báo cáo pháp lý duy nhất.
+c.
+Loại bỏ sự cần thiết của việc tham gia trực tiếp của giảng viên.
+d.
+Thay thế toàn bộ phương pháp đánh giá định lượng truyền thống.
+Tại sao việc ghi lại các quyết định kỹ thuật trong quá trình thiết kế hệ thống phức tạp lại quan trọng?
+a.
+Vì nó cung cấp cơ sở để hình thành đại diện hữu ích hơn về thiết kế trong điều kiện bất định.
+
+b.
+Vì nó thay thế hoàn toàn bản vẽ kỹ thuật và mô hình CAD.
+c.
+Vì nó đảm bảo rằng tất cả giả định được loại bỏ khỏi quy trình thiết kế.
+d.
+Vì nó chỉ ra mọi phương án bị loại bỏ để phục vụ cho mục đích pháp lý.
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+15/17
+
+================================================================================
+Câu hỏi 59
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 60
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong việc sử dụng phép ẩn dụ (metaphor) khi kể chuyện, lợi ích lớn nhất là gì?
+a.
+Chuẩn hóa dữ liệu định lượng để phân tích thống kê.
+b.
+Tạo điểm tham chiếu chung để dễ dàng liên hệ và thấu hiểu.
+
+c.
+Đảm bảo loại bỏ các yếu tố sáng tạo trong câu chuyện.
+d.
+Thay thế toàn bộ các quy trình ra quyết định bằng ngôn ngữ biểu tượng.
+Kỹ thuật kể chuyện gián tiếp (indirect stories) phục vụ mục đích nào?
+a.
+Ngăn chặn các yếu tố cảm xúc và ẩn dụ trong tường thuật.
+b.
+Cho phép kể câu chuyện thông qua nhân vật hư cấu để tránh cá nhân hóa.
+
+c.
+Thay thế hoàn toàn nhu cầu tương tác trực tiếp giữa nhân viên.
+d.
+Chuẩn hóa toàn bộ tri thức thành dữ liệu số trong cơ sở dữ liệu.
+◄ Câu hỏi - Nhóm 9
+Chuyển tới...
+Slides - Nhóm 10 ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+16/17
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+GET SOCIAL
+      
+22:53 5/12/25
+Chapter 7 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2114220&cmid=684025&showall=1
+17/17
+
+================================================================================

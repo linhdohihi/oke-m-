@@ -1,0 +1,707 @@
+ 
+1.     Quản trị tri thức là gì? Hãy cho biết mục đích chính của việc triển khai quản trị 
+tri thức trong các tổ chức, doanh nghiệp? (3 điểm) 
+❖ Khái niệm Quản trị tri thức: 
+− Ở một mức độ rất đơn giản, quản trị tri thức (QTTT) có thể được định nghĩa là tất cả 
+những hoạt động nhằm mục đích tận dụng tối đa nguồn lực tri thức.  
+− Cụ thể hơn: QTTT có thể được định nghĩa là thực hiện các hoạt động liên quan đến 
+khám phá, nắm bắt, chia sẻ và áp dụng kiến thức nhằm nâng cao, theo cách hiệu quả về 
+mặt chi phí, tác động của kiến thức đến việc đạt được mục tiêu của đơn vị hoặc tổ chức. 
+❖ Mục đích chính của việc triển khai QTTT trong các tổ chức, doanh nghiệp: 
+− Tác động cao nhất của quản trị tri thức được phản ánh qua việc đạt được mục tiêu của cá 
+nhân hoặc tổ chức. Nói cách khác, mục tiêu của quản trị tri thức là nâng cao tác động 
+của kiến thức theo cách tiết kiệm chi phí, sao cho lợi ích lớn hơn chi phí khi thực hiện 
+việc đó 
+− Việc triển khai quản trị tri thức trong tổ chức, doanh nghiệp nhằm tạo ra một môi trường 
+làm việc thông minh, sáng tạo và hợp tác, giúp nâng cao hiệu suất làm việc, tăng khả 
+năng sáng tạo và đổi mới, giảm thiểu rủi ro và mất mát tri thức, tăng cường hợp tác và 
+chia sẻ kiến thức, và xây dựng văn hóa học hỏi và học tập liên tục trong tổ chức. 
+● Tạo ra một môi trường làm việc thông minh, sáng tạo và hợp tác: Quản trị tri 
+thức nhằm xây dựng một môi trường làm việc khuyến khích sự chia sẻ tri thức, trao 
+đổi ý tưởng và hợp tác giữa các thành viên trong tổ chức. Ví dụ, một công ty công 
+nghệ có thể tạo ra một nền tảng trực tuyến nội bộ cho nhân viên chia sẻ ý tưởng mới, 
+đăng bài viết về các công nghệ mới, và thảo luận với nhau để thúc đẩy sự sáng tạo và 
+hợp tác. 
+● Nâng cao hiệu suất làm việc: Quản trị tri thức giúp cải thiện hiệu suất làm việc của 
+tổ chức bằng cách đảm bảo rằng tri thức phù hợp và cần thiết có sẵn cho nhân viên. 
+Ví dụ, một công ty dịch vụ khách hàng có thể xây dựng một cơ sở dữ liệu tri thức 
+bao gồm quy trình phục vụ khách hàng, các kịch bản xử lý yêu cầu, và các hướng 
+dẫn giải quyết vấn đề phổ biến. Nhân viên có thể sử dụng tài liệu này để nhanh chóng 
+tìm kiếm và áp dụng tri thức trong công việc hàng ngày, giúp cải thiện hiệu suất phục 
+vụ khách hàng. 
+ 
+● Tăng khả năng sáng tạo và đổi mới: Quản trị tri thức khuyến khích sự sáng tạo và 
+đổi mới bằng cách tạo ra một môi trường mà nhân viên được khuyến khích đóng góp 
+ý tưởng mới và thử nghiệm các giải pháp sáng tạo. Ví dụ, một công ty sản xuất có thể 
+tổ chức các cuộc họp sáng tạo nơi nhân viên từ các bộ phận khác nhau có thể đề xuất 
+ý tưởng mới về cải tiến sản phẩm hoặc quy trình sản xuất. Các ý tưởng này sau đó 
+được đánh giá, triển khai và theo dõi để tạo ra giá trị mới cho công ty. 
+● Giảm thiểu rủi ro và mất mát tri thức: Quản trị tri thức giúp đảm bảo rằng tri thức 
+quan trọng không bị mất mát khi nhân viên rời khỏi tổ chức hoặc khi có các thay đổi 
+trong công việc. Ví dụ, một công ty tài chính có thể sử dụng hệ thống quản lý tri thức 
+ 
+
+================================================================================
+ 
+để lưu trữ thông tin về quy trình và quy định pháp lý, các khách hàng chính và các 
+giao dịch quan trọng. Điều này đảm bảo rằng thông tin quan trọng không bị mất khi 
+nhân viên chuyển việc hoặc nghỉ hưu, và giúp giảm thiểu rủi ro phát sinh từ việc mất 
+mát tri thức quan trọng. 
+● Nắm bắt kiến thức chuyên môn và kinh nghiệm cá nhân: Quản trị tri thức cho 
+phép tổ chức thu thập và lưu trữ kiến thức chuyên môn và kinh nghiệm cá nhân của 
+nhân viên. Điều này đảm bảo rằng tri thức quan trọng không bị mất khi nhân viên rời 
+khỏi tổ chức và giúp xây dựng nền tảng tri thức vững chắc cho sự phát triển và thành 
+công của tổ chức. 
+● Tăng cường hợp tác và chia sẻ kiến thức: Quản trị tri thức tạo điều kiện cho sự hợp 
+tác và chia sẻ kiến thức chéo giữa các cá nhân và bộ phận trong tổ chức. Ví dụ, một 
+công ty đa quốc gia có thể xây dựng một hệ thống mạng nội bộ để các văn phòng trên 
+toàn cầu có thể chia sẻ thông tin, tài liệu và kinh nghiệm làm việc. Nhân viên từ các 
+văn phòng khác nhau có thể học từ nhau và áp dụng kiến thức chung để giải quyết 
+các thách thức trong công việc hàng ngày. 
+● Xây dựng văn hóa học hỏi và học tập liên tục trong tổ chức: Quản trị tri thức 
+khuyến khích việc học hỏi và phát triển liên tục trong tổ chức bằng cách tạo ra một 
+môi trường ủng hộ việc chia sẻ kiến thức và kỹ năng. Ví dụ, một tổ chức giáo dục có 
+thể xây dựng một hệ thống học tập trực tuyến nội bộ cho giảng viên và nhân viên để 
+tiếp cận các khóa học, tài liệu và tài nguyên giáo dục. Việc này khuyến khích việc 
+học hỏi liên tục và phát triển nghề nghiệp trong tổ chức. 
+⇨ Trên đây là các mục đích của quản trị tri thức trong tổ chức, doanh nghiệp. Tùy thuộc 
+vào ngành nghề và môi trường làm việc cụ thể, các mục đích này có thể được tùy 
+chỉnh và áp dụng để phù hợp với nhu cầu của tổ chức. 
+  
+2.     Trí tuệ doanh nghiệp (Business Intelligence) là gì? Hãy chỉ ra những điểm khác 
+biệt giữa Trí tuệ doanh nghiệp (Business Intelligence) và Quản trị tri thức (Knowledge 
+Management)? (3 điểm) 
+❖ Khái niệm Quản trị tri thức: 
+Trí tuệ doanh nghiệp (Business Intelligence) là quá trình thu thập, tổ chức, phân tích và 
+chuyển đổi dữ liệu kinh doanh thành thông tin hữu ích để hỗ trợ quyết định và quản lý trong 
+doanh nghiệp. Nó tập trung vào việc cung cấp cho người ra quyết định thông tin và kiến 
+thức có giá trị bằng cách sử dụng nhiều nguồn dữ liệu cũng như thông tin có cấu trúc và phi 
+cấu trúc thông qua việc khám phá các mối quan hệ có thể tồn tại giữa các nguồn dữ liệu và 
+thông tin này. 
+❖ Sự khác biệt giữa Trí tuệ doanh nghiệp (BI) và Quản trị tri thức (KM): 
+ 
+KM 
+BI 
+ 
+
+================================================================================
+ 
+Thành phần 
+trí tuệ 
+Sơ cấp: Tri thức (ẩn và hiện) 
+Thứ cấp: Thông tin dữ liệu 
+Sơ cấp: Dữ liệu 
+Quy trình 
+Thu thập, chia sẻ, ứng dụng và 
+khám phá kiến thức 
+Truy cập, phân tích và trình bày 
+dữ liệu 
+Thành phần 
+chính 
+Cơ chế xã hội, chủ yếu là con 
+người và CNTT 
+CNTT 
+Đầu vào 
+Bắt đầu với thông tin và kiến 
+thức là đầu vào 
+Bắt đầu với dữ liệu và thông tin 
+là đầu vào 
+Đầu ra 
+Trực tiếp dẫn đến việc phát 
+hiện ra tri thức mới, chuyển đổi 
+tri thức từ dạng này sang dạng 
+khác, chia sẻ tri thức hoặc ứng 
+dụng tri thức khi ra quyết định. 
+Trực tiếp tạo ra thông tin và 
+kiến thức hoặc tri thức mới 
+được tạo ra bằng cách tiết lộ 
+các kết nối chưa biết trước đây 
+hoặc các mẫu trong dữ liệu và 
+thông tin. 
+Tập trung 
+Tích hợp việc nắm bắt kiến 
+thức, chia sẻ và ứng dụng trong 
+bổ sung khám phá. 
+Tập trung vào việc truy cập, 
+phân tích dữ liệu và trực quan 
+hóa dữ liệu. 
+Quan tâm đến việc khám phá cả 
+tri thức ẩn và tri thức hiện. 
+Tập trung trực tiếp vào việc 
+khám phá tri thức hiện. 
+Tính chất 
+Liên quan đến việc sử dụng cả 
+hai khía cạnh xã hội và công 
+nghệ thông tin và đôi khi được 
+coi là mang tính xã hội hơn là 
+kỹ thuật 
+Chủ yếu mang tính chất kỹ 
+thuật và không kết hợp các cơ 
+chế xã hội liên quan đến khám 
+phá tri thức như gặp gỡ, động 
+não, tĩnh tâm,.. 
+ 
+
+================================================================================
+ 
+3.     Hãy cho biết ý nghĩa và mối quan hệ giữa các thành phần được mô tả trong hình 
+3.1 - An Overview of Knowledge Management Solutions and Foundation? (4 điểm) 
+− Hình 3.1 trong bản mô tả "An Overview of Knowledge Management Solutions and 
+Foundation" bao gồm các thành phần quan trọng của quản trị tri thức và mối quan hệ 
+giữa chúng.  
+− Quản trị tri thức phụ thuộc vào hai khía cạnh chính: Các giải pháp quản trị tri thức (KM 
+solutions), có tính cụ thể; và Cơ sở quản trị tri thức (KM foundations), có tính tổng quan 
+và dài hạn hơn.  
+● Các giải pháp quản trị tri thức đề cập đến cách thức cụ thể để thực hiện các khía cạnh 
+cụ thể của quản trị tri thức (khám phá, thu thập, chia sẻ và áp dụng tri thức). Các giải 
+pháp quản trị tri thức bao gồm các quy trình và hệ thống quản trị tri thức.  
+● Cơ sở quản trị tri thức là các khía cạnh tổ chức tổng quan hỗ trợ quản trị tri thức 
+trong cả ngắn hạn và dài hạn. Chúng bao gồm cơ sở hạ tầng quản trị tri thức, cơ chế 
+quản trị tri thức và công nghệ quản trị tri thức. Do đó, các giải pháp quản trị tri thức 
+phụ thuộc vào cơ sở quản trị tri thức, như được minh họa trong Hình 3.1 sẽ giải thích 
+ngắn gọn về ba thành phần của cơ sở quản trị tri thức và hai thành phần của giải pháp 
+quản trị tri thức. 
+  
+❖ Dưới đây là ý nghĩa và mối quan hệ giữa các thành phần này: 
+− KM Infrastructure (Cơ sở quản trị tri thức): Đây là nền tảng dài hạn cho quản trị tri 
+thức trong tổ chức. Cơ sở quản trị tri thức bao gồm văn hóa tổ chức, hạ tầng công nghệ 
+thông tin, và các yếu tố tổ chức tổng quan khác. Nó đóng vai trò quan trọng trong việc 
+tạo ra môi trường thuận lợi để quản lý tri thức. 
+− KM Mechanisms (Cơ chế quản trị tri thức): Đây là các phương tiện tổ chức hoặc cấu 
+trúc được sử dụng để thúc đẩy quản trị tri thức. Cơ chế quản trị tri thức có thể bao gồm 
+việc thiết lập các quy tắc, quy trình và cơ cấu tổ chức để hỗ trợ việc chia sẻ tri thức. Cơ 
+chế này phụ thuộc vào cơ sở quản trị tri thức và hỗ trợ các hệ thống quản trị tri thức. 
+− KM Technologies (Công nghệ quản trị tri thức): Đây là các công nghệ thông tin được 
+sử dụng để hỗ trợ quản trị tri thức. Công nghệ quản trị tri thức có thể bao gồm các hệ 
+thống quản lý tri thức, cơ sở dữ liệu tri thức và các ứng dụng phức tạp khác. Chúng tập 
+trung vào việc lưu trữ, truy cập và chia sẻ tri thức. 
+− KM Processes (Quy trình quản trị tri thức): Đây là các quy trình tổng quan giúp 
+khám phá, thu thập, chia sẻ và áp dụng tri thức. Bốn quy trình quản trị tri thức này là 
+hành động cụ thể để quản lý tri thức trong tổ chức. 
+− KM Systems (Hệ thống quản trị tri thức): Đây là sự kết hợp của công nghệ và cơ chế 
+được phát triển để hỗ trợ bốn quy trình quản trị tri thức. Mỗi hệ thống quản trị tri thức 
+tập trung vào một trong bốn quy trình này. 
+ 
+❖ Mối quan hệ giữa các thành phần này là: 
+ 
+
+================================================================================
+ 
+− Cơ sở quản trị tri thức (KM Infrastructure) là nền tảng dài hạn, hỗ trợ cả Cơ chế 
+quản trị tri thức (KM Mechanisms) và Công nghệ quản trị tri thức (KM Technologies). 
+Nó cung cấp môi trường tổ chức để tri thức có thể tồn tại và phát triển. 
+− Cơ chế quản trị tri thức (KM Mechanisms) và Công nghệ quản trị tri thức (KM 
+Technologies) là các thành phần cụ thể của hệ thống quản trị tri thức (KM Systems) và 
+hỗ trợ các quy trình quản trị tri thức (KM Processes). 
+− Hệ thống quản trị tri thức (KM Systems) tạo ra sự kết hợp giữa Cơ chế quản trị tri 
+thức (KM Mechanisms) và Công nghệ quản trị tri thức (KM Technologies) để hỗ trợ các 
+quy trình quản trị tri thức (KM Processes). 
+� Theo thời gian, bản thân cơ sở hạ tầng quản trị tri thức được hưởng lợi từ các cơ chế 
+và công nghệ quản trị tri thức cũng như các quy trình quản trị tri thức, như được thể hiện 
+bằng các mũi tên nét đứt trong Hình 3.1. 
+Cơ sở hạ tầng thúc đẩy quản trị tri thức (KM infrastructure) bao gồm những thành 
+phần nào? (1 điểm) 
+❖ Cơ sở hạ tầng thúc đẩy quản trị tri thức gồm: 
+− Cơ cấu tổ chức 
+− Văn hóa tổ chức 
+− Cơ sở hạ tầng công nghệ thông tin 
+− Kiến thức chung 
+− Môi trường vật lý 
+� Tất cả các thành phần này không chỉ ảnh hưởng đến quản trị tri thức mà còn ảnh 
+hưởng đến tất cả các khía cạnh khác của hoạt động tổ chức. 
+ 
+Văn hóa tổ chức (Organization Culture) là gì? Hãy liệt kê 4 thách thức (không liên 
+quan đến công nghệ) ảnh hưởng đến việc triển khai các hoạt động quản trị tri thức 
+trong tổ chức, doanh nghiệp? (1 điểm) 
+− Văn hóa tổ chức phản ánh những chuẩn mực và niềm tin hướng dẫn hành vi của 
+các thành viên của tổ chức. Nó là một yếu tố quan trọng của quản lý tri thức trong 
+các tổ chức. 
+− 4 thách thức ảnh hưởng đến việc triển khai các hoạt động quản trị tri thức 
+trong tổ chức doanh nghiệp (không liên quan đến công nghệ): 
+● Nhân viên của tổ chức không có thời gian để quản lý tri thức 
+● Văn hóa tổ chức không khuyến khích chia sẻ kiến thức 
+● Thiếu hiểu biết về quản lý tri thức và lợi ích đối với công ty 
+● Không có khả năng đo lường lợi ích tài chính từ việc quản lý tri thức 
+ 
+ 
+
+================================================================================
+ 
+Trở ngại lớn nhất trong việc triển khai thành công các hoạt động quản trị tri thức 
+trong tổ chức, doanh nghiệp là gì? Để vượt qua trở ngại này các tổ chức, doanh nghiệp 
+cần phải có những chính sách/cơ chế gì? Hãy cho ví dụ minh họa cho nhận định của 
+bạn? (1 điểm) 
+- 
+Trở ngại lớn nhất trong việc triển khai thành công các hoạt động quản trị tri 
+thức trong tổ chức, doanh nghiệp là: việc thu hút mọi người tham gia chia sẻ tri 
+thức, khuyến khích mọi người tham gia chia sẻ kiến thức.  
+Ví dụ, các cá nhân thường miễn cưỡng đóng góp kiến thức vào kho kiến  thức, 
+như được minh họa bằng nhận xét sau đây của một người lao động tri thức “Nếu 
+tôi chia sẻ kiến  thức của mình, những người khác có thể tận dụng điều đó. Liệu 
+họ có làm điều tương tự với tôi không?” (Standing và Benson 2000, trang 343) 
+− Để vượt qua trở ngại này, chúng ta cần có những chính sách/ cơ chế: 
+● Tăng cường công tác đào tạo, truyền thông để mọi người thấy được lợi ích của 
+các hoạt động quản trị tri thức. 
+● Hỗ trợ các hoạt động quản trị tri thức ở mọi cấp độ quản lý. 
+● Tạo ra các cơ chế khen thưởng và khuyến khích nhân viên chia sẻ tri thức. 
+● Khuyến khích sự tương tác để sáng tạo và chia sẻ về kiến  thức. 
+● Xây dựng văn hóa tổ chức luôn khuyến khích chia sẻ tri thức và đánh giá công 
+việc dựa trên việc chia sẻ tri thức. 
+● Xây dựng các cộng đồng thực hành (Communities of Practice) để tạo ra môi 
+trường cho việc chia sẻ tri thức và học hỏi qua sự tương tác giữa các nhóm 
+nhân viên. 
+− Ví dụ: Một ví dụ về việc thu hút mọi người tham gia chia sẻ tri thức có thể là việc 
+tạo ra một nền tảng trực tuyến hoặc cộng đồng trực tuyến nơi mọi người có thể 
+chia sẻ kiến thức và kinh nghiệm của họ về một lĩnh vực cụ thể. Đây là một cách 
+mà mọi người có thể học hỏi và cống hiến cho nhau. Ví dụ, một trang web hoặc 
+một ứng dụng di động có thể được xây dựng để cho phép người dùng đăng tải các 
+bài viết, hướng dẫn, video hay thậm chí khóa học về các lĩnh vực như nghệ thuật, 
+khoa học, lập trình, âm nhạc, nấu ăn, thể thao, và nhiều lĩnh vực khác. Người 
+dùng có thể tạo ra các bài viết hoặc video chia sẻ kiến thức của mình, đồng thời 
+có thể tương tác với nhau thông qua bình luận, đánh giá và chia sẻ. 
+� Nền tảng này sẽ thu hút mọi người có niềm đam mê và kiến thức về lĩnh vực 
+tương ứng. Việc chia sẻ tri thức sẽ tạo ra một cộng đồng mở rộng, nơi mọi người 
+có thể học hỏi, trao đổi ý kiến và cùng nhau phát triển. Sự tương tác và đóng góp 
+từ cộng đồng này sẽ làm cho nền tảng trở nên phong phú và đa dạng. Thông qua 
+việc thu hút mọi người tham gia chia sẻ tri thức, nền tảng này sẽ mang lại lợi ích 
+cho tất cả các thành viên. Người tham gia có thể học hỏi từ những người khác, 
+ 
+
+================================================================================
+ 
+chia sẻ những kiến thức và kinh nghiệm riêng của mình, và xây dựng một cộng 
+đồng chia sẻ tri thức mạnh mẽ và có giá trị. 
+− Ví dụ khác: Công ty cổ phần Mavin đã áp dụng chính sách: trao giải thưởng hàng 
+tháng và hàng năm cho những nhân viên đã thực hiện tốt trong việc quản trị tri 
+thức (trong việc chia sẻ tri thức bản thân có, giúp đỡ đồng nghiệp trong công việc, 
+và kể cả việc tiếp nhận và ứng dụng tri thức từ đồng nghiệp hoặc cấp trên,...) và 
+coi đây là một trong những yếu tố quan trọng để đánh giá tăng lương, tăng chức 
+cho nhân viên. Nhờ đó nhân viên ở Mavin rất tích cực trong các hoạt động quản 
+trị tri thức. 
+Cơ cấu tổ chức dạng ma trận (Matrix Organizational Structure) là gì? Cơ cấu tổ chức 
+này hỗ trợ các hoạt động quản trị tri thức như thế nào? (1 điểm) 
+❖ Khái niệm: 
+− Cơ cấu tổ chức dạng ma trận là là một hình thức tổ chức trong đó nhân viên 
+được sắp xếp vào các nhóm hoạt động chức năng (functional units) và các dự án 
+hoặc nhóm làm việc tạm thời (project teams). Trong cơ cấu tổ chức ma trận, mỗi 
+nhân viên thông thường có hai trưởng bộ phận hoặc người quản lý: một người từ 
+bộ phận chức năng và một người từ dự án hoặc nhóm làm việc tạm thời. 
+− Cơ cấu tổ chức ma trận hỗ trợ các hoạt động quản trị tri thức bằng cách:  
+● Chia sẻ tri thức chuyên môn: Nhân viên trong cơ cấu ma trận có thể chia sẻ 
+tri thức chuyên môn của họ với các thành viên khác trong nhóm chức năng 
+hoặc dự án. Điều này giúp tăng cường khả năng học hỏi và chia sẻ tri thức 
+trong tổ chức. 
+● Đa chức năng và đa nhiệm vụ: Với cơ cấu ma trận, nhân viên thường được 
+giao nhiều nhiệm vụ từ cả nhóm chức năng và dự án. Điều này tạo ra sự đa 
+dạng và khả năng linh hoạt trong công việc, đồng thời khuyến khích sự hợp 
+tác và giao tiếp giữa các bộ phận và nhóm làm việc. 
+● Tăng cường sự phối hợp và tích hợp: Cơ cấu ma trận khuyến khích sự phối 
+hợp và tích hợp giữa các bộ phận chức năng và dự án. Các nhân viên có thể 
+làm việc cùng nhau để giải quyết các vấn đề phức tạp và đa chiều, sử dụng tri 
+thức từ các lĩnh vực khác nhau để đạt được mục tiêu chung. 
+● Phân phối tri thức và tài nguyên: Cơ cấu ma trận cho phép phân phối tri 
+thức và tài nguyên theo nhiều chiều khác nhau. Các nhân viên có thể truy cập 
+vào nguồn tri thức đa dạng từ các bộ phận và dự án khác nhau, từ đó nâng cao 
+khả năng sáng tạo và đưa ra quyết định thông minh. 
+� Nhìn chung, cơ cấu tổ chức ma trận là một cách tiếp cận linh hoạt và năng 
+động để quản lý các dự án và chức năng phức tạp. Nó cho phép các tổ chức 
+tận dụng chuyên môn của các cá nhân từ các lĩnh vực khác nhau và thúc đẩy 
+sự hợp tác và đổi mới. Tuy nhiên, nó đòi hỏi phải lập kế hoạch cẩn thận, giao 
+tiếp rõ ràng và khả năng lãnh đạo mạnh mẽ để cân bằng hiệu quả các mối 
+ 
+
+================================================================================
+ 
+quan hệ báo cáo kép và đảm bảo sự thành công của các dự án cũng như mục 
+tiêu chung của tổ chức. 
+Hãy cho biết vai trò của “Communities of Practice” và “Specialized Structures and 
+Roles” trong việc hỗ trợ các hoạt động quản trị tri thức?          (1 điểm) 
+❖ Các cộng đồng thực hành (Communities of Practice) cung cấp khả năng tiếp 
+cận một nhóm cá nhân lớn hơn có thể trong phạm vi các phòng ban truyền thống. 
+Cộng đồng thực hành cung cấp quyền truy cập vào các nguồn kiến thức bên 
+ngoài. 
+− Chia sẻ tri thức: Các thành viên trong cộng đồng thực hành có thể chia sẻ những 
+kiến thức, kinh nghiệm và tài liệu quan trọng về lĩnh vực chuyên môn của họ. 
+Việc chia sẻ này giúp tăng cường kiến thức chung trong tổ chức và tránh việc tái 
+tạo tri thức. 
+− Hỗ trợ học tập và phát triển: Communities of Practice cung cấp một môi trường 
+học tập và phát triển chuyên môn. Thông qua việc chia sẻ tri thức, thảo luận và 
+thực hành, các thành viên có thể nâng cao kỹ năng và kiến thức của mình trong 
+lĩnh vực chuyên môn. 
+− Gắn kết và tạo mạng lưới: Các thành viên trong cộng đồng thực hành có thể xây 
+dựng mối quan hệ, tạo mạng lưới và tận dụng sự gắn kết cộng đồng để giải quyết 
+các vấn đề phức tạp và tìm kiếm sự hỗ trợ từ nhau. 
+− Cơ cấu tổ chức có thể tạo điều kiện thuận lợi cho việc quản lý kiến  thức thông 
+qua cộng đồng thực hành. Cộng đồng thực hành là một nhóm hữu cơ và tự tổ 
+chức của những cá nhân bị phân tán về mặt địa lý hoặc tổ chức nhưng vẫn giao 
+tiếp thường xuyên thảo luận các vấn đề cùng quan tâm (Lave và Wenger 1991).  
+− Ví dụ, câu lạc bộ công nghệ ở Daimler Chrysler bao gồm một nhóm kỹ sư không 
+làm việc ở cùng một đơn vị nhưng thường xuyên gặp nhau, chủ động thảo luận 
+các vấn đề liên quan đến lĩnh vực chuyên môn của họ. Hộp 3.2 minh họa thêm về 
+cộng đồng thực hành, sử dụng ví dụ của Montgomery Watson Hazard.  
+Montgomery Watson Harza (MWH) là một tập đoàn kỹ thuật toàn cầu với hơn 
+3.600 chuyên gia được phân bổ trên 200 văn phòng ở 38 quốc gia. Từ năm 1995 
+đến năm 1999, quản lý tri thức của MWH tập trung vào công nghệ thông tin và 
+gặp phải khó khăn. Năm 1999, họ áp dụng phương pháp "con người đầu tiên, 
+công nghệ là hỗ trợ" và đổi tên chiến lược quản lý tri thức thành "knowledgenet". 
+Knowledgenet dựa trên việc thành lập cộng đồng thực hành chính thức và không 
+chính thức, được hỗ trợ bằng mạng nội bộ toàn cầu có tên là knet. Mỗi trung tâm 
+tri thức chính thức đặt mục tiêu và chủ đề kinh doanh cụ thể, nhờ đó, Mỗi cộng 
+đồng không chính thức, gọi là cơ sở tri thức, được điều hành cục bộ và dễ dàng 
+thiết lập hơn. Cơ sở tri thức có thể kết nối với nhau để đại diện cho một chủ đề 
+lớn hơn. Đến năm 2004, MWH đã có ba trung tâm tri thức và 120 cơ sở tri thức, 
+với khoảng 1.600 nhân viên tham gia vào các cộng đồng này. Chiến lược quản lý 
+ 
+
+================================================================================
+ 
+tri thức mới đã nhận được sự đáp ứng tích cực từ các nhà quản lý cao cấp, nhân 
+viên và khách hàng. 
+Cộng đồng thực hành mang lại khả năng tiếp cận một nhóm lớn hơn các cá nhân 
+so với các phòng ban truyền thống. Điều này dẫn đến việc có nhiều người giúp đỡ 
+tiềm năng hơn và tăng khả năng cung cấp kiến  thức hữu ích. Cộng đồng thực 
+hành cũng cung cấp quyền truy cập vào các nguồn kiến  thức bên ngoài, như 
+khách hàng, nhà cung cấp và đối tác. Tương tác với các nhà nghiên cứu ở trường 
+đại học có thể giúp các công ty duy trì tính đổi mới. Mặc dù không phải là một 
+phần chính thức của tổ chức, công ty có thể hỗ trợ và tạo điều kiện thuận lợi cho 
+cộng đồng thực hành. Các công nghệ thông tin mới như blog và mạng xã hội cũng 
+giúp cộng đồng thực hành tận dụng lợi ích. 
+ 
+❖ Vai trò của “Specialized Structures and Roles”: 
+− Giúp tổ chức quản lý, phát triển và chia sẻ tri thức một cách hiệu quả. Chúng tạo 
+ra một môi trường tập trung vào tri thức và đảm bảo rằng tri thức được quản lý 
+và sử dụng một cách có hệ thống và có lợi cho tổ chức. 
+− Có ba khả năng được đề cập đặc biệt: 
+● Chief Knowledge Officer (CKO): Một số tổ chức bổ nhiệm một cá nhân vào vị 
+trí CKO và giao cho người này trách nhiệm quản lý, thúc đẩy các hoạt động 
+quản trị tri thức của tổ chức. Vai trò của CKO là đảm bảo các nỗ lực quản trị 
+tri thức của tổ chức được thực hiện một cách hiệu quả. CKO có thể lập kế 
+hoạch, triển khai và giám sát các hoạt động quản trị tri thức, đồng thời đảm 
+bảo sự hợp tác và chia sẻ tri thức trong tổ chức. 
+● Phòng ban quản lý tri thức: Một số tổ chức thiết lập một phòng ban riêng cho 
+quản lý tri thức, thường do CKO đứng đầu. Phòng ban này có nhiệm vụ chính 
+là quản lý và phát triển tri thức trong tổ chức. Nó có thể đảm nhận các hoạt 
+động như thu thập, tổ chức và phân phối tri thức, hỗ trợ việc chia sẻ tri thức 
+giữa các đơn vị trong tổ chức. 
+● Bộ phận nghiên cứu và thư viện: Ngoài ra, hai đơn vị truyền thống là bộ phận 
+nghiên cứu và thư viện cũng đóng vai trò quan trọng trong việc thúc đẩy các 
+hoạt động chia sẻ tri thức. 
+Chức năng chính của “Expertise Locator System” là gì? Hãy cho ví dụ minh họa về hệ 
+thống này. (1 điểm) 
+− Expertise Locator System (còn được gọi là trang vàng kiến thức hoặc hệ thống 
+tìm người)  là một loại kho lưu trữ kiến  thức đặc biệt nhằm xác định chính xác 
+các cá nhân có kiến  thức cụ thể trong tổ chức. Các hệ thống này dựa vào khả năng 
+tiếp cận và chiều sâu của CNTT bằng cách cho phép các cá nhân liên hệ với các 
+chuyên gia ở xa và tìm kiếm giải pháp chi tiết để những vấn đề phức tạp. 
+ 
+
+================================================================================
+ 
+− Ví dụ minh họa: Giả sử một công ty lớn có nhiều phòng ban và nhân viên trải 
+đều khắp các bộ phận khác nhau. Để tận dụng tri thức và kỹ năng của nhân viên 
+trong tổ chức, công ty quyết định triển khai một hệ thống Expertise Locator 
+System. 
+● Xây dựng hồ sơ chuyên gia: Mỗi nhân viên trong công ty được yêu cầu tạo 
+một hồ sơ cá nhân trong hệ thống ELS. Hồ sơ này bao gồm thông tin về kỹ 
+năng, kinh nghiệm, lĩnh vực chuyên môn và dự án đã từng tham gia. 
+● Tìm kiếm chuyên gia: Khi một nhân viên cần tìm kiếm một chuyên gia hoặc 
+một người có kiến thức cụ thể, họ có thể sử dụng hệ thống ELS để tìm kiếm. 
+Hệ thống sẽ cung cấp danh sách các chuyên gia tương ứng dựa trên thông tin 
+trong hồ sơ cá nhân. 
+● Xem thông tin chi tiết: Nhân viên có thể xem thông tin chi tiết về các chuyên 
+gia được tìm thấy. Thông tin này bao gồm hồ sơ chuyên môn, dự án đã làm 
+việc, đánh giá từ người khác và thông tin liên hệ. 
+● Liên hệ và chia sẻ tri thức: Sau khi xác định được chuyên gia phù hợp, nhân 
+viên có thể liên hệ trực tiếp với họ thông qua email, tin nhắn hoặc cuộc gọi 
+điện thoại. Họ có thể trao đổi tri thức, hỏi đáp, hoặc yêu cầu hỗ trợ trong lĩnh 
+vực mà chuyên gia có kiến thức. 
+● Cập nhật thông tin: Các nhân viên được khuyến khích cập nhật thông tin trong 
+hồ sơ cá nhân của mình khi có sự thay đổi về kỹ năng, dự án hoặc lĩnh vực 
+chuyên môn. Điều này giúp đảm bảo rằng hệ thống ELS luôn cung cấp thông 
+tin chính xác và đáng tin cậy. 
+� Hệ thống Expertise Locator System giúp tận dụng và chia sẻ tri thức trong 
+tổ chức một cách hiệu quả. Nó giúp tìm kiếm và kết nối các chuyên gia, thúc 
+đẩy sự hợp tác và trao đổi tri thức, từ đó tăng cường khả năng phát triển và 
+tiến bộ của tổ chức. 
+ 
+Bạn hiểu như thế nào về khái niệm “Common Knowledge”? Hãy cho ví dụ minh họa. 
+(1 điểm) 
+❖ Khái niệm: 
+− Kiến thức chung (Grant 1996) đại diện cho một thành phần quan trọng khác của 
+cấu trúc cơ sở hạ tầng cho phép quản trị tri thức. Nó đề cập đến kinh nghiệm tích 
+lũy của tổ chức trong việc hiểu rõ một loại kiến thức và hoạt động cũng như các 
+nguyên tắc tổ chức hỗ trợ giao tiếp và phối hợp (Zander và Kogut 1995).  
+− Kiến thức chung mang lại sự thống nhất cho tổ chức. Nó bao gồm: ngôn ngữ và 
+từ vựng chung, sự công nhận các lĩnh vực kiến thức cá nhân, lược đồ nhận thức 
+chung, chuẩn mực chung và các yếu tố kiến thức chuyên ngành phổ biến giữa các 
+cá nhân chia sẻ kiến thức (Grant 1996; Nahapiet và Ghoshal 1998).  
+ 
+
+================================================================================
+ 
+− Kiến thức chung giúp nâng cao giá trị kiến thức của một chuyên gia bằng cách 
+tích hợp nó với kiến thức của người khác. Tuy nhiên, do kiến thức chung dựa trên 
+định nghĩa trên chỉ phổ biến đối với một tổ chức nên sự gia tăng giá trị này cũng 
+mang tính đặc thù đối với tổ chức cụ thể đó và không chuyển sang đối thủ cạnh 
+tranh của nó. Vì vậy, kiến thức chung hỗ trợ chuyển giao kiến thức trong tổ chức 
+nhưng lại cản trở việc chuyển giao (hoặc rò rỉ) kiến thức ra bên ngoài tổ chức 
+(Argote và Ingram 2000). 
+❖ Ví dụ:  
+Trong một quốc gia, có một ngày lễ quốc gia mà tất cả mọi người đều biết và công 
+nhận. Ví dụ, hãy xem xét ngày lễ Độc lập của Việt Nam: 
+● Ngày lễ quốc gia: Mỗi người dân trong Việt Nam biết rằng ngày 2 tháng 9 là 
+ngày lễ Độc lập, ngày kỷ niệm khi Việt Nam giành được độc lập từ thực dân. 
+Đây là một tri thức chung mà tất cả người dân đều biết và đồng thuận. 
+● Hoạt động kỷ niệm: Mọi người biết rằng vào ngày lễ Độc lập, Việt Nam sẽ tổ 
+chức các hoạt động kỷ niệm như diễu hành, lễ hội, pháo hoa, và các sự kiện 
+liên quan khác. Tri thức chung này giúp mọi người chuẩn bị và tham gia vào 
+các hoạt động này. 
+● Các biểu tượng quốc gia: Mọi người biết rằng trong ngày lễ Độc lập, Việt 
+Nam sẽ trưng bày cờ quốc gia và các biểu tượng quốc gia khác như hình ảnh 
+của người lãnh đạo quốc gia, quốc kỳ, quốc ca, và quốc huy. Đây là tri thức 
+chung về cách thể hiện lòng tự hào và tôn vinh quốc gia trong ngày lễ quốc 
+gia. 
+� Tri thức chung về ngày lễ quốc gia này là phổ biến vì nó được giả định là 
+mọi người trong Việt Nam đều biết và công nhận. Nó tạo ra một sự hiểu biết 
+và đồng thuận chung về ý nghĩa và cách kỷ niệm ngày lễ quốc gia, đồng thời 
+góp phần xây dựng và tôn vinh nhận thức quốc gia và đoàn kết trong cộng 
+đồng. 
+Môi trường vật lý “Physical Environment” có vai trò như thế nào trong việc thúc đẩy 
+các hoạt động quản trị tri thức trong tổ chức, doanh nghiệp? Cho ví dụ minh họa. (1 
+điểm) 
+❖ Vai trò thúc đẩy các hoạt động quản trị tri thức trong tổ chức, doanh nghiệp: 
+− Môi trường vật lý (“Physical Environment”) là thành phần nền tảng quan 
+trọng để hỗ trợ, thúc đẩy các hoạt động quản trị tri thức nói chung và đặc biệt là 
+chia sẻ tri thức nói riêng trong các tổ chức, doanh nghiệp.  
+− Môi trường vật lí bên trong tổ chức thường được coi là đương nhiên, nhưng nó 
+lại là một nền tảng quan trọng khác làm cơ sở cho việc quản trị tri thức. Các khía 
+cạnh quan trọng của môi trường vật chất bao gồm việc thiết kế các tòa nhà và sự 
+ 
+
+================================================================================
+ 
+tách biệt giữa chúng; vị trí, quy mô và loại văn phòng; loại, số lượng và tính chất 
+của phòng họp,....  
+− Môi trường vật lý có thể thúc đẩy quản lý tri thức bằng cách tạo cơ hội cho nhân 
+viên gặp gỡ và chia sẻ ý tưởng. Mặc dù chia sẻ kiến thức thường không được 
+thiết kế sẵn, phòng cà phê, quán ăn tự phục vụ, máy làm mát nước và hành lang 
+đã cung cấp địa điểm để nhân viên học hỏi và chia sẻ hiểu biết sâu sắc với nhau. 
+Một nghiên cứu năm 1998 cho thấy hầu hết nhân viên nghĩ rằng họ thu được hầu 
+hết kiến thức liên quan đến công việc từ những cuộc trò chuyện thân mật xung 
+quanh máy làm mát nước hoặc trong bữa ăn hơn là từ đào tạo chính quy hoặc 
+sách hướng dẫn (Wensley 1998). 
+❖ Một số vai trò cụ thể: 
+− Thúc đẩy giao tiếp và chia sẻ tri thức: Môi trường vật lý có thể tạo ra không gian 
+và cơ hội cho nhân viên gặp gỡ, trò chuyện, và chia sẻ thông tin. Các khu vực 
+chung như phòng họp, phòng ăn, hoặc khu vực thư giãn có thể tạo điều kiện 
+thuận lợi để nhân viên tương tác một cách tự nhiên và chia sẻ kiến thức một cách 
+không chính thức. 
+− Tạo sự gắn kết và tinh thần cộng đồng: Môi trường vật lý có thể tạo ra cảm giác 
+gắn kết và tinh thần cộng đồng trong tổ chức. Khi nhân viên có cơ hội gặp gỡ và 
+trò chuyện với nhau, họ có thể cảm thấy gần gũi hơn và dễ dàng hợp tác trong 
+việc chia sẻ kiến thức và làm việc cùng nhau. 
+− Khuyến khích tương tác mạnh mẽ: Thiết kế môi trường vật lý có thể được tối ưu 
+hóa để khuyến khích tương tác giữa các cá nhân hoặc nhóm làm việc. Ví dụ, việc 
+đặt vị trí của các văn phòng hoặc khu vực làm việc sao cho những người có thể 
+giúp đỡ lẫn nhau dễ dàng gặp nhau có thể thúc đẩy sự tương tác mạnh mẽ và trao 
+đổi kiến thức. 
+❖ Ví dụ minh họa: Một ví dụ khác là ở các công ty hay doanh nghiệp Nhật Bản, 
+các kỹ sư khi đi đến nơi làm việc của mình sẽ phải đi qua các công xưởng sản 
+xuất. Việc này có mục đích giúp họ có thể quan sát được các quy trình sản xuất, 
+các băng chuyền sản xuất hay thao tác của những người thợ để xem xét xem quy 
+trình hoạt động có mượt mà không, có xảy ra lỗi gì hay không, nếu có thì có thể 
+sửa chữa hay cải tiến như nào,… Bằng việc ấy, họ có thể cập nhật một cách nhanh 
+chóng tình hình sản xuất của những sản phẩm mà họ sản xuất ra để đưa ra các giải 
+pháp kịp thời. 
+❖ Ví dụ minh họa khác: Một số tổ chức đang tạo ra những không gian được thiết 
+kế đặc biệt để tạo điều kiện thuận lợi cho việc chia sẻ kiến thức không chính thức 
+này. Ví dụ, Trường Kinh doanh London đã tạo ra một không gian hấp dẫn giữa 
+hai bộ phận chính, trước đó đã bị cô lập, để tăng cường chia sẻ kiến thức giữa họ. 
+Reuters News Service đã lắp đặt nhà bếp trên mỗi tầng để thúc đẩy các cuộc thảo 
+luận. Hơn nữa, một công ty cỡ trung bình ở Mỹ tập trung vào việc quản lý cẩn 
+ 
+
+================================================================================
+ 
+thận các địa điểm văn phòng để tạo điều kiện chia sẻ kiến thức (Stewart 2000). 
+Công ty này đã phát triển các văn phòng có không gian mở với sự sắp xếp tinh tế 
+để khuyến khích điều mà một nhà điều hành cấp cao gọi là tai nạn tri thức. Địa 
+điểm là được sắp xếp trong công ty này nhằm tối đa hóa cơ hội tương tác trực tiếp 
+giữa những người có thể giúp đỡ lẫn nhau. Ví dụ, một nhân viên có thể đi xuống 
+hành lang để cô ấy có thể gặp ai đó biết câu trả lời cho cô ấy câu hỏi, và cô ấy sẽ 
+gặp một người như vậy không phải do tình cờ mà vì một bữa ăn nhẹ khu vực 
+được đặt ở nơi giao nhau của khu vực làm việc của bốn nhóm dự án. 
+Hãy liệt kê các cơ chế hỗ trợ quản trị tri thức (Knowledge Management Mechanisms)? 
+Cho ví dụ minh họa. (1 điểm) 
+❖ Các cơ chế hỗ trợ quản trị tri thức: 
+− Hệ thống cơ sở dữ liệu tri thức: Lưu trữ thông tin tri thức của tổ chức. 
+− Chia sẻ thông tin và kiến thức: Tạo ra kênh để nhân viên trao đổi và chia sẻ tri 
+thức. 
+− Học tập và đào tạo: Phát triển kiến thức và kỹ năng của nhân viên. 
+− Mạng lưới và cộng đồng tri thức: Xây dựng mạng lưới nhân viên và chuyên gia 
+để trao đổi và học hỏi. 
+− Quản trị tri thức cá nhân: Khuyến khích nhân viên quản trị tri thức cá nhân. 
+− Thu thập và phân tích tri thức: Xác định, thu thập và phân tích tri thức từ các 
+nguồn thông tin. 
+− Bảo vệ tri thức: Bảo vệ tri thức của tổ chức nhằm tránh sự mất mát hoặc lạm 
+dụng. 
+❖ Ví dụ:  
+− Ví dụ minh họa (ngắn hạn): 
+● Học qua thực hành 
+● Đào tạo trong quá trình làm việc 
+● Học qua quan sát thực tế 
+● Các cuộc họp trực tiếp 
+− Ví dụ minh họa (dài hạn): 
+● Tuyển giám đốc tri thức. 
+● Các dự án hợp tác giữa các phòng ban. 
+● Ưu tiên sử dụng mô hình cơ cấu trúc tổ chức phẳng hoặc cơ cấu trúc tổ 
+chức ma trận. 
+● Các chính sách hỗ trợ quản trị tri thức của tổ chức, quy trình đào tạo cho 
+nhân viên mới, và luân chuyển nhân viên giữa các phòng ban. 
+❖ Ví dụ: 
+Viant là một công ty tư vấn có trụ sở tại Boston, chuyên giúp khách hàng xây 
+dựng các doanh nghiệp thương mại điện tử. Công ty coi việc quản trị tri thức là 
+mục tiêu chính của quy trình tiếp nhận nhân viên mới vào tổ chức và việc luân 
+chuyển nhân viên đến các chức năng và địa điểm khác nhau như cơ chế của điều 
+ 
+
+================================================================================
+ 
+đó. Viant tận dụng tốt quy trình hướng dẫn để cung cấp cho nhân viên mới kiến 
+thức về khách hàng chính, một số kỹ năng đặc thù của công ty và sự bắt đầu của 
+một mạng lưới phi chính thức. Nhân viên mới sẽ bắt đầu làm việc ở Boston. Khi 
+bắt đầu công việc, nhân viên nhận được máy tính xách tay của mình, đã được cài 
+đặt phần mềm sẵn có và phần mềm độc quyền của công ty. Ở nửa tuần sau đó, họ 
+được học các kỹ năng nhóm và tham gia vào một khóa học về chiến lược tư vấn 
+và sử dụng các công cụ của công ty. Trong hai tuần tiếp theo, họ chuyển đổi qua 
+lại giữa công việc trong lớp học và công việc nhóm, thực hành mô phỏng công 
+việc tư vấn . Họ gắn kết, gặp gỡ tất cả các quan chức và lắng nghe truyền thuyết 
+doanh nghiệp. Luân chuyển nhân viên cũng đóng vai trò quan trọng trong quản 
+trị tri thức tại Viant. Trên thực tế, mối quan hệ báo cáo truyền thống không hoạt 
+động ở đây. Vì mọi người luân chuyển trong và ngoài các nhiệm vụ, các nhà tư 
+vấn không có mối quan hệ cố định với một sếp; thay vào đó, các quản lý cấp cao 
+đóng vai trò "người ủng hộ" cho một số "người được ủng hộ". Các bài đánh giá 
+hiệu suất thể hiện rõ sự phát triển kỹ năng của nhân viên và quyền tùy chọn mua 
+cổ phiếu cho thấy tri thức mà họ chia sẻ. 
+ 
+Câu 1: "Cơ sở hạ tầng Quản trị Tri thức (KM Infrastructure) được coi là nền tảng dài 
+hạn của tổ chức." Hãy phân tích nhận định này và giải thích mối quan hệ giữa KM 
+Infrastructure với hai thành phần còn lại của KM Foundations là Cơ chế 
+(Mechanisms) và Công nghệ (Technologies). 
+Phân tích: KM Infrastructure (Cơ sở hạ tầng QTTT) là nền tảng dài hạn vì nó bao gồm 
+các yếu tố khó thay đổi nhanh chóng như văn hóa tổ chức, cấu trúc tổ chức và tri thức 
+chung,. Nó đóng vai trò là "xương sống" cung cấp môi trường cần thiết để tri thức tồn 
+tại và phát triển, thay vì chỉ là các giải pháp tạm thời,. 
+Mối quan hệ: 
+• Với Cơ chế và Công nghệ: KM Infrastructure là nền tảng hỗ trợ cho cả Cơ chế 
+(Mechanisms - quy tắc, con người) và Công nghệ (Technologies - công cụ CNTT) hoạt 
+động,. Nếu thiếu hạ tầng vững chắc (ví dụ: thiếu văn hóa chia sẻ), cơ chế và công nghệ 
+sẽ không thể duy trì bền vững. 
+• Tạo thành Hệ thống: Cơ chế và Công nghệ được tích hợp với nhau để tạo thành Hệ 
+thống KM (KM Systems), và các hệ thống này vận hành dựa trên nền tảng của KM 
+Infrastructure để hỗ trợ các quy trình KM,. 
+ 
+ 
+
+================================================================================
+ 
+Câu 2: Tại sao Văn hóa Tổ chức thường được coi là thách thức phi kỹ thuật lớn nhất 
+trong việc triển khai Quản trị Tri thức? Hãy phân tích các rào cản tâm lý của nhân 
+viên và đề xuất các giải pháp để xây dựng một văn hóa chia sẻ tri thức. 
+Tại sao là thách thức lớn nhất: Văn hóa tổ chức là thách thức phi kỹ thuật lớn nhất vì nó 
+liên quan đến niềm tin và hành vi con người, rất khó thay đổi. Thực tế, chưa đến 10% 
+các công ty thành công trong việc đưa KM trở thành một phần của văn hóa,. 
+Rào cản tâm lý: 
+• Sợ mất lợi thế: Nhân viên thường giữ tư duy "Tri thức là quyền lực", sợ rằng nếu chia 
+sẻ kinh nghiệm, họ sẽ mất đi giá trị cá nhân hoặc vị thế cạnh tranh,. 
+• Thiếu tin tưởng: Lo ngại người khác sẽ tận dụng tri thức của mình mà không đền đáp. 
+• Thiếu thời gian: Cảm thấy quá bận rộn để tham gia vào các hoạt động chia sẻ. 
+Đề xuất giải pháp: 
+1. Hệ thống khuyến khích: Xây dựng cơ chế khen thưởng và ghi nhận (ví dụ: thưởng 
+tiền ảo "Beenz" hoặc ghi nhận công khai) để tạo động lực,. 
+2. Tích hợp vào nhân sự: Đưa việc chia sẻ tri thức vào tiêu chí đánh giá hiệu suất và cơ 
+hội thăng tiến. 
+3. Lãnh đạo làm gương: Ban quản lý cần ủng hộ bằng cách cung cấp thời gian và nguồn 
+lực đầy đủ. 
+4. Đào tạo: Tăng cường truyền thông để nhân viên hiểu rõ giá trị của KM. 
+Câu 3: So sánh tác động của cơ cấu tổ chức phân cấp (hierarchical) và cơ cấu tổ chức 
+phẳng/ma trận đối với dòng chảy tri thức. Vai trò của "Cộng đồng thực hành" 
+(Communities of Practice - COP) trong cấu trúc tổ chức là gì? 
+So sánh tác động: 
+• Cấu trúc phân cấp (Hierarchical): Thường cản trở luồng thông tin và hạn chế việc chia 
+sẻ tri thức do có quá nhiều tầng nấc quản lý và sự ngăn cách giữa các phòng ban,. 
+• Cấu trúc phẳng/ma trận (Flat/Matrix): Giúp loại bỏ các lớp trung gian, tăng trách 
+nhiệm cá nhân và thúc đẩy hợp tác đa bộ phận. Cấu trúc ma trận đặc biệt hiệu quả vì 
+cho phép nhân viên tiếp cận nguồn tri thức đa dạng từ nhiều phòng ban khác nhau,. 
+Vai trò của Cộng đồng thực hành (COP): Trong cấu trúc tổ chức, COP đóng vai trò là 
+các nhóm tự tổ chức (như CLB công nghệ tại DaimlerChrysler) giúp: 
+1. Phá vỡ rào cản: Mở rộng phạm vi chia sẻ tri thức vượt qua ranh giới cứng nhắc của 
+các phòng ban chính thức,. 
+ 
+
+================================================================================
+ 
+2. Kết nối mở rộng: Cung cấp quyền truy cập vào các nguồn tri thức bên ngoài tổ chức 
+(khách hàng, đối tác) và gia tăng số lượng người có thể hỗ trợ giải quyết vấn đề,. 
+Câu 4: Trong bối cảnh KM Infrastructure, hạ tầng CNTT không chỉ là phần cứng và 
+phần mềm. Hãy phân tích bốn khả năng cốt lõi mà hạ tầng CNTT mang lại cho quản 
+trị tri thức: Phạm vi (Reach), Độ sâu (Depth), Độ phong phú (Richness), và Tổng hợp 
+(Aggregation). 
+1. Phạm vi (Reach): Là khả năng kết nối và truy cập. Hạ tầng tốt (như Internet, chuẩn 
+XML) cho phép kết nối hiệu quả với nhiều địa điểm và đối tác, mở rộng mạng lưới chia 
+sẻ tri thức,. 
+2. Độ sâu (Depth): Là mức độ chi tiết và lượng thông tin có thể truyền tải. Nó liên quan 
+đến băng thông và khả năng tùy chỉnh dữ liệu để truyền tải tri thức sâu sắc hơn,. 
+3. Độ phong phú (Richness): Là khả năng truyền tải đồng thời nhiều tín hiệu (ngôn ngữ 
+cơ thể, giọng điệu), phản hồi nhanh và cá nhân hóa. Ví dụ: Video call giàu thông tin hơn 
+email vì truyền tải được cả sắc thái cảm xúc,. 
+4. Tổng hợp (Aggregation): Là khả năng lưu trữ và xử lý nhanh lượng lớn thông tin từ 
+nhiều nguồn khác nhau (ví dụ: Data mining, kho dữ liệu, ERP) để tạo ra cái nhìn tổng 
+quan hoặc tri thức mới,. 
+Câu 5: Tri thức chung (Common Knowledge) là gì và tại sao nó lại quan trọng trong 
+việc ngăn chặn rò rỉ tri thức ra bên ngoài tổ chức? Bên cạnh đó, hãy cho ví dụ về cách 
+thiết kế Môi trường vật lý (Physical Environment) có thể thúc đẩy những "tai nạn kiến 
+thức" (knowledge accidents). 
+• Tri thức chung (Common Knowledge): 
+    ◦ Định nghĩa: Là tập hợp kinh nghiệm tích lũy, ngôn ngữ, từ vựng chung, và các 
+chuẩn mực giúp các thành viên trong tổ chức hiểu và giao tiếp với nhau dễ dàng hơn,. 
+    ◦ Vai trò ngăn chặn rò rỉ: Tri thức chung giúp tích hợp tri thức cá nhân vào tổ chức, 
+nhưng nó chỉ có giá trị trong bối cảnh cụ thể của tổ chức đó. Do tính đặc thù này, tri 
+thức chung khó bị chuyển giao hoặc bắt chước bởi đối thủ cạnh tranh, từ đó ngăn chặn 
+sự rò rỉ tri thức ra bên ngoài,. 
+• Ví dụ về Môi trường vật lý thúc đẩy "tai nạn kiến thức" (tương tác ngẫu nhiên): 
+    ◦ Reuters: Lắp đặt nhà bếp ở mỗi tầng để khuyến khích nhân viên gặp gỡ và thảo 
+luận,. 
+    ◦ Trường Kinh doanh London: Thiết kế không gian chung hấp dẫn giữa hai khoa để 
+kết nối các bộ phận vốn bị cô lập,. 
+    ◦ Công ty Mỹ: Bố trí khu vực ăn nhẹ và máy bán hàng tự động tại các giao điểm của 
+văn phòng mở để tối đa hóa cơ hội chạm mặt. 
+ 
+
+================================================================================
+ 
+ 
+Câu 6: Một công ty có hệ thống phần mềm lưu trữ hiện đại và quy trình làm việc rõ 
+ràng, nhưng nhân viên vẫn hiếm khi chia sẻ kinh nghiệm làm việc và các bài học thất 
+bại. Dựa trên 5 thành phần của KM Infrastructure, bạn hãy chẩn đoán vấn đề của 
+công ty này nằm ở đâu và đề xuất hướng giải quyết. 
+• Chẩn đoán vấn đề: Vấn đề của công ty nằm ở Văn hóa Tổ chức (Organizational 
+Culture). Công ty đã có Hạ tầng CNTT (phần mềm lưu trữ) và Cơ chế/Quy trình (quy 
+trình làm việc), nhưng công nghệ chỉ là điều kiện cần, không phải điều kiện đủ. Nhân 
+viên không chia sẻ vì văn hóa chưa tạo ra động lực hoặc niềm tin; họ có thể sợ mất lợi 
+thế cá nhân ("Tri thức là quyền lực") hoặc thiếu sự khích lệ,. 
+• Đề xuất hướng giải quyết: Dựa trên các giải pháp xây dựng văn hóa KM trong tài 
+liệu,: 
+    1. Thay đổi hệ thống khuyến khích: Thiết lập cơ chế khen thưởng (tài chính hoặc ghi 
+nhận công khai) cho việc chia sẻ tri thức và bài học thất bại (như ví dụ thưởng "Beenz" 
+hoặc tính điểm sử dụng hệ thống). 
+    2. Tích hợp vào nhân sự: Đưa chỉ tiêu chia sẻ tri thức vào đánh giá hiệu suất làm việc 
+và xét duyệt thăng tiến. 
+    3. Lãnh đạo làm gương: Ban lãnh đạo cần thể hiện sự ủng hộ rõ ràng và tham gia trực 
+tiếp vào việc chia sẻ để xây dựng niềm tin. 
+    4. Tạo Cộng đồng thực hành (COP): Khuyến khích các nhóm tự tổ chức để nhân viên 
+cảm thấy thoải mái hơn khi chia sẻ trong môi trường phi chính thức. 
+ 
+ 
+
+================================================================================

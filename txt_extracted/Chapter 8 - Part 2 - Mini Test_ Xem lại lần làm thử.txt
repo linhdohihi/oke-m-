@@ -1,0 +1,916 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức /  Week 13 - Chapter 8 (Con't)
+/  Chapter 8 - Part 2 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 29 October 2025, 11:34 AM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 29 October 2025, 11:58 AM
+Thời gian thực
+hiện
+24 phút 23 giây
+Điểm
+60,00/60,00
+Điểm
+10,00 trên 10,00 (100%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Hệ thống bài học kinh nghiệm (LLS) có mục tiêu cốt lõi là gì?
+a.
+Lưu trữ dữ liệu kỹ thuật phục vụ báo cáo định kỳ của tổ chức.
+b.
+Ghi lại và cung cấp các bài học giúp nhân viên giải quyết tình huống tương tự trong tương lai.
+
+c.
+Thay thế quá trình đào tạo bằng trí tuệ nhân tạo tự học.
+d.
+Xây dựng cơ sở tri thức dựa hoàn toàn trên chuẩn ngành quốc tế.
+Tại sao các tổ chức hiện đại ngày càng quan tâm đến ontology trong hệ thống ELS?
+a.
+Vì ontology làm giảm chi phí phần cứng trong quản trị dữ liệu.
+b.
+Vì ontology thay thế hoàn toàn vai trò của chuyên gia lĩnh vực.
+c.
+Vì ontology đơn giản hóa toàn bộ cấu trúc dữ liệu phi ngữ nghĩa.
+d.
+Vì ontology giúp mô hình hóa và kết nối các tri thức ẩn phức tạp.
+
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+1/17
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Theo định nghĩa của Weber et al. (2001), bài học kinh nghiệm là gì?
+a.
+Mô tả các giả thuyết học thuật dùng để xây dựng tri thức lý thuyết.
+b.
+Tri thức hoặc hiểu biết đạt được từ trải nghiệm, có thể tích cực hoặc tiêu cực.
+
+c.
+Chuỗi dữ liệu thuần túy được tổng hợp từ các phép đo định lượng.
+d.
+Quy trình kỹ thuật được chuẩn hóa và áp dụng lại trong nhiều tổ chức.
+Yếu tố “Participation” trong thiết kế HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) đề cập đến điều gì?
+a.
+Tỷ lệ chuyên gia chuyển việc hằng năm.
+b.
+Mức độ tự động hóa trong quá trình xác minh dữ liệu.
+c.
+Phạm vi mà hệ thống phản ánh mức độ tham gia của chuyên gia trong tổ chức.
+
+d.
+Số lượng người dùng truy cập cùng lúc vào hệ thống.
+Việc sử dụng các chuẩn như O*NET hay Library of Congress trong phát triển taxonomy có ý nghĩa gì?
+a.
+Giảm thiểu sự cần thiết của chuyên gia lĩnh vực.
+b.
+Bảo đảm tính bảo mật dữ liệu nhân viên.
+c.
+Loại bỏ hoàn toàn sự khác biệt ngữ nghĩa giữa các khái niệm.
+d.
+Giúp chuẩn hóa và hỗ trợ phân loại tri thức trong tổ chức.
+
+Mối quan hệ giữa taxonomy và semantic network là gì?
+a.
+Taxonomy mô tả hành vi người dùng; semantic network mô phỏng tri thức ẩn.
+b.
+Taxonomy mang tính mô phỏng, semantic network mang tính định lượng.
+c.
+Taxonomy chỉ tồn tại trong AI; semantic network chỉ áp dụng cho Web.
+d.
+Taxonomy dùng cấu trúc phân cấp; semantic network dùng cấu trúc mạng.
+
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+2/17
+
+================================================================================
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+Hệ thống quản trị tri thức chia sẻ tri thức ẩn chủ yếu được xây dựng để hỗ trợ điều gì?
+a.
+Các hệ thống quản trị tài nguyên doanh nghiệp.
+b.
+Các cộng đồng thực hành (Communities of Practice – CoPs).
+
+c.
+Các mạng truyền thông chuyên dụng cho tri thức công khai.
+d.
+Các quy trình quản lý dự án tập trung.
+Tại sao World Bank xem chia sẻ tri thức là yếu tố thiết yếu trong sứ mệnh “fighting poverty”?
+a.
+Vì tri thức có thể được bán lại như sản phẩm kinh tế.
+b.
+Vì tri thức được chia sẻ đúng lúc giúp nâng cao năng lực phát triển toàn cầu.
+
+c.
+Vì tri thức thay thế được nguồn vốn đầu tư truyền thống.
+d.
+Vì tri thức giúp kiểm soát chi tiêu và giảm chi phí điều hành.
+Bước “store the lesson” trong LLS liên quan đến hoạt động nào?
+a.
+Lập chỉ mục, định dạng và đưa bài học vào kho lưu trữ điện tử.
+
+b.
+Xác định quyền sở hữu trí tuệ của người đóng góp.
+c.
+Lọc bỏ những bài học có chứa dữ liệu nhạy cảm.
+d.
+Phân loại người dùng theo mức độ truy cập tri thức.
+Theo McDermott (2000), điều gì thúc đẩy con người tham gia vào CoPs?
+a.
+Lợi ích tài chính được quy đổi bằng điểm thưởng nội bộ.
+b.
+Yêu cầu từ chính sách đào tạo bắt buộc của tổ chức.
+c.
+Niềm đam mê chủ đề, giá trị nhận được từ cộng đồng và mối liên kết cảm xúc.
+
+d.
+Cơ hội thăng tiến được đảm bảo khi tham gia cộng đồng.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+3/17
+
+================================================================================
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ai là người chịu trách nhiệm xác minh bài học trước khi đưa vào LLS?
+a.
+Bộ phận pháp lý của tổ chức.
+b.
+Nhóm chuyên gia trong lĩnh vực liên quan (domain experts).
+
+c.
+Nhà quản lý hệ thống công nghệ thông tin.
+d.
+Người đóng góp bài học gốc.
+Tại sao các tổ chức như NASA, DOE hay Bộ Quốc phòng Mỹ đặc biệt quan tâm đến LLS?
+a.
+Vì họ cần giảm thiểu rủi ro tai nạn và thất bại có thể gây tổn thất nghiêm trọng.
+
+b.
+Vì họ phải đáp ứng yêu cầu pháp lý về chia sẻ tri thức quốc tế.
+c.
+Vì họ có nguồn ngân sách dư thừa để đầu tư vào công nghệ KM.
+d.
+Vì họ muốn thay thế toàn bộ nhân viên bằng hệ thống chuyên gia.
+Tại sao mức độ chi tiết (granularity) của taxonomy cần được cân bằng?
+a.
+Càng chi tiết thì tốc độ truy vấn càng chậm và dữ liệu càng khó bảo mật.
+b.
+Càng khái quát thì càng dễ tích hợp vào cơ sở dữ liệu quan hệ.
+c.
+Chi tiết thấp sẽ giúp giảm dung lượng lưu trữ.
+d.
+Quá chi tiết gây khó sử dụng; quá khái quát làm mất tính mô tả chính xác.
+
+Nếu hệ thống HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) cho thấy chỉ có ba chuyên gia trong một lĩnh vực trọng yếu, điều này hàm ý gì?
+a.
+Lĩnh vực này không quan trọng đối với tổ chức.
+b.
+Tổ chức cần tuyển hoặc đào tạo thêm chuyên gia trong lĩnh vực đó.
+
+c.
+Hệ thống đã bị lỗi dữ liệu cần được hiệu chỉnh.
+d.
+Các chuyên gia hiện tại phải đảm nhiệm thêm nhiệm vụ mới.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+4/17
+
+================================================================================
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 16
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 17
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Phương pháp “interactive collection” khác biệt ở điểm nào?
+a.
+Hệ thống máy tính hợp tác với tác giả để tạo ra bài học rõ ràng, có ý nghĩa.
+
+b.
+Người dùng tự biên soạn và xác thực nội dung bài học thủ công.
+c.
+Nhóm kiểm định trực tiếp viết lại toàn bộ bài học trước khi lưu trữ.
+d.
+Các nhà quản lý chỉnh sửa bài học theo tiêu chí kỹ thuật.
+Mục tiêu chính của các workshop tại Achmea là gì?
+a.
+Triển khai kiểm tra định kỳ về bảo mật thông tin.
+b.
+Duy trì kiến thức chuyên môn thống nhất và củng cố cảm giác gắn kết giữa các thành viên.
+
+c.
+Đánh giá định lượng năng lực từng nhân viên trong nhóm.
+d.
+Đào tạo kỹ thuật lập trình cho nhân viên mới.
+Một bài học được coi là “lesson learned” khi thỏa mãn điều kiện nào?
+a.
+Có tính quan trọng, chính xác, và áp dụng được trong thực tế.
+
+b.
+Có thể được trích dẫn trong các tài liệu tiêu chuẩn ngành.
+c.
+Có nguồn gốc từ các báo cáo nghiên cứu học thuật.
+d.
+Có giá trị lịch sử nhưng không nhất thiết còn phù hợp hiện nay.
+Đặc điểm nào sau đây phân biệt các hệ thống HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) khác nhau giữa các tổ chức?
+a.
+Mức độ tự động hóa và số lượng nhân viên IT.
+b.
+Mục đích triển khai, cách truy cập, phạm vi và phân loại năng lực.
+
+c.
+Cấu trúc phần cứng, tốc độ xử lý, dung lượng bộ nhớ.
+d.
+Độ chính xác của thuật toán tìm kiếm dữ liệu.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+5/17
+
+================================================================================
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một yếu tố quan trọng dẫn đến thành công của mô hình CoPs tại World Bank là gì?
+a.
+Hạn chế quyền tham gia của nhân viên mới để đảm bảo chất lượng tri thức.
+b.
+Việc loại bỏ hoàn toàn cấu trúc ma trận truyền thống.
+c.
+Sử dụng thuật toán phân cụm dữ liệu để gợi ý chủ đề thảo luận.
+d.
+Tri thức được gắn liền với hệ thống đánh giá hiệu suất hàng năm, khuyến khích chia sẻ.
+
+Bước “disseminate” trong quy trình LLS có mục tiêu chính là gì?
+a.
+Phổ biến và thúc đẩy việc tái sử dụng tri thức trong toàn tổ chức.
+
+b.
+Xóa bỏ các bài học cũ để giảm tải kho dữ liệu.
+c.
+Thống kê lượt xem và đánh giá chất lượng bài học.
+d.
+Phân quyền truy cập tùy cấp bậc nhân viên.
+CoPs khác với nhóm làm việc thông thường ở điểm nào?
+a.
+CoPs chỉ tồn tại khi có hợp đồng tài trợ cụ thể.
+b.
+CoPs có cơ cấu quản trị chính thức và mục tiêu ngắn hạn rõ ràng.
+c.
+CoPs được hình thành tự nhiên quanh lĩnh vực quan tâm chung, không bị ép buộc bởi cơ cấu tổ chức.
+
+d.
+CoPs luôn yêu cầu sự phê duyệt từ cấp lãnh đạo cấp cao trước khi thành lập.
+Theo mô hình của World Bank, “Thematic Groups (TGs)” có đặc điểm nào nổi bật?
+a.
+Là các tiểu ban cố định được bổ nhiệm bởi ban lãnh đạo cấp cao.
+b.
+Là các tổ chức phi lợi nhuận được cấp vốn độc lập từ chính phủ.
+c.
+Là nhóm tự nguyện của các cá nhân cùng đam mê một chủ đề và có thể bao gồm cả đối tác bên ngoài.
+
+d.
+Là mạng lưới đào tạo kỹ năng quản lý dự án xuyên quốc gia.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+6/17
+
+================================================================================
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Phương pháp “reactive collection” khác biệt ở điểm nào?
+a.
+Người dùng trực tiếp nhập liệu vào hệ thống không cần xác minh.
+b.
+Một bên thứ ba phỏng vấn người đóng góp và nhập bài học thay họ.
+
+c.
+Hệ thống tự động nhận dạng bài học thông qua từ khóa.
+d.
+Bài học được ghi nhận trong buổi họp sau hành động (after-action).
+Trong HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS), việc phát triển taxonomy tri thức có ý nghĩa gì?
+a.
+Đánh giá hiệu quả đào tạo thông qua chỉ số KPI.
+b.
+Mô hình hóa các mối quan hệ xã hội giữa nhân viên.
+c.
+Xây dựng cơ sở dữ liệu tài chính của doanh nghiệp.
+d.
+Giúp phân loại, chỉ mục hóa năng lực và kiến thức trong tổ chức.
+
+Tổ chức NSA xây dựng HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) của mình dựa trên tiêu chuẩn nào?
+a.
+Hệ thống O*NET của Bộ Lao động Hoa Kỳ.
+
+b.
+Chuẩn an ninh quốc phòng nội bộ.
+c.
+Khung năng lực IEEE toàn cầu.
+d.
+Quy tắc phân loại tri thức ISO/IEC 9000.
+“After-action collection” thường được sử dụng trong lĩnh vực nào?
+a.
+Giáo dục, nơi giáo viên phản hồi sau mỗi buổi giảng dạy.
+b.
+Quân sự, nơi bài học được thu thập sau khi kết thúc nhiệm vụ.
+
+c.
+Tài chính, nơi nhà đầu tư rút kinh nghiệm từ giao dịch.
+d.
+Y học, nơi dữ liệu được thu thập trong quá trình điều trị bệnh.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+7/17
+
+================================================================================
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong các phương thức phổ biến tri thức, “proactive dissemination” có ý nghĩa gì?
+a.
+Hệ thống tự động cập nhật dữ liệu học thuật bên ngoài vào kho.
+b.
+Người quản lý chủ động gửi bản tin bài học qua email định kỳ.
+c.
+Người học được yêu cầu truy cập bài học theo kế hoạch đào tạo.
+d.
+Hệ thống dự đoán khi nào người dùng sẽ cần và cung cấp bài học phù hợp trước.
+
+Phương pháp “passive collection” trong LLS mô tả điều gì?
+a.
+Hệ thống chủ động tìm kiếm bài học trong email.
+b.
+Người đóng góp tự gửi bài học qua biểu mẫu giấy hoặc web.
+
+c.
+Tổ chức thuê bên thứ ba để phỏng vấn chuyên gia.
+d.
+Bài học được tự động thu thập thông qua hệ thống AI.
+Động cơ phổ biến nhất khi tổ chức tìm kiếm chuyên gia thông qua HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) là gì?
+a.
+Tìm nguồn thông tin hoặc người có năng lực thực hiện nhiệm vụ.
+
+b.
+Tạo cơ sở dữ liệu để huấn luyện mô hình AI.
+c.
+Đánh giá hiệu suất làm việc của từng phòng ban.
+d.
+Xây dựng mô hình lương thưởng theo kỹ năng.
+“Active collection” trong LLS được hiểu như thế nào?
+a.
+Hệ thống quét tài liệu để tìm các bài học có chứa từ khóa đặc trưng.
+
+b.
+Hệ thống tự động phân loại bài học theo ngành nghề.
+c.
+Người dùng chủ động chia sẻ kinh nghiệm trong diễn đàn nội bộ.
+d.
+Tổ chức tổ chức hội thảo chuyên đề định kỳ để tổng hợp tri thức.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+8/17
+
+================================================================================
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trong SPuD (Skills Planning and Development), ai chịu trách nhiệm xác thực dữ liệu năng lực nhân viên?
+a.
+Bộ phận nhân sự trung ương.
+b.
+Hệ thống AI tự động đánh giá.
+c.
+Người giám sát trực tiếp (supervisor).
+
+d.
+Nhóm đào tạo nội bộ.
+Hệ thống LLS Eureka của Xerox có điểm đặc biệt gì trong quá trình xác minh?
+a.
+Xác minh dựa trên thống kê hành vi người sử dụng.
+b.
+Áp dụng quy trình hai giai đoạn: kiểm tra thực tế và phê duyệt trước khi phổ biến.
+
+c.
+Tự động loại bỏ các bài học trùng lặp mà không cần chuyên gia.
+d.
+Cho phép người dùng tự xác minh bài học trước khi đăng tải.
+Microsoft phát triển hệ thống HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) mang tên gì?
+a.
+ConnectHub – Human Expertise Portal.
+b.
+SPuD – Skills Planning and Development.
+
+c.
+CompBase – Competency Builder System.
+d.
+ExpertWeb – Knowledge Link Engine.
+Trong ngữ cảnh quản trị tri thức, ontology được hiểu là gì?
+a.
+Mô tả hình thức rõ ràng về các thực thể và mối quan hệ giữa chúng trong một lĩnh vực.
+
+b.
+Tập hợp các thuật toán xử lý ngôn ngữ tự nhiên nhằm phân tích dữ liệu văn bản.
+c.
+Cấu trúc mạng máy tính lưu trữ dữ liệu phi cấu trúc.
+d.
+Danh mục các quy tắc định lượng mô phỏng hành vi tri thức.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+9/17
+
+================================================================================
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Hệ thống định vị chuyên gia (HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS)) được phát triển nhằm mục đích chính nào?
+a.
+Thay thế hoàn toàn các phòng nhân sự trong việc tuyển dụng.
+b.
+Tìm kiếm và xác định nguồn vốn tri thức trong tổ chức.
+
+c.
+Lưu trữ dữ liệu kỹ thuật chi tiết về mọi nhân viên.
+d.
+Tự động hóa quy trình ra quyết định chiến lược của lãnh đạo.
+Theo Wiig (1993), cấp độ cao nhất trong phân loại năng lực chuyên môn là gì?
+a.
+Grand Master – chuyên gia đẳng cấp thế giới.
+
+b.
+Expert – chuyên gia trong một lĩnh vực cụ thể.
+c.
+Competent – thành thạo trong phạm vi hẹp.
+d.
+Proficient – hiểu biết trong lĩnh vực đã chọn.
+Theo quy trình của LLS, giai đoạn đầu tiên là gì?
+a.
+Thu thập các bài học kinh nghiệm để đưa vào hệ thống.
+
+b.
+Lưu trữ tri thức vào cơ sở dữ liệu cấu trúc.
+c.
+Phổ biến tri thức đến các nhóm người dùng.
+d.
+Kiểm tra tính hợp lệ của tri thức được chia sẻ.
+Điểm khác biệt cơ bản giữa taxonomy và ontology là gì?
+a.
+Taxonomy dùng trong AI; ontology dùng trong hệ thống thống kê.
+b.
+Taxonomy mang tính động; ontology mang tính tĩnh.
+c.
+Taxonomy nhóm các đối tượng theo đặc trưng; ontology biểu diễn mối quan hệ giữa chúng.
+
+d.
+Taxonomy định nghĩa luật suy luận; ontology chỉ tập trung vào dữ liệu thô.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+10/17
+
+================================================================================
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Phương thức truy cập phổ biến nhất của HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) trong doanh nghiệp là gì?
+a.
+Qua mạng Intranet nội bộ.
+
+b.
+Qua hệ thống đám mây công cộng.
+c.
+Bằng các ứng dụng di động mã nguồn mở.
+d.
+Thông qua mạng xã hội bên ngoài.
+Sự khác biệt của hệ thống HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) liên tổ chức như SAGE là gì?
+a.
+Có thể truy cập qua Web, kết nối giữa nhiều tổ chức khác nhau.
+
+b.
+Yêu cầu quyền truy cập bảo mật qua VPN nội bộ.
+c.
+Chỉ hoạt động trong phạm vi một bộ phận duy nhất.
+d.
+Sử dụng cơ sở dữ liệu tĩnh và đóng.
+Tại sao bước xác minh (verify) thường là nút thắt trong quá trình LLS?
+a.
+Vì các chuyên gia thường từ chối xác minh nội dung.
+b.
+Vì số lượng bài học được nhập quá ít để phân tích.
+c.
+Vì hệ thống không có công cụ hỗ trợ định dạng dữ liệu.
+d.
+Vì cần nhiều thời gian để kiểm tra tính chính xác, trùng lặp và liên quan.
+
+Hệ thống CONNEX của Hewlett-Packard có đặc điểm nổi bật nào?
+a.
+Cung cấp cơ sở dữ liệu tập trung chứa hồ sơ năng lực của nhân viên, có thể tìm kiếm đa tiêu chí.
+
+b.
+Sử dụng mạng phi tập trung giữa các nhóm nghiên cứu để trao đổi tri thức ẩn.
+c.
+Tập trung vào việc tự động hóa đào tạo thay vì xác định chuyên gia.
+d.
+Tích hợp dữ liệu từ các mạng xã hội bên ngoài để xếp hạng nhân viên.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+11/17
+
+================================================================================
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+Nhược điểm lớn của việc tái sử dụng ontology chuẩn có sẵn là gì?
+a.
+Không thể triển khai trên môi trường Web.
+b.
+Làm giảm tốc độ xử lý khi mở rộng quy mô.
+c.
+Người dùng khó hiểu các giả định ngầm và khác biệt giữa các phần tử.
+
+d.
+Hệ thống mất tính tương thích ngược với dữ liệu nội bộ.
+Lợi ích chính của việc sử dụng Web text data mining trong hệ thống định vị chuyên gia là gì?
+a.
+Tăng tính bảo mật của hồ sơ chuyên gia.
+b.
+Giảm lệ thuộc vào khai báo chủ quan của nhân viên.
+
+c.
+Giảm thời gian xác minh năng lực bằng phỏng vấn.
+d.
+Tự động loại bỏ các thông tin dư thừa trong mạng nội bộ.
+Hạn chế chính của phương pháp tự khai báo năng lực trong hồ sơ chuyên gia là gì?
+a.
+Thiếu khả năng tích hợp với các hệ thống ERP.
+b.
+Mất chi phí lưu trữ cao do kích thước tệp lớn.
+c.
+Không thể biểu diễn dữ liệu dưới dạng đồ thị tri thức.
+d.
+Kết quả bị lệch do nhận thức và động cơ cá nhân.
+
+Một trong những mục tiêu chiến lược của HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) trong doanh nghiệp là gì?
+a.
+Giảm thiểu chi phí duy trì hệ thống nhân sự.
+b.
+Tăng doanh số bán hàng ngắn hạn.
+c.
+Ghép năng lực nhân viên với vị trí công việc phù hợp.
+
+d.
+Tự động hóa quy trình kiểm toán tài chính.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+12/17
+
+================================================================================
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tổ chức Achmea Holding N.V. khuyến khích việc chia sẻ tri thức bằng cách nào?
+a.
+Tích hợp hệ thống CoP vào phần mềm nhân sự ERP.
+b.
+Mở rộng mạng xã hội doanh nghiệp ra công chúng.
+c.
+Cung cấp tiền thưởng cho mỗi bài viết được chia sẻ lên mạng nội bộ.
+d.
+Tổ chức các hội thảo chính thức giúp nhân viên gặp gỡ và tạo cảm giác cộng đồng.
+
+Các giai đoạn phát triển chính của một CoP là gì?
+a.
+Tổ chức, vận hành, chuẩn hóa, mở rộng, hợp nhất.
+b.
+Lập kế hoạch, khởi động, phát triển, duy trì, kết thúc.
+
+c.
+Thiết kế, đánh giá, tích hợp, chuyển giao, phục hồi.
+d.
+Hình thành, phân cấp, sáp nhập, mở rộng, tái cấu trúc.
+Tại sao LLS đôi khi tích hợp thêm nội dung đa phương tiện như âm thanh và video?
+a.
+Để tăng kích thước dữ liệu và đảm bảo tính toàn vẹn lưu trữ.
+b.
+Để minh họa rõ hơn các bài học quan trọng và tăng khả năng hiểu của người học.
+
+c.
+Để đảm bảo mỗi bài học có cấu trúc giống nhau.
+d.
+Để thay thế hoàn toàn văn bản bằng hình ảnh trực quan.
+Authority file đóng vai trò gì trong quản trị tri thức?
+a.
+Tự động tạo ra các nhóm chuyên môn dựa trên chủ đề.
+b.
+Kiểm soát từ vựng được dùng để bảo đảm các khái niệm được sử dụng nhất quán.
+
+c.
+Lưu trữ toàn bộ các bản sao của cơ sở dữ liệu tri thức nội bộ.
+d.
+Ghi nhận quyền sở hữu trí tuệ của từng tác giả tri thức.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+13/17
+
+================================================================================
+Câu hỏi 51
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 52
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 53
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 54
+Đúng
+Đạt điểm 1,00 trên 1,00
+Theo định nghĩa của Weber & Aha (2003), bài học kinh nghiệm là gì?
+a.
+Một đoạn văn bản mô tả chi tiết quy trình sản xuất kỹ thuật.
+b.
+Một tập hợp dữ liệu phi cấu trúc dùng để khai phá mẫu thống kê.
+c.
+Một thực thể tri thức thể hiện kinh nghiệm có thể áp dụng cho nhiệm vụ hoặc quyết định.
+
+d.
+Một mô hình định lượng mô phỏng hành vi tổ chức.
+Các hoạt động chính của Thematic Groups (TGs) tại World Bank bao gồm gì?
+a.
+Tạo bộ sưu tập tri thức, phổ biến thông tin, hỗ trợ nhóm công tác và huy động tài trợ.
+
+b.
+Kiểm định các báo cáo tài chính, quản lý rủi ro, và ban hành quy chuẩn pháp lý.
+c.
+Quản lý nhân sự nội bộ và kiểm soát tiến độ hợp đồng.
+d.
+Đánh giá các dự án đầu tư nước ngoài, thương lượng với chính phủ đối tác.
+Công nghệ nào thường được dùng để hỗ trợ giai đoạn lưu trữ bài học trong LLS?
+a.
+Mạng blockchain để bảo vệ tính toàn vẹn của dữ liệu.
+b.
+Cơ sở dữ liệu quan hệ, hướng đối tượng hoặc hệ thống quản lý tài liệu bán cấu trúc.
+
+c.
+Bộ lọc AI tự động học các mẫu tri thức từ văn bản.
+d.
+Mô hình đồ thị tri thức kết nối tri thức ngầm và tri thức hiện.
+Phương pháp “proactive collection” trong LLS có đặc điểm gì?
+a.
+Người quản lý chủ động yêu cầu nhân viên nộp báo cáo định kỳ.
+b.
+Hệ thống chuyên gia tự động phát hiện và đề xuất bài học từ nội dung được phân tích.
+
+c.
+Tổ chức thuê chuyên gia đánh giá các lỗi quy trình hàng quý.
+d.
+Các nhóm dự án tổ chức họp thường niên để tổng hợp kinh nghiệm.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+14/17
+
+================================================================================
+Câu hỏi 55
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 56
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 57
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 58
+Đúng
+Đạt điểm 1,00 trên 1,00
+Điều kiện tiên quyết để một hệ thống hỗ trợ chia sẻ tri thức ẩn thành công là gì?
+a.
+Nền tảng công nghệ có tốc độ xử lý cao.
+b.
+Quy trình kiểm duyệt nội dung tự động.
+c.
+Niềm tin và sự quen thuộc giữa các thành viên.
+
+d.
+Cấu trúc phân quyền truy cập nghiêm ngặt.
+Vì sao việc phát triển ontology trong tổ chức thường gặp khó khăn?
+a.
+Do sự khác biệt trong quan điểm giữa các nhóm chuyên môn.
+
+b.
+Do thiếu công cụ trực quan hóa dữ liệu tri thức.
+c.
+Do sự thay đổi liên tục của thuật toán phân cụm.
+d.
+Do thiếu tài nguyên phần cứng để huấn luyện mô hình dữ liệu.
+HỆ THỐNG ĐỊNH VỊ CHUYÊN GIA (ELS) giúp tổ chức giải quyết vấn đề nào trong quản trị tri thức?
+a.
+Chồng chéo giữa các quy trình đào tạo nội bộ.
+b.
+Quá tải thông tin đến từ hệ thống ERP.
+c.
+Thiếu dữ liệu định lượng về hành vi người dùng.
+d.
+Khoảng trống năng lực và khó khăn trong việc truy cập tri thức chuyên sâu.
+
+Một trong những giải pháp thường dùng để giảm chi phí xây dựng ontology là gì?
+a.
+Sử dụng mô hình học máy để tự động sinh ontology mới.
+b.
+Loại bỏ hoàn toàn các mối quan hệ phức tạp giữa các thực thể.
+c.
+Tái sử dụng ontology đã được phát triển bởi các tổ chức chuẩn hóa.
+
+d.
+Giới hạn số lượng khái niệm được định nghĩa trong mỗi lĩnh vực.
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+15/17
+
+================================================================================
+Câu hỏi 59
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 60
+Đúng
+Đạt điểm 1,00 trên 1,00
+Hệ thống Knowledge Bank của World Bank được thiết kế nhằm mục tiêu nào?
+a.
+Liên kết nhân viên, khách hàng và đối tác để tạo và chia sẻ tri thức toàn cầu.
+
+b.
+Giảm sự phụ thuộc vào các chuyên gia tư vấn bên ngoài.
+c.
+Tự động hóa toàn bộ quy trình tín dụng và quản lý dự án.
+d.
+Tập trung hóa dữ liệu tài chính và dự báo rủi ro đầu tư.
+Khó khăn trọng yếu trong việc phát triển hệ thống định vị chuyên gia là gì?
+a.
+Chuẩn hóa thuật toán tìm kiếm trong toàn bộ mạng nội bộ.
+b.
+Xây dựng chính xác một hệ thống phân loại tri thức hoặc ontology.
+
+c.
+Phân quyền truy cập chuyên gia theo cấu trúc tổ chức.
+d.
+Tối ưu hóa giao diện người dùng để truy vấn dữ liệu nhanh hơn.
+◄ Slides - Nhóm 12
+Chuyển tới...
+Slides - Nhóm 13 ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+16/17
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+GET SOCIAL
+      
+22:54 5/12/25
+Chapter 8 - Part 2 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2144268&cmid=688043&showall=1
+17/17
+
+================================================================================

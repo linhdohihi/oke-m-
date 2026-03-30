@@ -1,0 +1,916 @@
+Bảng Điều khiển / Các khoá học của tôi /  TIHT1122(125)_02-Quản trị tri thức
+/  Week 12 - Chapter 8 - Knowledge Sharing Systems /  Chapter 8 - Part 1 - Mini Test
+Bắt đầu vào lúc
+Wednesday, 22 October 2025, 11:08 AM
+Trạng thái
+Đã xong
+Kết thúc lúc
+Wednesday, 22 October 2025, 11:30 AM
+Thời gian thực
+hiện
+21 phút 53 giây
+Điểm
+60,00/60,00
+Điểm
+10,00 trên 10,00 (100%)
+Câu hỏi 1
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 2
+Đúng
+Đạt điểm 1,00 trên 1,00
+Yếu tố nào giúp hệ thống chia sẻ tri thức trở thành công cụ cạnh tranh chiến lược?
+a.
+Tốc độ xử lý dữ liệu cao hơn các hệ thống CNTT truyền thống.
+b.
+Cấu trúc lưu trữ phi tập trung giúp tiết kiệm chi phí đầu tư.
+c.
+Giao diện thân thiện hỗ trợ tự động hóa quy trình nội bộ.
+d.
+Khả năng biến tri thức cá nhân thành tài sản tập thể có thể khai thác lâu dài.
+
+Cơ sở dữ liệu thực hành tốt (Best Practices Database) có đặc điểm khác biệt gì so với hệ thống bài học kinh nghiệm?
+a.
+Coi trọng phản hồi cá nhân hơn là chuẩn mực ngành.
+b.
+Được xây dựng chủ yếu từ dữ liệu thử nghiệm thất bại.
+c.
+Chỉ lưu trữ các kết quả thành công, không bao gồm thất bại.
+
+d.
+Tập trung mô tả quá trình ra quyết định thay vì kết q   uả thực thi.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+1/17
+
+================================================================================
+Câu hỏi 3
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 4
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 5
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 6
+Đúng
+Đạt điểm 1,00 trên 1,00
+Hệ thống chia sẻ tri thức có thể được xem như một “thị trường tri thức” vì lý do nào?
+a.
+Sự trao đổi tri thức cần đạt đến mức thanh khoản đủ lớn để vận hành hiệu quả.
+
+b.
+Hệ thống đảm bảo tất cả người dùng đều được thưởng khi chia sẻ tri thức.
+c.
+Các nhà quản lý có thể định giá tri thức theo cung cầu thị trường.
+d.
+Tri thức chỉ được chia sẻ khi có quy định pháp lý ràng buộc.
+Khái niệm “critical volume” trong bối cảnh hệ thống chia sẻ tri thức đề cập đến yếu tố nào?
+a.
+Số lượng tối thiểu người chia sẻ và người tìm kiếm tri thức để tạo ra trao đổi hiệu quả.
+
+b.
+Mức độ tin cậy trung bình của các kho tri thức trực tuyến.
+c.
+Dung lượng dữ liệu tối đa mà hệ thống có thể xử lý đồng thời.
+d.
+Mức lưu lượng truy cập cần thiết để duy trì máy chủ hoạt động.
+Tại sao mạng lưới “liên kết yếu” lại khó được ghi nhận trong hệ thống chia sẻ tri thức?
+a.
+Vì họ thường hoạt động ngoài khuôn khổ quy trình chính thức.
+b.
+Vì họ ít có cơ hội tiếp cận các tài nguyên quan trọng trong tổ chức.
+c.
+Vì tri thức họ chia sẻ thường không có giá trị thương mại rõ ràng.
+d.
+Vì đóng góp của họ thường ngắn hạn và khó có thể đo lường theo các chỉ số truyền thống.
+
+Điểm khác biệt giữa cơ sở dữ liệu thực hành tốt và cơ sở dữ liệu bài học kinh nghiệm là gì?
+a.
+Mức độ bảo mật – yêu cầu xác thực sinh trắc học khi truy cập.
+b.
+Cấu trúc lưu trữ – sử dụng định dạng phi tuyến thay vì dạng cây phân cấp.
+c.
+Nguồn gốc nội dung – từ chuẩn mực ngành thay vì trải nghiệm thực tế.
+
+d.
+Quy trình cập nhật – phụ thuộc hoàn toàn vào AI thay vì con người.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+2/17
+
+================================================================================
+Câu hỏi 7
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 8
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 9
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 10
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khái niệm “active presentation of relevant information” mô tả điều gì?
+a.
+Thuật toán phân tích hành vi người dùng để gợi ý tài liệu tương tự.
+b.
+Khả năng của hệ thống tự động cung cấp thông tin phù hợp đúng lúc và đúng nơi.
+
+c.
+Cơ chế bảo mật chủ động nhằm giới hạn quyền truy cập theo thời gian.
+d.
+Quy trình lập chỉ mục dữ liệu thủ công cho từng loại tri thức.
+Trong hệ thống chia sẻ tri thức, điều kiện tiên quyết để “chủ sở hữu tri thức” sẵn lòng chia sẻ là gì?
+a.
+Họ phải kiểm soát được phạm vi và điều kiện chia sẻ.
+
+b.
+Họ được đảm bảo quyền sở hữu trí tuệ tuyệt đối.
+c.
+Họ nhận được phần thưởng tài chính ngay lập tức.
+d.
+Họ có quyền xóa tri thức sau khi truyền đạt xong.
+Tại sao hệ thống chia sẻ tri thức thường được xây dựng trên nền tảng Web?
+a.
+Vì Web độc lập nền tảng, cho phép truy cập thống nhất từ nhiều hệ thống khác nhau.
+
+b.
+Vì Web giúp giảm chi phí triển khai phần cứng.
+c.
+Vì Web đảm bảo tính bảo mật cao hơn mạng nội bộ.
+d.
+Vì Web có thể mã hóa mọi loại tri thức ở dạng phi cấu trúc.
+Trong mô hình “knowledge markets”, tại sao người tìm kiếm tri thức cần hệ thống hỗ trợ?
+a.
+Vì họ thiếu quyền truy cập vào các kho dữ liệu bí mật của công ty.
+b.
+Vì họ thường không biết toàn bộ nguồn chia sẻ khả dụng trong tổ chức.
+
+c.
+Vì họ không thể tự liên hệ với chuyên gia trong cùng phòng ban.
+d.
+Vì họ không có khả năng đánh giá độ chính xác của tri thức.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+3/17
+
+================================================================================
+Câu hỏi 11
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 12
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 13
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 14
+Đúng
+Đạt điểm 1,00 trên 1,00
+Cơ sở dữ liệu báo cáo sự cố (Incident Report Database) chủ yếu được dùng trong bối cảnh nào?
+a.
+Điều tra an toàn và phân tích nguyên nhân tai nạn để phòng ngừa rủi ro.
+
+b.
+Tạo lập kho tri thức để chia sẻ các mô hình đào tạo thành công.
+c.
+Đánh giá kết quả học tập trong các chương trình đào tạo nhân viên.
+d.
+Xây dựng quy trình tuyển dụng nội bộ dựa trên dữ liệu ứng viên.
+Vì sao sự xuất hiện của Internet và World Wide Web được xem là cuộc cách mạng trong chia sẻ tri thức?
+a.
+Chúng cho phép trao đổi thông tin đa phương tiện trên phạm vi toàn cầu.
+
+b.
+Chúng thay thế hoàn toàn mọi hình thức giao tiếp đồng bộ truyền thống.
+c.
+Chúng loại bỏ nhu cầu lưu trữ dữ liệu cục bộ trong tổ chức.
+d.
+Chúng đảm bảo mọi thông tin được mã hóa bằng cùng một chuẩn.
+Hệ thống quản lý tài liệu trong chia sẻ tri thức giúp thực hiện điều gì?
+a.
+Hợp nhất, phân loại và tổ chức thông tin để lưu trữ và truy xuất một cách thống nhất.
+
+b.
+Xây dựng các thuật toán khai phá tri thức nâng cao.
+c.
+Lọc bỏ tri thức ẩn không thể biểu diễn bằng văn bản.
+d.
+Tự động tạo ra tri thức mới từ dữ liệu phi cấu trúc.
+Tại sao việc “giảm thiểu kỹ thuật hóa tri thức ban đầu” lại quan trọng trong thiết kế hệ thống chia sẻ tri thức?
+a.
+Vì nó giúp hệ thống được triển khai nhanh, tiết kiệm chi phí và thích ứng dễ hơn.
+
+b.
+Vì nó làm tăng độ chính xác của dữ liệu thu thập.
+c.
+Vì nó cho phép dữ liệu được mã hóa phức tạp hơn.
+d.
+Vì nó giảm thiểu yêu cầu bảo mật nội dung tri thức.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+4/17
+
+================================================================================
+Câu hỏi 15
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 16
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 17
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 18
+Đúng
+Đạt điểm 1,00 trên 1,00
+Trước thời đại thông tin, hình thức giao tiếp hai chiều chủ yếu dựa vào phương tiện nào?
+a.
+Điện thoại, cho phép trao đổi thông tin đồng bộ giữa các bên.
+
+b.
+Điện báo, với tốc độ truyền tải vượt trội hơn thư tay.
+c.
+Radio, truyền âm thanh đến nhiều người nghe cùng lúc.
+d.
+Máy fax, giúp chuyển giao hình ảnh và chữ viết tức thời.
+Hội chứng “not-invented-here” (NIH) thường gây ra hệ quả nào trong tổ chức?
+a.
+Làm suy yếu động lực tái sử dụng tri thức có sẵn từ nội bộ và bên ngoài.
+
+b.
+Gia tăng sự phụ thuộc vào tri thức từ các đối tác bên ngoài.
+c.
+Khiến nhân viên tập trung chia sẻ kinh nghiệm hơn là sáng tạo mới.
+d.
+Giảm nhu cầu thiết lập hệ thống khuyến khích chia sẻ tri thức.
+Hệ thống bài học kinh nghiệm (Lessons Learned System – LLS) nhằm đạt mục tiêu chính nào?
+a.
+Ghi lại và cung cấp bài học giúp nhân viên giải quyết tình huống tương tự sau này.
+
+b.
+Lưu trữ các báo cáo định kỳ của các dự án đã hoàn thành.
+c.
+Xây dựng nền tảng chia sẻ tài liệu cho nhóm kỹ sư phần mềm.
+d.
+Phát triển thuật toán học máy để dự đoán sự cố tiềm ẩn.
+Thiếu sự hỗ trợ từ lãnh đạo có thể dẫn đến hệ quả nào đối với hệ thống chia sẻ tri thức?
+a.
+Nhân viên không thấy giá trị hoặc động lực để đóng góp tri thức.
+
+b.
+Làm mất cân bằng giữa tri thức ẩn và tri thức hiện.
+c.
+Tăng nguy cơ rò rỉ dữ liệu ra bên ngoài tổ chức.
+d.
+Gây xung đột giữa các bộ phận trong việc phân quyền truy cập.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+5/17
+
+================================================================================
+Câu hỏi 19
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 20
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 21
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 22
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ví dụ về việc nhận biết “ai là người đi xe đạp giỏi” được dùng để minh họa điều gì?
+a.
+Năng lực cá nhân không liên quan đến chia sẻ tri thức.
+b.
+Mọi kỹ năng đều phải được định lượng hóa để đo lường chính xác.
+c.
+Hệ thống cần loại bỏ tri thức không thể chuyển thành dữ liệu.
+d.
+Dù không thể mã hóa kỹ năng, việc biết ai sở hữu nó vẫn hữu ích trong tổ chức.
+
+Hệ thống chia sẻ tri thức được thiết kế chủ yếu nhằm mục tiêu nào?
+a.
+Kiểm soát quyền truy cập dữ liệu theo cấp độ phân quyền.
+b.
+Giúp người dùng chia sẻ tri thức ẩn và hiện một cách có tổ chức.
+
+c.
+Đo lường hiệu quả đổi mới trong các dự án nghiên cứu.
+d.
+Tự động sinh tri thức mới dựa trên dữ liệu tổ chức.
+Việc khai thác phản hồi người dùng đóng vai trò gì trong quá trình vận hành hệ thống chia sẻ tri thức?
+a.
+Giúp duy trì, cập nhật và đảm bảo tính liên quan của tri thức trong tổ chức.
+
+b.
+Cho phép người dùng điều chỉnh cấu trúc dữ liệu gốc của hệ thống.
+c.
+Tự động xác minh tính pháp lý của các nội dung chia sẻ.
+d.
+Hạn chế việc sao chép tri thức ra bên ngoài mạng nội bộ.
+Hệ thống cảnh báo (Alert System) ban đầu được thiết kế với mục đích gì?
+a.
+Phân tích xu hướng đầu tư của đối thủ cạnh tranh.
+b.
+Đánh giá kết quả của các chiến dịch marketing trong thời gian thực.
+c.
+Truyền tải nhanh thông tin về các sự cố đã hoặc sắp xảy ra.
+
+d.
+Gửi báo cáo nội bộ cho các nhà quản lý cấp cao.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+6/17
+
+================================================================================
+Câu hỏi 23
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 24
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 25
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 26
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một tiêu chí quan trọng để một bài học được xem là “lesson learned” là gì?
+a.
+Phải có giá trị tác động thực tế và tính chính xác kỹ thuật cao.
+
+b.
+Phải được rút ra từ các mô hình học máy hoặc thống kê.
+c.
+Phải có sự xác nhận của chuyên gia trong lĩnh vực học thuật.
+d.
+Phải được công bố chính thức trên các tạp chí chuyên ngành.
+Web page (trang Web) được đặc trưng bởi yếu tố nào sau đây?
+a.
+Là công cụ phần mềm được dùng để lập chỉ mục và tìm kiếm dữ liệu.
+b.
+Là tệp văn bản chứa toàn bộ mã nguồn của hệ thống mạng nội bộ.
+c.
+Là giao diện điều khiển để cấu hình máy chủ từ xa.
+d.
+Là tài liệu siêu đa phương tiện (hypermedia) thể hiện nội dung lưu trữ tại máy chủ Web.
+
+Hệ thống chia sẻ tri thức đóng vai trò như thế nào trong việc bảo tồn “corporate memory”?
+a.
+Giới hạn quyền truy cập tri thức theo thời gian sử dụng.
+b.
+Ngăn chặn hoàn toàn sự rời bỏ nhân viên bằng chính sách thưởng.
+c.
+Giúp duy trì khả năng truy cập tri thức tổ chức ngay cả khi nguồn gốc ban đầu không còn.
+
+d.
+Chỉ sao lưu dữ liệu giao dịch kinh doanh hàng ngày.
+Trong hệ thống chia sẻ tri thức, điều gì giúp cân bằng lợi ích giữa người chia sẻ và người tìm kiếm tri thức?
+a.
+Chính sách thưởng cố định theo lượt truy cập.
+b.
+Cơ chế trao đổi công bằng (fair exchange).
+
+c.
+Cơ chế giám sát hành vi chia sẻ.
+d.
+Mô hình xếp hạng dựa trên điểm tín nhiệm.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+7/17
+
+================================================================================
+Câu hỏi 27
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 28
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 29
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 30
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một đặc điểm then chốt của hệ thống chia sẻ tri thức là khả năng gì?
+a.
+Phân tích hành vi người dùng nhằm tối ưu chiến lược marketing.
+b.
+Tổ chức, lưu trữ và phân phối tri thức của tổ chức theo cách có thể truy cập rộng rãi.
+
+c.
+Bảo mật tuyệt đối bằng mã hóa phi đối xứng để ngăn truy cập ngoài.
+d.
+Tự động chuyển đổi tri thức ẩn thành tri thức hiện qua AI.
+Ví dụ về công ty RS Information Systems, Inc. minh họa cho điều gì?
+a.
+Hệ thống KM chỉ phát huy hiệu quả trong các tập đoàn lớn.
+b.
+Việc chia sẻ tri thức chỉ có ý nghĩa trong môi trường nghiên cứu học thuật.
+c.
+Doanh nghiệp nhỏ vẫn có thể đạt lợi thế cạnh tranh nhờ chia sẻ thực hành tốt.
+
+d.
+Các tổ chức nhỏ nên tránh đầu tư vào công nghệ KM phức tạp.
+Vì sao “phần thưởng cá nhân hóa” được xem là rào cản đối với việc chia sẻ tri thức?
+a.
+Vì chúng chỉ khuyến khích thành tích cá nhân thay vì sự hợp tác.
+
+b.
+Vì chúng buộc các nhóm phải chia sẻ dữ liệu định kỳ theo quy định.
+c.
+Vì chúng làm tri thức trở nên ít chính xác hơn khi được lan truyền.
+d.
+Vì chúng làm giảm khả năng duy trì trí nhớ tổ chức.
+Vai trò chính của HTML trong hệ thống chia sẻ tri thức là gì?
+a.
+Xác thực quyền truy cập của người dùng trên mạng nội bộ.
+b.
+Quản lý quá trình truyền tải gói dữ liệu giữa các máy khách.
+c.
+Cung cấp chuẩn biểu diễn giúp trình duyệt hiển thị văn bản và đồ họa.
+
+d.
+Mã hóa dữ liệu người dùng trước khi tải lên máy chủ.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+8/17
+
+================================================================================
+Câu hỏi 31
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 32
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 33
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 34
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một hệ thống chia sẻ tri thức hiệu quả cần được tích hợp như thế nào trong tổ chức?
+a.
+Phải hoạt động tách biệt hoàn toàn để đảm bảo bảo mật tri thức.
+b.
+Phải thay thế toàn bộ hệ thống thông tin truyền thống của doanh nghiệp.
+c.
+Phải kết nối liền mạch với các công cụ CNTT hiện có trong luồng công việc.
+
+d.
+Phải giới hạn quyền truy cập của người dùng vào từng phân hệ riêng biệt.
+Điểm khác biệt chính giữa hệ thống chia sẻ tri thức và hệ thống quản lý tài liệu truyền thống là gì?
+a.
+Hệ thống quản lý tài liệu tập trung nhiều hơn vào truyền thông đa phương tiện.
+b.
+Hệ thống chia sẻ tri thức hỗ trợ tái sử dụng và học tập, không chỉ lưu trữ.
+
+c.
+Hệ thống quản lý tài liệu không cho phép người dùng truy cập song song.
+d.
+Hệ thống chia sẻ tri thức chủ yếu phục vụ mục đích bảo mật dữ liệu.
+Một trong những nguyên nhân khiến hệ thống chia sẻ tri thức thất bại là gì?
+a.
+Thiếu khả năng mã hóa dữ liệu hình ảnh và âm thanh.
+b.
+Lưu trữ tri thức ở dạng văn bản dài gây khó hiểu và khó tái sử dụng.
+
+c.
+Cho phép người dùng tự do đăng tải thông tin mà không kiểm duyệt.
+d.
+Áp dụng thuật toán tìm kiếm không phù hợp với ngữ cảnh tri thức.
+Tại sao một số nhân viên e ngại khi đóng góp vào kho tri thức tổ chức?
+a.
+Vì hệ thống không có cơ chế xác nhận quyền tác giả.
+b.
+Vì lãnh đạo thường không khuyến khích đóng góp tự nguyện.
+c.
+Vì họ cho rằng tri thức của mình không đủ giá trị để ghi nhận.
+d.
+Vì họ sợ thông tin bị trích xuất sai ngữ cảnh hoặc gây rủi ro bảo mật.
+
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+9/17
+
+================================================================================
+Câu hỏi 35
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 36
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 37
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 38
+Đúng
+Đạt điểm 1,00 trên 1,00
+Khía cạnh nào khiến chia sẻ tri thức trở thành nền tảng cho tổ chức học tập?
+a.
+Giảm sự phụ thuộc vào chuyên gia bằng cách loại bỏ tri thức ẩn.
+b.
+Tự động hóa hoàn toàn việc thu nhận tri thức ngầm.
+c.
+Cho phép tái sử dụng tri thức cá nhân vào bối cảnh tổ chức.
+
+d.
+Bắt buộc nhân viên ghi chép lại toàn bộ kinh nghiệm làm việc.
+Tầm quan trọng của việc cho phép người dùng tải xuống tài liệu từ trang Web là gì?
+a.
+Là cơ chế bảo vệ bản quyền tài liệu trên nền tảng Web.
+b.
+Là yếu tố cốt lõi giúp cộng đồng tri thức dễ dàng chia sẻ và tái sử dụng thông tin.
+
+c.
+Là cách duy nhất để giảm tải cho máy chủ trong hệ thống lớn.
+d.
+Là yêu cầu bắt buộc của mọi trình duyệt để đảm bảo bảo mật dữ liệu.
+Yếu tố nào thường dẫn đến mất mát tri thức của doanh nghiệp?
+a.
+Các nhà quản lý thiếu kỹ năng phân tích thống kê.
+b.
+Quá trình sao lưu dữ liệu gặp lỗi phần cứng.
+c.
+Nhân viên rời đi khiến tri thức ẩn bị thất thoát.
+
+d.
+Cấu trúc phân cấp tổ chức quá phức tạp.
+Vì sao việc xây dựng “trí tuệ tổ chức đơn khối” (monolithic organizational memory) thường thất bại?
+a.
+Vì nó dễ gây ra tình trạng trùng lặp dữ liệu không kiểm soát.
+b.
+Vì tri thức cần được tách ngữ cảnh bởi người tạo và tái gắn ngữ cảnh bởi người dùng.
+
+c.
+Vì nó không thể đáp ứng yêu cầu bảo mật nội bộ.
+d.
+Vì bộ nhớ này yêu cầu đầu tư hạ tầng lưu trữ quá lớn.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+10/17
+
+================================================================================
+Câu hỏi 39
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 40
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 41
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 42
+Đúng
+Đạt điểm 1,00 trên 1,00
+Điều kiện cần để đạt “critical volume” trong chia sẻ tri thức là gì?
+a.
+Có hệ thống khuyến khích hợp lý cho cả người tạo và người tìm kiếm tri thức.
+
+b.
+Có cơ sở hạ tầng CNTT đủ mạnh để xử lý tất cả truy vấn cùng lúc.
+c.
+Có lượng dữ liệu văn bản lớn để huấn luyện hệ thống AI nội bộ.
+d.
+Có sự đồng thuận của ban lãnh đạo trong việc mở kho tri thức ra bên ngoài.
+Hệ quả của việc tổ chức không có sự ghi nhận hoặc có những phần thưởng xứng đáng cho chuyên gia khi chia sẻ tri thức là gì?
+a.
+Giảm mức độ tham gia của người nắm giữ tri thức trong thị trường tri thức nội bộ.
+
+b.
+Giúp hệ thống tri thức duy trì tính độc lập giữa các bộ phận.
+c.
+Tăng cường động lực đổi mới trong các nhóm nghiên cứu.
+d.
+Gia tăng tốc độ hình thức hóa tri thức ẩn thành tri thức hiện.
+URL trong môi trường Web có chức năng gì?
+a.
+Ghi nhận lịch sử truy cập và thống kê hành vi người dùng.
+b.
+Lưu trữ tạm thời nội dung tài liệu trước khi gửi đến máy chủ.
+c.
+Xác định địa chỉ và giao thức để trình duyệt truy cập tài nguyên mong muốn.
+
+d.
+Kiểm tra định dạng tệp tin trước khi hiển thị trên trình duyệt.
+Trong hệ thống WWW, “Server” được hiểu là gì?
+a.
+Nút mạng dùng để phân phối địa chỉ IP cho các máy khách.
+b.
+Thiết bị trung gian mã hóa dữ liệu trước khi gửi đi trên mạng.
+c.
+Trình duyệt được cài đặt để hiển thị thông tin dạng đồ họa.
+d.
+Máy tính lưu trữ và cung cấp các tài nguyên thông tin cho người dùng truy cập.
+
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+11/17
+
+================================================================================
+Câu hỏi 43
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 44
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 45
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 46
+Đúng
+Đạt điểm 1,00 trên 1,00
+Lợi ích nổi bật của giao tiếp không đồng bộ (asynchronous) trong chia sẻ tri thức là gì?
+a.
+Loại bỏ hoàn toàn nhu cầu xác minh độ tin cậy của nguồn thông tin.
+b.
+Đảm bảo nội dung tri thức được truyền tải liên tục theo thời gian thực.
+c.
+Cho phép các bên trao đổi ý tưởng mà không cần có mặt cùng thời điểm.
+
+d.
+Giảm thiểu sai sót nhờ các kênh truyền dữ liệu có độ trễ thấp.
+Một rào cản kỹ thuật thường gặp nhưng ít được chú ý trong chia sẻ tri thức là gì?
+a.
+Thiếu phân quyền truy cập dựa trên vai trò chuyên môn.
+b.
+Lưu trữ tri thức ở dạng văn bản thiếu cấu trúc gây khó đọc và khó diễn giải.
+
+c.
+Sử dụng cùng một hệ mã hóa cho tất cả định dạng dữ liệu.
+d.
+Không hỗ trợ giao diện đồ họa cho người dùng cuối.
+Đặc điểm nổi bật của báo cáo sự cố so với các hệ thống chia sẻ tri thức khác là gì?
+a.
+Ghi nhận cả các ví dụ tích cực nhằm minh họa cho thực hành tốt.
+b.
+Chủ yếu được dùng để đánh giá mức độ hài lòng của khách hàng.
+c.
+Tập trung vào việc phân tích chiến lược của toàn ngành thay vì tổ chức.
+d.
+Mô tả chi tiết sự kiện cùng nguyên nhân nhưng thường không kèm khuyến nghị.
+
+Trong một hệ thống quản lý tài liệu, “repository” đóng vai trò gì?
+a.
+Cấu phần bảo mật chống thất thoát tri thức nội bộ.
+b.
+Công cụ phân tích dữ liệu phi cấu trúc phục vụ khai phá tri thức.
+c.
+Cơ chế phân quyền truy cập dữ liệu dựa trên vai trò người dùng.
+d.
+Kho lưu trữ điện tử trung tâm với nhiều điểm truy cập khác nhau.
+
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+12/17
+
+================================================================================
+Câu hỏi 47
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 48
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 49
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 50
+Đúng
+Đạt điểm 1,00 trên 1,00
+Một tổ chức được xem là “learning organization” khi nào?
+a.
+Khi có đội ngũ chuyên trách thu thập dữ liệu định kỳ.
+b.
+Khi hệ thống chia sẻ tri thức cho phép chia sẻ và tái sử dụng tri thức liên tục.
+
+c.
+Khi mọi hoạt động vận hành đều được số hóa hoàn toàn.
+d.
+Khi nhân viên chỉ học tập qua các khóa đào tạo chính thức.
+Chức năng cốt lõi của một hệ thống chia sẻ tri thức là gì?
+a.
+Tăng năng lực cạnh tranh của tổ chức thông qua việc cải thiện cách quản lý tri thức.
+
+b.
+Tự động thay thế các quy trình ra quyết định của con người.
+c.
+Xây dựng kho dữ liệu phi cấu trúc để huấn luyện mô hình AI.
+d.
+Giảm chi phí vận hành bằng cách loại bỏ nhân tố con người.
+Sự khác nhau giữa các hệ thống chia sẻ tri thức được mô tả theo những yếu tố nào?
+a.
+Nguồn gốc nội dung, phạm vi ứng dụng, kết quả mô tả và định hướng.
+
+b.
+Định dạng lưu trữ, loại ngôn ngữ sử dụng và giao diện hiển thị.
+c.
+Quy trình thu thập dữ liệu, độ chính xác, và số lượng người dùng.
+d.
+Mức độ phân quyền truy cập, tốc độ truy xuất và hình thức bảo mật.
+Theo định nghĩa của NASA, “bài học kinh nghiệm” được coi là gì?
+a.
+Cơ sở dữ liệu thuần túy phục vụ lưu trữ báo cáo khoa học.
+b.
+Hệ thống hướng dẫn giúp chuẩn hóa quy trình trong mọi trường hợp.
+c.
+Tri thức hoặc hiểu biết có được thông qua trải nghiệm, dù thành công hay thất bại.
+
+d.
+Tập hợp các quy tắc mô phỏng quy trình thiết kế kỹ thuật phức tạp.
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+13/17
+
+================================================================================
+Câu hỏi 51
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 52
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 53
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 54
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ví dụ “tri thức về cách đi xe đạp” được dùng để minh họa điều gì?
+a.
+Có những loại tri thức không thể hoặc không nên được mã hóa thành tri thức hiện.
+
+b.
+Các quy trình cơ học đều có thể biểu diễn bằng công thức toán học.
+c.
+Tri thức chỉ có giá trị khi được ghi lại dưới dạng văn bản cụ thể.
+d.
+Tri thức kỹ năng cần được chuyển đổi hoàn toàn thành quy tắc số hóa.
+Theo nguyên tắc thiết kế, khi nỗ lực để “hình thức hóa tri thức” quá cao thì nên xử lý thế nào?
+a.
+Nên phân loại tri thức đó thành tri thức ngầm không thể truy xuất.
+b.
+Nên loại bỏ tri thức đó khỏi hệ thống để tránh nhiễu dữ liệu.
+c.
+Nên sử dụng mô hình học sâu để tái tạo tri thức đó.
+d.
+Nên để tri thức đó ở dạng phi chính thức và do con người mô tả.
+
+Khái niệm “Client” trong môi trường Web có ý nghĩa như thế nào?
+a.
+Là người dùng chịu trách nhiệm biên tập và xác thực tri thức.
+b.
+Là máy tính gửi yêu cầu truy cập thông tin đến máy chủ qua mạng.
+
+c.
+Là cơ sở dữ liệu chứa các bản ghi của người sử dụng.
+d.
+Là chương trình tạo lập nội dung để lưu trữ trên máy chủ.
+Điểm hạn chế lớn nhất của điện thoại trong việc chia sẻ tri thức là gì?
+a.
+Không thể kết nối được với nhiều người trong cùng một cuộc gọi.
+b.
+Không đảm bảo được tính bảo mật của nội dung trao đổi.
+c.
+Không thể ghi âm hay lưu trữ nội dung cuộc nói chuyện.
+d.
+Không truyền tải được thông tin phi ngôn ngữ như tài liệu, hình ảnh hay sơ đồ.
+
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+14/17
+
+================================================================================
+Câu hỏi 55
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 56
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 57
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 58
+Đúng
+Đạt điểm 1,00 trên 1,00
+Ứng dụng mở rộng gần đây của hệ thống cảnh báo là gì?
+a.
+Phát hiện gian lận trong quy trình chia sẻ dữ liệu.
+b.
+Ghi nhận và xử lý tự động khi có lỗi phần mềm phát sinh.
+c.
+Cung cấp thông tin tích cực như cơ hội tài trợ hoặc thành công công nghệ.
+
+d.
+Phân loại người dùng theo hành vi tìm kiếm tri thức.
+Bước đầu tiên trong quá trình thiết kế hệ thống chia sẻ tri thức là gì?
+a.
+Xây dựng thuật toán suy luận tự động hóa quy trình ra quyết định.
+b.
+Loại bỏ các tài liệu cũ để giảm tải cho hệ thống.
+c.
+Thu thập và tổ chức có hệ thống thông tin, tri thức từ nhiều nguồn khác nhau trong tổ chức.
+
+d.
+Chuẩn hóa toàn bộ dữ liệu hiện có theo cùng một định dạng.
+Khái niệm “corporate memory” được hiểu chính xác nhất là gì?
+a.
+Bộ sưu tập tri thức được tạo ra từ khách hàng và nhà cung cấp.
+b.
+Tổng hợp tài sản trí tuệ bao gồm cả tri thức ẩn và tri thức hiện của tổ chức.
+
+c.
+Danh mục các tài liệu quy trình vận hành tiêu chuẩn của công ty.
+d.
+Hệ thống cơ sở dữ liệu chứa toàn bộ hồ sơ hoạt động của doanh nghiệp.
+Tại sao việc tích hợp hệ thống chia sẻ tri thức với các công cụ CNTT hiện có lại cần thiết?
+a.
+Vì hệ thống mới thường không tương thích với công cụ truyền thống.
+b.
+Vì dữ liệu tổ chức thường bị trùng lặp giữa các bộ phận.
+c.
+Vì việc tách rời hệ thống sẽ giúp bảo mật thông tin hơn.
+d.
+Vì con người có xu hướng tránh các nỗ lực phải hình thức hóa tri thức thủ công.
+
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+15/17
+
+================================================================================
+Câu hỏi 59
+Đúng
+Đạt điểm 1,00 trên 1,00
+Câu hỏi 60
+Đúng
+Đạt điểm 1,00 trên 1,00
+Tại sao việc chia sẻ tri thức ẩn lại khó đạt được so với tri thức hiện?
+a.
+Vì tri thức ẩn không mang lại giá trị thương mại rõ ràng.
+b.
+Vì tri thức ẩn phụ thuộc vào bối cảnh, khó chuẩn hóa và ghi chép.
+
+c.
+Vì tri thức ẩn không thể biểu diễn bằng bất kỳ ngôn ngữ nào.
+d.
+Vì tri thức ẩn luôn bị giới hạn bởi bản quyền pháp lý.
+Một trong những rào cản phổ biến khiến hệ thống chia sẻ tri thức thất bại là gì?
+a.
+Không gắn kết được con người, quy trình và công nghệ trong cùng bối cảnh.
+
+b.
+Quá tập trung vào các chỉ số định lượng thay vì nội dung thực chất.
+c.
+Không có cơ chế lọc tri thức dư thừa trong kho dữ liệu.
+d.
+Dựa quá nhiều vào việc lưu trữ dữ liệu hình ảnh thay vì văn bản.
+◄ Câu hỏi - Nhóm 11
+Chuyển tới...
+Câu hỏi - Nhóm 12 ►
+Hệ thống LMS/LCMS cho Blended learning tại Đại học Kinh tế Quốc dân
+INFO
+CỔNG THÔNG TIN ĐÀO TẠO
+daihocchinhquy.neu.edu.vn
+myaep.neu.edu.vn
+vlvh.neu.edu.vn
+thacsi.neu.edu.vn
+CONTACT US
+207 Giải phóng
+ Phone : +84 36280280
+ E-mail : ask-cait@neu.edu.vn
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+16/17
+
+================================================================================
+Copyright © 2020 - Developed by CAIT@neu. Powered by Moodle
+Data retention summary
+Get the mobile app
+GET SOCIAL
+      
+22:53 5/12/25
+Chapter 8 - Part 1 - Mini Test: Xem lại lần làm thử
+https://lms.neu.edu.vn/mod/quiz/review.php?attempt=2134865&cmid=686483&showall=1
+17/17
+
+================================================================================
